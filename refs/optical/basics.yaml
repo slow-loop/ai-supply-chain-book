@@ -1,0 +1,101 @@
+# basics.md 新增的出處（../../refs.yaml 沒有的）。格式同 refs.yaml。
+
+nvidia-devblog-vera-rubin-pod-20260316:
+  who: "NVIDIA 技術部落格"
+  title: "NVIDIA Vera Rubin POD: Seven Chips, Five Rack-Scale Systems, One AI Supercomputer"
+  date: "2026-03-16（2026-08-21 修改）"
+  level: "一手"
+  url: "https://developer.nvidia.com/blog/nvidia-vera-rubin-pod-seven-chips-five-rack-scale-systems-one-ai-supercomputer/"
+  clip: "clippings/web/nvidia-devblog-vera-rubin-pod-NVL576-NVL1152-20260317.md"
+glennklockwood-gtc2026-recap-20260323:
+  who: "Glenn K. Lockwood 部落格（GTC 2026 主題演講投影片截圖）"
+  title: "GTC 2026 recap"
+  date: "2026-03-23"
+  level: "一手（投影片畫面）"
+  url: "https://blog.glennklockwood.com/2026/03/gtc-2026-recap.html"
+  clip: "clippings/web/GlennKlockwood-GTC2026回顧-202603.md"
+broadcom-fy26q1-call-20260304:
+  who: "Broadcom 法說逐字稿（The Motley Fool）"
+  title: "Broadcom (AVGO) Q1 2026 Earnings Call Transcript"
+  date: "2026-03-04"
+  level: "公司說"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/03/04/broadcom-avgo-q1-2026-earnings-call-transcript/"
+  clip: "clippings/web/Fool-Broadcom-FY26Q1法說逐字稿-20260304.md"
+broadcom-fy26q2-call-20260603:
+  who: "Broadcom 法說逐字稿（AlphaStreet）"
+  title: "Broadcom Inc (AVGO) Q2 2026 Earnings Call Transcript"
+  date: "2026-06-03"
+  level: "公司說"
+  url: "https://news.alphastreet.com/broadcom-inc-avgo-q2-2026-earnings-call-transcript/"
+  clip: "clippings/web/Alphastreet-Broadcom-FY26Q2法說逐字稿-20260603.md"
+sth-hotchips2026-rubin-nvl72:
+  who: "ServeTheHome（轉貼 NVIDIA Hot Chips 2026 投影片）"
+  title: "NVIDIA Vera Rubin NVL72 Rack at Hot Chips 2026"
+  date: "2026-08-24"
+  level: "一手（投影片，經媒體轉貼）"
+  url: "https://www.servethehome.com/nvidia-vera-rubin-nvl72-rack-at-hot-chips-2026/"
+  clip: "clippings/web/ServeTheHome-HotChips2026-VeraRubin-NVL72-202608.md"
+tomshardware-ianbuck-qa-20260323:
+  who: "Tom's Hardware（NVIDIA Ian Buck 記者問答逐字稿）"
+  title: "GTC 2026: Ian Buck press Q&A transcript"
+  date: "2026-03-23"
+  level: "公司說"
+  url: "https://www.tomshardware.com/tech-industry/gc-2026-press-q-and-a-transcript"
+  clip: "clippings/web/TomsHardware-GTC2026-IanBuck記者問答逐字稿-20260323.md"
+futurum-marvell-investor-day-20261009:
+  who: "Futurum（看 Marvell 投資人日簡報寫）"
+  title: "Marvell Investor Day 2026 Targets $80B FY 2031 Revenue With Custom Silicon and Optics"
+  date: "2026-10-09"
+  level: "第三方"
+  url: "https://futurumgroup.com/insights/marvell-investor-day-2026-targets-80b-fy-2031-revenue-with-custom-silicon-and-optics/"
+  clip: "clippings/web/Futurum-Marvell投資人日2026-scale-up光學-20261009.md"
+ascii-ohara-nvl576-20260810:
+  who: "週刊アスキー（大原雄介，轉貼 NVIDIA 在 2026 VLSI 研討會短課程的投影片）"
+  title: "NVIDIA Rubin Ultra開発中止の真相！180層CoWoS-Lの歪曲トラブルと、急造ラックNVL576に透ける苦肉の策"
+  date: "2026-08-10"
+  level: "一手（NVIDIA 投影片，經媒體轉貼）；文字部分 KOL"
+  url: "https://weekly.ascii.jp/elem/000/004/426/4426042/"
+  clip: "clippings/web/ASCII-大原雄介-RubinUltra開發中止傳聞-NVL576急造-20260810.md"
+ascii-ohara-nvl576-p3-20260810:
+  who: "週刊アスキー（大原雄介，同一篇第 3 頁，轉貼 NVIDIA VLSI 2026 短課程投影片）"
+  title: "NVIDIA Rubin Ultra開発中止の真相！（3 頁）"
+  date: "2026-08-10"
+  level: "一手（NVIDIA 投影片，經媒體轉貼）；文字部分 KOL"
+  url: "https://weekly.ascii.jp/elem/000/004/426/4426042/3/"
+  clip: "clippings/web/ASCII-大原雄介-RubinUltra開發中止傳聞-NVL576急造-p3-20260810.md"
+broadcom-pr-oci-msa-20260312:
+  who: "Broadcom 新聞稿"
+  title: "Optical Scale-up Consortium Established to Create an Open Specification for AI Infrastructure"
+  date: "2026-03-12"
+  level: "一手"
+  url: "https://www.broadcom.com/company/news/product-releases/optical-scale-up-consortium-established-to-create-an-open-specification-for-ai-infrastructure"
+  clip: "clippings/web/broadcom-pr-OCI-MSA光學scale-up聯盟-20260312.md"
+
+fool-maxlinear-q1-20260423:
+  who: "MaxLinear 法說逐字稿（Motley Fool，第三方轉錄）"
+  title: "MaxLinear Q1 2026 Earnings Call Transcript"
+  date: '2026-04-23'
+  level: "第三方轉錄"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/04/23/maxlinear-mxl-q1-2026-earnings-transcript"
+  clip: clippings/web/Fool-MaxLinear-2026Q1法說逐字稿-20260423.md
+youtube-marvell-investor-day-20261006:
+  who: "Marvell 投資人日（YouTube 自動字幕，未校對，無說話人）"
+  title: "Marvell Investor Day 2026"
+  date: '2026-10-06'
+  level: "自動字幕（yt-dlp-subs，未校對）"
+  url: "https://www.youtube.com/watch?v=GHrxV4xB1Cw"
+  clip: clippings/web/YouTube-Marvell-投資人日2026逐字稿自動字幕-20261006.md
+fugle-winway-20260514:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "穎崴 法說會備忘錄"
+  date: '2026-05-14'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-6515-2026-05-14"
+  clip: clippings/web/富果-穎崴-法說備忘錄-20260514.md
+fugle-winway-20260526:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "穎崴 法說會備忘錄"
+  date: '2026-05-26'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-6515-2026-05-26"
+  clip: clippings/web/富果-穎崴-法說備忘錄-20260526.md

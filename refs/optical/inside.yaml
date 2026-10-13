@@ -1,0 +1,93 @@
+# inside.md 新增的出處。格式同 ../../refs.yaml。
+pmc-cpo-liquid-cooling-20250514:
+  who: 中國科學院微電子研究所等（Frontiers of Optoelectronics 論文）
+  title: Simulation and experimental investigation of liquid-cooling thermal management for high-bandwidth co-packaged optics
+  date: '2025-05-14'
+  level: 一手
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12078904/
+  clip: clippings/web/PMC-FOE論文-CPO液冷冷板模擬與實驗-20250514.md
+scn-tsmc-cpo-bottleneck-20260904:
+  who: Supercomputing News
+  title: "TSMC: Co-Packaged Optics Bottleneck Is Lasers, Fiber, Test"
+  date: '2026-09-04'
+  level: 媒體報
+  url: https://www.supercomputing.news/emerging/co-packaged-optics-bottleneck-tsmc-lasers-fiber-test
+  clip: clippings/web/SupercomputingNews-台積電CPO瓶頸雷射光纖測試-2026.md
+trendforce-tsmc-sipho-20260831:
+  who: TrendForce（轉述鏡週刊、科技新報）
+  title: "[News] TSMC: SoIC, CoWoS to Drive 50× Compute by 2029; Silicon Photonics to Top 50% of Transceiver Market by 2027"
+  date: '2026-08-31'
+  level: 第三方
+  url: https://www.trendforce.com/news/2026/08/31/news-tsmc-soic-cowos-drive-50x-compute-by-2029-silicon-photonics-to-top-50-of-transceiver-market-by-2027/
+  clip: clippings/web/trendforce-tsmc-soic-cowos-sipho-20260831.md
+trendforce-coupe-fau-equip-20260916:
+  who: TrendForce（付費報告摘要）
+  title: "2026 New CPO Battleground: TSMC's COUPE Roadmap Signals Opportunities for FAU Coupling Equipment"
+  date: '2026-09-16'
+  level: 第三方
+  url: https://www.trendforce.com/research/download/RP260916WI
+  clip: clippings/web/trendforce-coupe-fau-equipment-abstract-20260916.md
+tomshardware-cpo-foundry-20260803:
+  who: Tom's Hardware
+  title: Co-Packaged Optics (CPO) foundry roadmaps — breaking down TSMC, Intel, Samsung, and GlobalFoundries' approach to next-generation scale-up connectivity
+  date: '2026-08-03'
+  level: 媒體報
+  url: https://www.tomshardware.com/tech-industry/artificial-intelligence/co-packaged-optics-cpo-foundry-roadmaps-breaking-down-tsmc-intel-samsung-and-globalfoundries-approach-to-next-generation-scale-up-connectivity
+  clip: clippings/web/TomsHardware-CPO-foundry-roadmaps-20260803.md
+technews-coupe-forum-20260514:
+  who: 科技新報
+  title: 藉由光電整合，台積電揭示從 CPO 封裝到矽光子 COUPE 技術布局
+  date: '2026-05-14'
+  level: 媒體報
+  url: https://technews.tw/?p=1555446
+  clip: clippings/web/TechNews-台積電從CPO封裝到COUPE技術布局-20260514.md
+trendforce-pic-capacity-20260708:
+  who: TrendForce（轉述工商時報引法人）
+  title: "[News] TSMC PIC Capacity Seen Surging to 25K Wafers/Month by 2028; NVIDIA, Broadcom Eyed as Early COUPE Customers"
+  date: '2026-07-08'
+  level: 第三方
+  url: https://www.trendforce.com/news/2026/07/08/news-tsmc-pic-capacity-seen-surging-to-25k-wafersmonth-by-2028-nvidia-broadcom-eyed-as-early-coupe-customers/
+  clip: clippings/web/trendforce-tsmc-pic-capacity-coupe-customers-20260708.md
+udn-ms-cpo-yield-20260611:
+  who: 經濟日報（轉述摩根士丹利）
+  title: 一場2,000萬台的泡泡幻滅？大摩驚爆 CPO 製造端良率低至20%
+  date: '2026-06-11'
+  level: 媒體報
+  url: https://money.udn.com/money/story/5607/9560490
+  clip: clippings/web/經濟日報-大摩CPO製造良率低至20%-20260611.md
+tsmc-ectc2025-boe:
+  who: 台積電（ECTC 2025 論文摘要）
+  title: Broadband Optical Engine System Integration by Wafer Level Process in HPC/AI Era
+  date: '2025-05'
+  level: 一手
+  url: https://ieeexplore.ieee.org/document/11038017
+  clip: clippings/web/ieee-11038017-document-page-20261011.md
+stt-ofc2026-cpo-panel-2026:
+  who: SimpleTechTrend（整理演講）
+  title: "OFC 2026 Panel: Is CPO Ready for AI? NVIDIA, Broadcom, Meta"
+  date: '2026-03'
+  level: KOL
+  url: https://www.simpletechtrend.com/en/post/ofc2026-cpo-ai-pipeline-integration-deep-dive-nvidia-broadcom-meta-en
+  clip: clippings/web/SimpleTechTrend-OFC2026-CPO座談NVIDIA博通Meta-2026.md
+stt-meta-reliability-2026:
+  who: SimpleTechTrend（整理演講）
+  title: "OFC 2026: Meta on CPO Reliability and AI Scale-Up"
+  date: '2026-03'
+  level: KOL
+  url: https://www.simpletechtrend.com/en/post/ofc2026-meta-cpo-reliability-deep-dive-en
+  clip: clippings/web/SimpleTechTrend-Meta-OFC2026-CPO可靠度-2026.md
+
+investing-soitec-fy27q1-20260723:
+  who: "Soitec 法說逐字稿（Investing.com，第三方轉錄）"
+  title: "Soitec FY27 Q1 Earnings Call Transcript"
+  date: '2026-07-23'
+  level: "第三方轉錄（頁首有 AI 摘要）"
+  url: "https://www.investing.com/news/transcripts/earnings-call-transcript-soitec-tops-q1-2027-guidance-as-photonics-demand-surges-93CH-4807998"
+  clip: clippings/web/Investing-Soitec-FY27Q1法說逐字稿-20260723.md
+fool-globalfoundries-q1-20260505:
+  who: "格芯法說逐字稿（Motley Fool，第三方轉錄）"
+  title: "GlobalFoundries Q1 2026 Earnings Call Transcript"
+  date: '2026-05-05'
+  level: "第三方轉錄"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/05/05/globalfoundries-gfs-q1-2026-earnings-transcript"
+  clip: clippings/web/Fool-GlobalFoundries-2026Q1法說逐字稿-20260505.md

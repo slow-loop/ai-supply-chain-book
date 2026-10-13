@@ -1,0 +1,587 @@
+# alternatives.md 新增的出處。格式同 ../../refs.yaml。
+
+nextplatform-xpo-20260417:
+  who: The Next Platform
+  title: Bechtolsheim & Friends Breathe Life Into Pluggable Optics One Last Time
+  date: '2026-04-17'
+  level: 媒體報
+  url: https://www.nextplatform.com/connect/2026/04/17/bechtolsheim-friends-breathe-life-into-pluggable-optics-one-last-time/5218123
+  clip: clippings/web/NextPlatform-XPO插拔式最後一搏-20260417.md
+fundaai-cioe-20260916:
+  who: FundaAI（Substack）
+  title: 'Research|Optics: CIOE Takeaway - 2026 Orders Extend into 2027, Supply Determines Who Delivers First'
+  date: '2026-09-16'
+  level: 第三方
+  url: https://fundaai.substack.com/p/researchoptics-cioe-takeaway-2026
+  clip: clippings/web/FundaAI-CIOE觀察訂單延至2027供給決定交付-202609.md
+marvell-blog-arat-2026:
+  who: Marvell 部落格
+  title: 'Ara T: Improving AI ROI with DSPs'
+  date: '2026'
+  level: 公司說
+  url: https://www.marvell.com/blogs/ara-t-improving-ai-roi-with-dsps.html
+  clip: clippings/web/Marvell部落格-AraT發射端DSP-2026.md
+ieee-eps-lpo-202603:
+  who: IEEE EPS Photonics TC（作者來自 Celestial AI、Cisco）
+  title: Linear Pluggable Optics – An Overview (V2)
+  date: 2026-03
+  level: 第三方
+  url: https://eps.ieee.org/wp-content/uploads/2026/03/Linear-Pluggable-Optics_V2-UPDATED.pdf
+  clip: clippings/web/IEEE-EPS-線性插拔光學概覽V2-202603.md
+gazettabyte-ofc2026-lpo-20260409:
+  who: Gazettabyte
+  title: OFC Reflections – Part 2
+  date: '2026-04-09'
+  level: 第三方
+  url: https://gazettabyte.com/ofc-reflections-part-2/
+  clip: clippings/web/Gazettabyte-OFC2026回顧2-LPO-LRO-20260409.md
+cisco-pr-g300-lpo-20260210:
+  who: Cisco 新聞稿
+  title: Cisco Announces New Silicon One G300, Advanced Systems and Optics to Power and Scale AI Data Centers for the Agentic Era
+  date: '2026-02-10'
+  level: 公司說
+  url: https://investor.cisco.com/files/doc_news/Cisco-Announces-New-Silicon-One-G300-Advanced-Systems-and-Optics-to-Power-and-Scale-AI-Data-Centers-for-the-Agentic-Era-2026.pdf
+  clip: clippings/web/Cisco新聞稿-G300與LPO-20260210.md
+arista-pr-7060xe7-20260609:
+  who: Arista 新聞稿
+  title: Arista Introduces Next-Generation 1.6Terabit Portfolio for AI Fabrics
+  date: '2026-06-09'
+  level: 公司說
+  url: https://www.arista.com/en/company/news/press-release/24102-pr-20260609
+  clip: clippings/web/Arista新聞稿-7060XE7-1.6T與LPO-20260609.md
+nextplatform-broadcom-cpo-20251017:
+  who: The Next Platform
+  title: The Third Time Will Be The Charm For Broadcom Switch Co-Packaged Optics
+  date: '2025-10-17'
+  level: 媒體報
+  url: https://www.nextplatform.com/2025/10/17/the-third-time-will-be-the-charm-for-broadcom-switch-co-packaged-optics/
+  clip: clippings/web/NextPlatform-Broadcom第三代CPO每埠功耗-20251017.md
+arista-xpo-whitepaper-202603:
+  who: Arista 白皮書
+  title: 'XPO: Redefining Pluggable Optics for AI Networking'
+  date: 2026-03
+  level: 公司說
+  url: https://www.arista.com/assets/data/pdf/Whitepapers/XPO-Whitepaper.pdf
+  clip: clippings/web/Arista白皮書-XPO重新定義插拔式光學-202603.md
+arista-pr-xpo-20260311:
+  who: Arista 新聞稿
+  title: Arista Announces XPO High Density Liquid Cooled Pluggable Optics
+  date: '2026-03-11'
+  level: 公司說
+  url: https://www.arista.com/en/company/news/press-release/23697-pr-20260311
+  clip: clippings/web/Arista新聞稿-XPO-MSA成立-20260311.md
+cninfo-innolight-irm-20260823:
+  who: 中際旭創（巨潮資訊網）
+  title: 投資者關係活動記錄表（2026-08-23）
+  date: '2026-08-23'
+  level: 公司說
+  url: http://static.cninfo.com.cn/finalpage/2026-08-23/1225493952.PDF
+  clip: clippings/web/巨潮-中際旭創-投資者關係活動記錄-20260823.md
+cninfo-innolight-irm-20260712:
+  who: 中際旭創（巨潮資訊網）
+  title: 投資者關係活動記錄表（2026-07-12）
+  date: '2026-07-12'
+  level: 公司說
+  url: http://static.cninfo.com.cn/finalpage/2026-07-12/1225420582.PDF
+  clip: clippings/web/巨潮-中際旭創-投資者關係活動記錄-20260712.md
+cninfo-innolight-irm-20260728:
+  who: 中際旭創（巨潮資訊網）
+  title: 投資者關係活動記錄表（2026-07-28）
+  date: '2026-07-28'
+  level: 公司說
+  url: http://static.cninfo.com.cn/finalpage/2026-07-28/1225445792.PDF
+  clip: clippings/web/巨潮-中際旭創-投資者關係活動記錄-20260728.md
+cninfo-eoptolink-irm-20260912:
+  who: 新易盛（巨潮資訊網）
+  title: 投資者關係活動記錄表（2026-09-12）
+  date: '2026-09-12'
+  level: 公司說
+  url: http://static.cninfo.com.cn/finalpage/2026-09-12/1225562013.PDF
+  clip: clippings/web/巨潮-新易盛-投資者關係活動記錄-20260912.md
+cninfo-eoptolink-irm-20260720:
+  who: 新易盛（巨潮資訊網）
+  title: 投資者關係活動記錄表（2026-07-20）
+  date: '2026-07-20'
+  level: 公司說
+  url: http://static.cninfo.com.cn/finalpage/2026-07-20/1225434243.PDF
+  clip: clippings/web/巨潮-新易盛-投資者關係活動記錄-20260720.md
+fibermall-upo-npo-20260918:
+  who: FiberMall 部落格
+  title: FiberMall Analyzes the UPO NPO Framework for 224G and 6.4T Optical Interconnect
+  date: '2026-09-18'
+  level: 第三方
+  url: https://www.fibermall.com/blog/?p=20322
+  clip: clippings/web/FiberMall部落格-UPO-NPO框架與功耗估算-20260918.md
+lightcounting-npo-202605:
+  who: LightCounting
+  title: NPO is pursuing an optimal balance between modularity and integration
+  date: 2026-05
+  level: 第三方
+  url: https://www.lightcounting.com/newsletter/en/may-2026-npo-is-pursuing-an-optimal-balance-between-modularity-and-integration-445
+  clip: clippings/web/LightCounting-NPO模組化與整合-202605.md
+convergedigest-micas-cpo-2025:
+  who: Converge Digest
+  title: Micas Networks Launches 51.2T CPO Switch with Broadcom’s Tomahawk 5 Chip
+  date: '2025'
+  level: 媒體報
+  url: https://convergedigest.com/micas-networks-launches-51-2t-cpo-switch-with-broadcoms-tomahawk-5-chip/
+  clip: clippings/web/ConvergeDigest-Micas-51.2T-CPO交換器-2025.md
+broadcom-davisson-briefing-202510:
+  who: Broadcom 簡報
+  title: TH6-Davisson Launch Briefing
+  date: 2025-10
+  level: 公司說
+  url: https://docs.broadcom.com/doc/enabling-ai-infrastructure-davisson-briefing
+  clip: clippings/web/Broadcom簡報-Davisson-CPO-202510.md
+convergedigest-shainer-hoti-202608:
+  who: Converge Digest
+  title: 'Hot Interconnects: NVIDIA’s Gilad Shainer Maps AI Network Architecture'
+  date: 2026-08
+  level: 媒體報
+  url: https://convergedigest.com/hot-interconnects-nvidia-gilad-shainer-gigascale-ai-factory-network-architecture/
+  clip: clippings/web/ConvergeDigest-HotInterconnects-NVIDIA-Shainer-202608.md
+lightwave-lpo-20250722:
+  who: Lightwave
+  title: 'Overcoming Linear Pluggable Optics (LPO) deployment challenges: From standards to scale'
+  date: '2025-07-22'
+  level: 第三方
+  url: https://www.lightwaveonline.com/home/article/55304830/overcoming-linear-pluggable-optics-lpo-deployment-challenges-from-standards-to-scale
+  clip: clippings/web/Lightwave-LPO部署挑戰-20250722.md
+allweather-nomura-dsp-202609:
+  who: AllWeatherFinance（野村專家會議紀要英譯）
+  title: 'Nomura Optical Communications Electronic Chip Experts Meeting: 1.6T supply is the main bottleneck'
+  date: 2026-09
+  level: 第三方
+  url: https://allweatherfinance.com/nomura-optical-communications-electronic-chip-experts-meeting-1-6t-supply-is-the-main-bottleneck-and-the-shortage-will-last-until-at-least-the-second-half-of-2027/
+  clip: clippings/web/AllWeatherFinance-野村光通訊電晶片專家會議英譯-202609.md
+convergedigest-bechtolsheim-20251104:
+  who: Converge Digest
+  title: 'Arista’s Andy Bechtolsheim: Pluggables Still Reign as AI Drives Next Wave of 1.6T and 3.2T'
+  date: '2025-11-04'
+  level: 媒體報
+  url: https://convergedigest.com/aristas-andy-bechtolsheim-pluggables-still-reign-as-ai-drives-next-wave-of-1-6t-and-3-2t/
+  clip: clippings/web/ConvergeDigest-Bechtolsheim插拔式仍主流-2025.md
+tomshardware-optical-battle-20260723:
+  who: Tom's Hardware
+  title: Inside optical and the battle for scale – how the AI industry is racing to integrate photonic interconnects
+  date: '2026-07-23'
+  level: 媒體報
+  url: https://www.tomshardware.com/tech-industry/inside-optical-and-the-battle-for-scale-how-the-ai-industry-is-racing-to-integrate-photonic-interconnects
+  clip: clippings/web/TomsHardware-inside-optical-battle-for-scale-20260723.md
+marvell-pr-16t-dsp-202603:
+  who: Marvell 新聞稿
+  title: Marvell Ushers In the 1.6T Era with Expanded Optical DSP Platform Portfolio
+  date: '2026-03-12'
+  level: 一手
+  url: https://investor.marvell.com/news-events/press-releases/detail/1013/marvell-ushers-in-the-1-6t-era-with-expanded-optical-dsp-platform-portfolio-redefining-ai-data-center-end-to-end-connectivity
+  clip: clippings/web/Marvell新聞稿-1.6T光DSP產品線擴充AraT-202603.md
+marvell-blog-xpo-20260316:
+  who: Marvell 部落格
+  title: Marvell Joins XPO MSA To Accelerate Innovation in AI Optical Modules
+  date: '2026-03-16'
+  level: 公司說
+  url: https://www.marvell.com/blogs/marvell-joins-xpo-msa-to-accelerate-innovation-in-ai-optical-modules.html
+  clip: clippings/web/Marvell部落格-加入XPO-MSA-20260316.md
+stockstar-xpo-20260414:
+  who: 證券之星
+  title: CPO太遠，可插拔太擠，XPO憑什麼成了AI算力的第三條路？
+  date: '2026-04-14'
+  level: 媒體報
+  url: https://stock.stockstar.com/SS2026041400026019.shtml
+  clip: clippings/web/證券之星-XPO第三條路-20260414.md
+futuriom-arista-xpo-202603:
+  who: Futuriom
+  title: Why Arista's New Optical Transceiver Is a Big Deal
+  date: 2026-03
+  level: 媒體報
+  url: https://www.futuriom.com/articles/news/why-aristas-new-optical-transceiver-is-a-big-deal/2026/03
+  clip: clippings/web/Futuriom-Arista-XPO-202603.md
+coherent-pr-ofc2026-20260317:
+  who: Coherent 新聞稿
+  title: Coherent Unveils Breakthrough AI-Scale Optical Innovations and Industry Leadership at OFC 2026
+  date: '2026-03-17'
+  level: 一手
+  url: https://www.coherent.com/news/press-releases/coherent-ai-scale-optical-innovations-ofc-2026
+  clip: clippings/web/coherent-pr-ai-scale-ofc2026-20260317.md
+networkworld-arista-xpo-202603:
+  who: Network World
+  title: Arista targets AI data centers with new liquid cooled pluggable optic module
+  date: 2026-03
+  level: 媒體報
+  url: https://www.networkworld.com/article/4144556/arista-targets-ai-data-centers-with-new-liquid-cooled-pluggable-optic-module.html
+  clip: clippings/web/NetworkWorld-Arista-XPO液冷模組-202603.md
+sixrackunits-xpo-20260401:
+  who: Six Rack Units（Substack）
+  title: 'Why now? Arista’s XPO: 100s of liquid-cooled TB/s per rack unit'
+  date: '2026-04-01'
+  level: KOL
+  url: https://sixrackunits.substack.com/p/why-now-aristas-xpo-100s-of-liquid
+  clip: clippings/web/SixRackUnits-為何現在XPO-20260401.md
+bullfincher-marvell-fy27q2-20260827:
+  who: Bullfincher（Marvell 法說逐字稿）
+  title: Marvell Technology Earnings Call Transcript Q2 FY2027
+  date: '2026-08-27'
+  level: 公司說
+  url: https://bullfincher.io/companies/marvell-technology/earnings-call/fy2027-q2
+  clip: clippings/web/Bullfincher-Marvell-FY27Q2法說-20260827.md
+eoptolink-pr-npo-20260313:
+  who: 新易盛新聞稿（TNGlobal 轉載）
+  title: Eoptolink Unveils High-Density 6.4T NPO Solution at OFC 2026
+  date: '2026-03-13'
+  level: 公司說
+  url: https://technode.global/prnasia/eoptolink-unveils-high-density-6-4t-npo-solution-at-ofc-2026/
+  clip: clippings/web/新易盛新聞稿-6.4T-NPO-OFC2026-20260313.md
+lightcounting-cpo-npo-20260723:
+  who: LightCounting
+  title: 'Research Note: Co-Packaged and Near-Packaged Optics (CPO/NPO), July 2026'
+  date: '2026-07-23'
+  level: 第三方
+  url: https://www.lightcounting.com/research-note/july-2026-co-packaged-and-near-packaged-optics-cponpo-451
+  clip: clippings/web/LightCounting-CPO-NPO-July2026-20260723.md
+newphotonics-pr-npo-20260113:
+  who: NewPhotonics 新聞稿
+  title: NewPhotonics Introduces Industry-First Serviceable Near-Packaged Optics (NPO) Chiplet Solution with Interoperability for 1.6T
+  date: '2026-01-13'
+  level: 公司說
+  url: https://www.prnewswire.com/news-releases/newphotonics-introduces-industry-first-serviceable-near-packaged-optics-npo-chiplet-solution-with-interoperability-for-1-6t-302658421.html
+  clip: clippings/web/NewPhotonics新聞稿-可維修NPO-20260113.md
+marketbeat-maxlinear-q2-20260723:
+  who: MarketBeat（MaxLinear 法說逐字稿）
+  title: MaxLinear Q2 2026 Earnings Results and Report
+  date: '2026-07-23'
+  level: 公司說
+  url: https://www.marketbeat.com/earnings/reports/2026-7-23-maxlinear-inc-stock/
+  clip: clippings/web/MarketBeat-MaxLinear-2026Q2法說逐字稿-20260723.md
+10jqka-innolight-16t-20260824:
+  who: 同花順
+  title: 中際旭創：主要客戶已給出2027年的指引，1.6T和800G的訂單需求相較今年仍保持快速增長
+  date: '2026-08-24'
+  level: 媒體報
+  url: https://stock.10jqka.com.cn/20260824/c679218009.shtml
+  clip: clippings/web/同花順-中際旭創投資者關係1.6T交付-20260824.md
+thepaper-innolight-h1-20260821:
+  who: 澎湃新聞
+  title: 中際旭創：對上半年經營情況和行業需求都非常有信心，1.6T市場需求並未縮減
+  date: '2026-08-21'
+  level: 媒體報
+  url: https://www.thepaper.cn/newsDetail_forward_33572790
+  clip: clippings/web/澎湃-中際旭創2026半年報物料緊張-20260821.md
+marketbeat-aaoi-q2-20260806:
+  who: MarketBeat
+  title: Applied Optoelectronics Q2 Earnings Call Highlights
+  date: '2026-08-06'
+  level: 媒體報
+  url: https://www.marketbeat.com/instant-alerts/applied-optoelectronics-q2-earnings-call-highlights-2026-08-06/
+  clip: clippings/web/MarketBeat-AAOI-2026Q2法說重點-20260806.md
+convergedigest-meta-ofc2026:
+  who: Converge Digest
+  title: 'Optica Executive Forum: Meta’s Rethink of Networking, Optics, and Reliability'
+  date: 2026-03
+  level: 媒體報
+  url: https://convergedigest.com/optica-executive-forum-metas-rethink-of-networking-optics-and-reliability/
+  clip: clippings/web/ConvergeDigest-Meta光學與可靠度-OFC2026.md
+photoncap-ofc2026-cpo:
+  who: PhotonCap（付費牆前段）
+  title: '[OFC 2026] Part 2 of 5: CPO and the AI Interconnect Challenge'
+  date: '2026'
+  level: KOL
+  url: https://photoncap.net/p/ofc-2026-part-2-of-5-cpo-and-the
+  clip: clippings/web/PhotonCap-OFC2026之二CPO-2026.md
+lightcounting-ofc2026-20260326:
+  who: LightCounting
+  title: 'OFC 2026: Bringing Order to AI’s Scaling Challenges'
+  date: '2026-03-26'
+  level: 第三方
+  url: https://www.lightcounting.com/newsletter/en/march-2026-ofc-bringing-order-to-ais-scaling-challenges-442
+  clip: clippings/web/LightCounting-OFC2026-newsletter-20260326.md
+lightcounting-ofc2025-202504:
+  who: LightCounting
+  title: 'OFC 2025: Photonics’ renaissance moment'
+  date: 2025-04
+  level: 第三方
+  url: https://www.lightcounting.com/newsletter/en/april-2025-ofc-2025-photonics-renaissance-moment-398
+  clip: clippings/web/LightCounting-OFC2025光子文藝復興-202504.md
+opencpx-spec-v1-20260916:
+  who: Open CPX MSA
+  title: 'Open CPX Specification 1.0: Co-packaged and Near-Package Connector and Optics Module'
+  date: '2026-09-16'
+  level: 一手
+  url: https://www.opencpxmsa.org/wp-content/uploads/OpenCPX-Specification-v1.0.pdf
+  clip: clippings/web/OpenCPX-MSA-規格書v1.0-20260916.md
+hkex-innolight-prospectus-20260722:
+  who: 中際旭創（港交所披露易）
+  title: H 股全球發售招股章程
+  date: '2026-07-22'
+  level: 一手
+  url: https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0722/2026072200014_c.pdf
+  clip: clippings/web/港交所-中際旭創-H股招股章程-20260722.md
+opencpx-members-20261012:
+  who: Open CPX MSA 官網
+  title: 成員名單（抓取日 2026-10-12）
+  date: '2026-10-12'
+  level: 一手
+  url: https://www.opencpxmsa.org/
+  clip: clippings/web/OpenCPX官網-成員名單-20261012.md
+oci-msa-spec-v1-20260311:
+  who: OCI MSA
+  title: 200G Optical Compute Interconnect Line Interface Specification v1.0
+  date: '2026-03-11'
+  level: 一手
+  url: https://www.oci-msa.org/assets/files/200G-OCI-Optical-Phy-Specification-v1.0.pdf
+  clip: clippings/web/OCI-MSA-200G光學PHY規格書v1.0-20260311.md
+ebo-msa-ecoc2026-20260923:
+  who: EBO MSA（ECOC 2026 簡報）
+  title: 'EBO MSA: Enabling Reliable and Interoperable Optical Connectivity for AI Data Centers'
+  date: '2026-09-23'
+  level: 一手
+  url: https://ebomsa.org/assets/pdf/market_focus_ecoc26_rward_ebomsa.pdf
+  clip: clippings/web/EBO-MSA-ECOC2026簡報-20260923.md
+ebo-msa-site-20261012:
+  who: EBO MSA 官網
+  title: 成員名單、規格狀態（抓取日 2026-10-12）
+  date: '2026-10-12'
+  level: 一手
+  url: https://ebomsa.org/
+  clip: clippings/web/EBO-MSA官網-成員與規格狀態-20261012.md
+odcc-spring2026-network-20260401:
+  who: 開放數據中心委員會 ODCC
+  title: 智算光互聯新生態 OCS 焦點組正式啟航｜2026 ODCC 春季全會網絡工作組會議之一
+  date: '2026-04-01'
+  level: 一手
+  url: https://www.odcc.org.cn/news/p-2039226523166040065.html
+  clip: clippings/web/ODCC-2026春季全會網絡工作組-NPO-UPO-20260401.md
+simpletechtrend-ipec-npo-20260508:
+  who: SimpleTechTrend（整理 IPEC 網路研討會）
+  title: IPEC｜從 CPO 到 NPO：AI 叢集近封裝光學路徑
+  date: '2026-05-08'
+  level: KOL
+  url: https://www.simpletechtrend.com/post/npo-technology-ai-optical-interconnect-ipec-webinar-202
+  clip: clippings/web/SimpleTechTrend-IPEC-NPO研討會騰訊阿里華為-20260508.md
+ithome-open-npo-20260709:
+  who: IT之家
+  title: 華為聯合中國移動、京東雲、百度等發起 OPEN NPO 項目，共建國內首個 NPO 光互連多源協議
+  date: '2026-07-09'
+  level: 媒體報
+  url: https://www.ithome.com/0/974/717.htm
+  clip: clippings/web/IT之家-華為OPEN-NPO-MSA發起-20260709.md
+oif-q2-2026-npo-20260604:
+  who: OIF 新聞稿（01net 轉載）
+  title: OIF Q2 Meeting Advances Management for Path Startup, Encryption, Near-Package Optics and High-Density Connector Interfaces
+  date: '2026-06-04'
+  level: 一手
+  url: https://www.01net.it/oif-q2-meeting-advances-management-for-path-startup-encryption-near-package-optics-and-high-density-connector-interfaces/
+  clip: clippings/web/oif-pr-q2-2026-npo-hd-connector-framework-20260604.md
+eeo-huawei-npo-20260918:
+  who: 經濟觀察報
+  title: NPO率先商用背後：光引擎將會拉動什麼？
+  date: '2026-09-18'
+  level: 媒體報
+  url: https://news.qq.com/rain/a/20260918A06QMY00
+  clip: clippings/web/經濟觀察報-華為昇騰960-NPO光引擎拉動什麼-20260918.md
+hkex-innolight-interim-20260911:
+  who: 中際旭創（港交所披露易）
+  title: 2026 中期報告
+  date: '2026-09-11'
+  level: 一手
+  url: https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0911/2026091100357_c.pdf
+  clip: clippings/web/港交所-中際旭創-2026中期報告-20260911.md
+opencpx-pr-spec-202609:
+  who: Open CPX MSA 新聞稿（01net 轉載）
+  title: Open CPX MSA Group Releases Specification for High Density, Pluggable CPO/NPO
+  date: '2026-09-17'
+  level: 一手
+  url: https://www.01net.it/open-cpx-msa-group-releases-specification-for-high-density-pluggable-cpo-npo/
+  clip: clippings/web/opencpx-msa-spec-release-pluggable-cpo-npo-202609.md
+convergedigest-oci-hoti-202608:
+  who: Converge Digest
+  title: 'Hot Interconnects: OCI MSA Targets Optical Scale-Up as AI Clusters Outgrow Copper'
+  date: 2026-08
+  level: 媒體報
+  url: https://convergedigest.com/oci-msa-optical-scale-up-ai-clusters-outgrow-copper/
+  clip: clippings/web/ConvergeDigest-HotInterconnects-OCI-MSA-202608.md
+cnyeshao-expert-npo-aws-20260816:
+  who: 鉅亨號（未具名專家紀要）
+  title: 中際旭創、新易盛、東山精密博弈 NPO/CPO 新周期
+  date: '2026-08-16'
+  level: KOL
+  url: https://hao.cnyes.com/post/263402
+  clip: clippings/web/鉅亨號-專家調研-中際旭創新易盛NPO與亞馬遜v4機櫃-20260816.md
+cnyeshao-gf-npo-oe-20260818:
+  who: 鉅亨號（轉述廣發證券（香港）研報）
+  title: CPO/NPO加速落地：光互連架構變革與OE出貨量前瞻
+  date: '2026-08-18'
+  level: 第三方
+  url: https://hao.cnyes.com/post/263649
+  clip: clippings/web/鉅亨號-廣發NPO光引擎出貨NVL576與Trainium4-20260818.md
+sec-marvell-8k-google-20260819:
+  who: Marvell（SEC EDGAR）
+  title: 8-K：與 Google 的商業協議與認股權證
+  date: '2026-08-19'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1835632/000119312526356217/0001193125-26-356217-index.htm
+  clip: clippings/web/SEC-Marvell-8K-Google客製晶片認股權證-20260819.md
+sec-marvell-8k-amazon-20251202:
+  who: Marvell（SEC EDGAR）
+  title: 8-K：與 Amazon 的交易協議與認股權證
+  date: '2025-12-02'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1835632/000119312525305271/0001193125-25-305271-index.htm
+  clip: clippings/web/SEC-Marvell-8K-Amazon認股權證PhotonicFabric-20251202.md
+webull-st-q2-202607:
+  who: Webull（ST 法說逐字稿）
+  title: STMicroelectronics Q2 2026 Earnings Call Transcript
+  date: 2026-07
+  level: 公司說
+  url: https://www.webull.com/news/15279527352017920
+  clip: clippings/web/Webull-ST-2026Q2法說逐字稿-202607.md
+simpletechtrend-meta-cpo-2026:
+  who: SimpleTechTrend（整理 Meta 在 OFC 2026 的演講）
+  title: 'OFC 2026: Meta on CPO Reliability and AI Scale-Up'
+  date: '2026'
+  level: KOL
+  url: https://www.simpletechtrend.com/en/post/ofc2026-meta-cpo-reliability-deep-dive-en
+  clip: clippings/web/SimpleTechTrend-OFC2026-Meta-CPO可靠度-2026.md
+lightmatter-ofc2026-20260319:
+  who: Lightmatter 資源頁
+  title: 'Scaling Optical Bandwidth: NPO, DWDM & CPO Innovations at OFC'
+  date: '2026-03-19'
+  level: 公司說
+  url: https://lightmatter.co/resource/scaling-optical-bandwidth-npo-dwdm-cpo-innovations-at-ofc/
+  clip: clippings/web/lightmatter-ofc2026-npo-dwdm-cpo-resource-20260319.md
+cninfo-eoptolink-ar2025-20260424:
+  who: 新易盛（巨潮資訊網）
+  title: 2025 年年度報告
+  date: '2026-04-24'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-04-24/1225172598.PDF
+  clip: clippings/web/巨潮-新易盛-2025年度報告-20260424.md
+huawei-hi-one-20260917:
+  who: 華為官網
+  title: 華為發布全球首個採用 NPO 的超節點——昇騰 960 超節點
+  date: '2026-09-17'
+  level: 一手
+  url: https://www.huawei.com/cn/news/2026/9/hc-ascend960-supernode
+  clip: clippings/web/華為官網-昇騰960超節點NPO-Hi-ONE發布-20260917.md
+c114-cioe2026-npo-20260920:
+  who: C114 通信網
+  title: 【光互聯觀察06】CIOE2026，NPO 為何成為雲大廠的最優解？
+  date: '2026-09-20'
+  level: 媒體報
+  url: https://m.c114.com.cn/w5472-1317947.html
+  clip: clippings/web/C114-光互聯觀察06-CIOE2026-NPO雲大廠騰訊阿里百度-20260920.md
+cbj-open-npo-20260716:
+  who: 中國經營報
+  title: 華為牽頭的 NPO 光互連 MSA 落地 國產標準卡位戰啟幕
+  date: '2026-07-16'
+  level: 媒體報
+  url: https://news.qq.com/rain/a/20260716A0BB7C00
+  clip: clippings/web/中國經營報-華為牽頭OPEN-NPO-MSA國產標準-20260716.md
+c114-npo-oif-20260727:
+  who: C114 通信網
+  title: 大廠押注 NPO！騰訊、阿里下場，英偉達都坐不住了
+  date: '2026-07-27'
+  level: 媒體報
+  url: https://m.c114.com.cn/w3542-1314755.html
+  clip: clippings/web/C114-大廠押注NPO-騰訊阿里SNPO-OIF立項-20260727.md
+c114-alibaba-chenqin-20260530:
+  who: C114 通信網
+  title: 阿里雲陳欽：Scale-Up 網絡 NPO 先行，CPO 長期演進
+  date: '2026-05-30'
+  level: 媒體報
+  url: https://m.c114.com.cn/w16-1311344.html
+  clip: clippings/web/C114-阿里雲陳欽-ScaleUp-NPO先行-內置雷射-20260530.md
+
+# 法說原話補入（2026-10-12）
+p5w-accelink-results-20260514:
+  who: '光迅科技（全景網路演廳）'
+  title: '2025 年度暨 2026 年第一季度業績說明會（2026-05-14）'
+  date: '2026-05-14'
+  level: '公司說'
+  url: 'https://rs.p5w.net/html/177854655454402.shtml'
+  clip: 'clippings/web/全景網-光迅科技-業績說明會-20260514.md'
+p5w-eoptolink-collective-20260911:
+  who: '新易盛（全景網路演廳）'
+  title: '集體接待日暨業績說明會（2026-09-11）'
+  date: '2026-09-11'
+  level: '公司說'
+  url: 'https://rs.p5w.net/html/178894211025376.shtml'
+  clip: 'clippings/web/全景網-新易盛-集體接待日暨業績說明會-20260911.md'
+cninfo-innolight-irm-20251031:
+  who: '中際旭創（巨潮資訊網）'
+  title: '投資者關係活動記錄表（2025-10-31）'
+  date: '2025-10-31'
+  level: '公司說'
+  url: 'http://static.cninfo.com.cn/finalpage/2025-10-31/1224779259.PDF'
+  clip: 'clippings/web/巨潮-中際旭創-投資者關係活動記錄-20251031.md'
+cninfo-innolight-irm-20260417:
+  who: '中際旭創（巨潮資訊網）'
+  title: '投資者關係活動記錄表（2026-04-17）'
+  date: '2026-04-17'
+  level: '公司說'
+  url: 'http://static.cninfo.com.cn/finalpage/2026-04-17/1225114832.PDF'
+  clip: 'clippings/web/巨潮-中際旭創-投資者關係活動記錄-20260417.md'
+allmind-st-q1-20260423:
+  who: 'AllMind（第三方轉錄，AI 轉寫）'
+  title: '意法半導體 2026 年第一季法說逐字稿'
+  date: '2026-04-23'
+  level: '公司說（第三方轉錄，AI 轉寫稿，說話者標示未必正確）'
+  url: 'https://allmind.ai/earnings/event/bt_STM_2026_Q1'
+  clip: 'clippings/web/AllMind-ST-2026Q1法說逐字稿-20260423.md'
+allmind-astera-q3-20251104:
+  who: 'AllMind（第三方轉錄，AI 轉寫）'
+  title: 'Astera Labs 2025 年第三季法說逐字稿'
+  date: '2025-11-04'
+  level: '公司說（第三方轉錄，AI 轉寫稿，說話者標示未必正確）'
+  url: 'https://allmind.ai/earnings/event/bt_ALAB_2025_Q3'
+  clip: 'clippings/web/AllMind-Astera-2025Q3法說逐字稿-20251104.md'
+fool-astera-q2-20260811:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Astera Labs 2026 年第二季法說逐字稿'
+  date: '2026-08-11'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/08/11/astera-labs-alab-q2-2026-earnings-call-transcript'
+  clip: 'clippings/web/Fool-Astera-2026Q2法說逐字稿-20260811.md'
+fool-maxlinear-q4-20260130:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'MaxLinear 2025 年第四季法說逐字稿'
+  date: '2026-01-30'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/01/30/maxlinear-mxl-q4-2025-earnings-call-transcript'
+  clip: 'clippings/web/Fool-MaxLinear-2025Q4法說逐字稿-20260130.md'
+fool-arista-q1-20260505:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Arista 2026 年第一季法說逐字稿'
+  date: '2026-05-05'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/05/05/arista-anet-q1-2026-earnings-transcript'
+  clip: 'clippings/web/Fool-Arista-2026Q1法說逐字稿-20260505.md'
+fool-arista-q2-20260811:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Arista 2026 年第二季法說逐字稿'
+  date: '2026-08-11'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/08/11/arista-anet-q2-2026-earnings-call-transcript'
+  clip: 'clippings/web/Fool-Arista-2026Q2法說逐字稿-20260811.md'
+fool-ciena-q1-20260305:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Ciena 2026 財年第一季法說逐字稿'
+  date: '2026-03-05'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/03/05/ciena-cien-q1-2026-earnings-call-transcript'
+  clip: 'clippings/web/Fool-Ciena-2026Q1法說逐字稿-20260305.md'
+fool-ciena-q3-20260909:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Ciena 2026 財年第三季法說逐字稿'
+  date: '2026-09-09'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/09/09/ciena-cien-q3-2026-earnings-call-transcript'
+  clip: 'clippings/web/Fool-Ciena-2026Q3法說逐字稿-20260909.md'
+
+# 法說原話補入（2026-10-12）
+szse-irm-eoptolink-cpo-20260907:
+  who: '新易盛（深交所互動易）'
+  title: '投資者提問與公司回答（含 2026-09-20 回覆）'
+  date: '2026-09-07'
+  level: '公司說'
+  url: 'https://irm.cninfo.com.cn/views/interactiveAnswer'
+  clip: 'clippings/web/深交所互動易-新易盛-CPO相關問答-20260907.md'

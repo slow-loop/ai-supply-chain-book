@@ -1,0 +1,545 @@
+# passive.md 新增的出處。格式同 ../../refs.yaml（who、title、date、level、url、clip）。
+
+nvidia-sn6000-datasheet-20260119:
+  who: "NVIDIA 規格書（經 PNY 轉載）"
+  title: "NVIDIA Spectrum SN6000 Ethernet Switch Series Datasheet（文件編號 4664025, JAN26）"
+  date: "2026-01-19"
+  level: "一手"
+  url: "https://www.pny.com/en-eu/File%20Library/Professional/DATASHEET/MELLANOX/PNY-ethernet-datasheet-spectrum-sn6000-switch.pdf"
+  clip: "clippings/web/NVIDIA規格書經PNY-SN6000系列-MMC-12-JAN26-20260119.md"
+tscom-fofc-brochure-20260324:
+  who: "太辰光（T&S）產品型錄"
+  title: "Fiber Optic Flex Circuit (FOFC)"
+  date: "2026-03-24"
+  level: "公司說"
+  url: "https://www.china-tscom.com/uploads/file/20260324/Fiber_Optic_Flex_Circuit_(FOFC).pdf"
+  clip: "clippings/web/太辰光官網-光纖柔性板FOFC型錄-20260324.md"
+tscom-shuffle-enclosure-20260401:
+  who: "太辰光（T&S）產品規格書"
+  title: "MMC Interface Shuffle Enclosure Enabled by Fiber Optic Flex Circuit (FOFC)"
+  date: "2026-04-01"
+  level: "公司說"
+  url: "https://www.china-tscom.com/uploads/file/20260401/507002-4u-mmc-interface-shuffle-enclosure.pdf"
+  clip: "clippings/web/太辰光官網-4U-MMC-Shuffle機箱FOFC規格書-20260401.md"
+cnyes-hao-expert-shuffle-20260819:
+  who: "鉅亨號部落客轉貼的未具名專家調研紀要"
+  title: "CPO和NPO誰先起飛：中際旭創、天孚通訊、蘅東光？"
+  date: "2026-08-19"
+  level: "KOL"
+  url: "https://hao.cnyes.com/post/263836"
+  clip: "clippings/web/鉅亨號-專家調研-CPO與NPO-ShuffleBox單價FAU-20260819.md"
+cnyes-hao-expert-mmc-20260909:
+  who: "鉅亨號部落客轉貼的未具名專家調研紀要"
+  title: "光通訊大廠專家調研紀要"
+  date: "2026-09-09"
+  level: "KOL"
+  url: "https://hao.cnyes.com/post/266722"
+  clip: "clippings/web/鉅亨號-專家調研-光連接廠MMC跳線產能與每台用量-20260909.md"
+cnyes-hao-expert-spectrum-20260930:
+  who: "鉅亨號部落客轉貼的未具名專家調研紀要"
+  title: "輝達 Spectrum 交換機光纖調研：太辰光、康寧、訊芯搶訂單"
+  date: "2026-09-30"
+  level: "KOL"
+  url: "https://hao.cnyes.com/post/270436"
+  clip: "clippings/web/鉅亨號-專家調研-NVIDIA-Spectrum-ShuffleBox-MMC-太辰光康寧訊芯-20260930.md"
+stockstar-tfc-sunsea-mmc-20260731:
+  who: "證券之星（轉載太辰光在深交所互動易的回覆）"
+  title: "太辰光：MT插芯的核心技术壁垒集中在超精密制造、端面纳米级处理、材料稳定性及量产良率等方面"
+  date: "2026-07-31"
+  level: "公司說"
+  url: "https://wap.stockstar.com/detail/RB2026073100034209"
+  clip: "clippings/web/證券之星-太辰光互動易-MMC批量出貨供應鏈保密-20260731.md"
+technews-bizlink-computex-20260603:
+  who: "科技新報"
+  title: "貿聯光通產品需求強勁！COMPUTEX 大秀 CPC、CPO 解決方案"
+  date: "2026-06-03"
+  level: "媒體報"
+  url: "https://technews.tw/?p=1566274"
+  clip: "clippings/web/科技新報-貿聯Computex2026-CPO交換器線束送樣-20260603.md"
+technews-bizlink-xinfusheng-20251201:
+  who: "科技新報"
+  title: "強化矽光子與共同封裝光學能力！貿聯-KY 正式收購「新富生光電」"
+  date: "2025-12-01"
+  level: "媒體報"
+  url: "https://technews.tw/2025/12/01/co-packaged/"
+  clip: "clippings/web/科技新報-貿聯收購新富生光電-MTP-MPO-20251201.md"
+udn-bizlink-cpo-20260226:
+  who: "經濟日報"
+  title: "矽光子CPO普及仍欠東風？貿聯指一關鍵待突破 台南廠將量產光通訊"
+  date: "2026-02-26"
+  level: "媒體報"
+  url: "https://udn.com/news/story/7240/9345293"
+  clip: "clippings/web/經濟日報-貿聯CPO普及一關鍵待突破-20260226.md"
+bullfincher-corning-q2-20260728:
+  who: "Corning 2026 Q2 法說會逐字稿（Bullfincher 整理）"
+  title: "Corning Inc Earnings Call Transcript - Q2 FY 2026"
+  date: "2026-07-28"
+  level: "公司說"
+  url: "https://bullfincher.io/companies/corning-incorporated/earnings-call/fy2026-q2"
+  clip: "clippings/web/Bullfincher-Corning-2026Q2法說逐字稿-20260728.md"
+sdxcentral-corning-fleury-20250604:
+  who: "SDxCentral（訪問 Corning CPO 業務開發總監）"
+  title: "Corning sees AI turning the corner on co-packaged optics"
+  date: "2025-06-04"
+  level: "公司說"
+  url: "https://www.sdxcentral.com/news/corning-sees-ai-turning-the-corner-on-co-packaged-optics/"
+  clip: "clippings/web/SDxCentral-Corning-CPO總監Fleury訪談-20250604.md"
+corning-q2-slides-20260728:
+  who: "Corning 2026 Q2 法說簡報"
+  title: "Second Quarter 2026 Earnings Call Presentation（第 26 頁 New “Inside the Box” Optical functions…）"
+  date: "2026-07-28"
+  level: "公司說"
+  url: "https://s203.q4cdn.com/212458750/files/doc_financials/2026/q2/2026-07-28-Second-Quarter-Earnings-Call-Presentation-with-Appendix.pdf"
+  clip: "clippings/web/Corning-2026Q2法說簡報-20260728.md"
+corning-investor-event-20260506:
+  who: "Corning 投資人活動簡報"
+  title: "Corning Investor Event Presentation"
+  date: "2026-05-06"
+  level: "公司說"
+  url: "https://s203.q4cdn.com/212458750/files/doc_events/2026/May/06/Corning-GLW-Investor-Event-Presentation-2026-05-06.pdf"
+  clip: "clippings/web/Corning-投資人活動簡報-20260506.md"
+corning-oem139-flexconnect-202604:
+  who: "Corning 產品規格書 OEM-139"
+  title: "Corning CPO FlexConnect Optical Fiber"
+  date: "2026-04"
+  level: "一手"
+  url: "https://www.corning.com/microsites/coc/oem/documents/OEM-139-AEN.pdf"
+  clip: "clippings/web/corning-oem139-CPO-FlexConnect光纖規格-202604.md"
+corning-oem166-oms-202605:
+  who: "Corning 產品型錄 OEM-166"
+  title: "Optical Management System for Co-Packaged Optics"
+  date: "2026-05"
+  level: "公司說"
+  url: "https://www.corning.com/catalog/coc/documents/brochures/OEM-166-AEN.pdf"
+  clip: "clippings/web/corning-oem166-OMS-CPO光纖管理系統-202605.md"
+corning-blog-cpo-fau-harness-2025:
+  who: "Corning 部落格"
+  title: "What is Co-Packaged Optics? Why CPO Technology is the Future of Data Center"
+  date: "2025"
+  level: "公司說"
+  url: "https://www.corning.com/optical-communications/emea/en/home/the-signal-network-blog/what-is-co-packaged-optics.html"
+  clip: "clippings/web/corning-blog-什麼是CPO-FAU線束-2025.md"
+corning-pr-ecoc2026-20260917:
+  who: "Corning 新聞稿"
+  title: "Corning To Showcase New Cable and Connectivity Innovations To Accelerate and Streamline AI Network Growth at ECOC 2026"
+  date: "2026-09-17"
+  level: "公司說"
+  url: "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/09/corning-to-showcase-new-cable-and-connectivity-innovations-to-accelerate-and-streamline-ai-network-growth-at-ecoc-2026.html"
+  clip: "clippings/web/corning-pr-ECOC2026-CPO展示-20260917.md"
+corning-pr-broadcom-bailly-20250513:
+  who: "Corning 新聞稿"
+  title: "Corning Collaborates with Broadcom to Accelerate AI Data Center Processing Capacity"
+  date: "2025-05-13"
+  level: "公司說"
+  url: "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2025/05/corning-collaborates-with-broadcom-to-accelerate-ai-data-center-processing-capacity.html"
+  clip: "clippings/web/corning-pr-與Broadcom合作-Bailly合格供應商-20250513.md"
+sec-corning-10q-2026q2-20260729:
+  who: "Corning 10-Q（SEC）"
+  title: "Corning Form 10-Q for quarter ended June 30, 2026"
+  date: "2026-07-29"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/24741/000002474126000255/glw-20260630.htm"
+  clip: "clippings/web/SEC-Corning-10Q-2026Q2-20260729.md"
+investing-corning-cfo-citi-20260909:
+  who: "Corning 財務長在 Citi 研討會的逐字稿（Investing.com）"
+  title: "Corning at Citi’s 2026 Global TMT Conference: AI demand lifts outlook"
+  date: "2026-09-09"
+  level: "公司說"
+  url: "https://za.investing.com/news/stock-market-news/corning-at-citis-2026-global-tmt-conference-ai-demand-lifts-outlook-93CH-4458174"
+  clip: "clippings/web/investing-Corning-CFO-Citi-TMT2026逐字稿-20260909.md"
+stt-ecoc2025-broadcom-corning-20251001:
+  who: "Simple Tech Trend（演講筆記）"
+  title: "ECOC 2025 技術焦點：Broadcom × Corning 談 102.4 Tb/s CPO 交換機設計考量"
+  date: "2025-10-01"
+  level: "KOL"
+  url: "https://www.simpletechtrend.com/post/ecoc-2025-cpodesignconsideration"
+  clip: "clippings/web/STT-ECOC2025-博通康寧102.4T-CPO交換器設計-20251001.md"
+technews-corning-semicon-20260831:
+  who: "科技新報"
+  title: "康寧 SEMICON Taiwan 大秀先進光學技術，聚焦 CPO、玻璃基板等新解方"
+  date: "2026-08-31"
+  level: "媒體報"
+  url: "https://technews.tw/2026/08/31/corning-semicon-taiwan-2026/"
+  clip: "clippings/web/TechNews-康寧SEMICONTaiwan2026-CPO玻璃基板-20260831.md"
+cninfo-fii-ipo-20180523:
+  who: "工業富聯招股說明書"
+  title: "富士康工业互联网首次公开发行 A 股股票招股说明书"
+  date: "2018-05-23"
+  level: "一手"
+  url: "http://static.cninfo.com.cn/finalpage/2018-05-23/1204994000.PDF"
+  clip: "clippings/web/巨潮-工業富聯-首次公開發行A股招股說明書-20180523.md"
+cninfo-fii-ar2025-20260311:
+  who: "工業富聯年報"
+  title: "富士康工业互联网 2025 年年度报告"
+  date: "2026-03-11"
+  level: "一手"
+  url: "http://static.cninfo.com.cn/finalpage/2026-03-11/1225004420.PDF"
+  clip: "clippings/web/巨潮-工業富聯-2025年度報告-20260311.md"
+us10969557b1:
+  who: "富晉精密（晉城）美國專利 US10969557B1"
+  title: "Optical fiber shuffle"
+  date: "2021-04-06"
+  level: "一手"
+  url: "https://patents.google.com/patent/US10969557B1/en"
+  clip: "clippings/web/GooglePatents-富晉精密晉城-US10969557B1-OpticalFiberShuffle-20210406.md"
+uspto-fujin-search-20261012:
+  who: "USPTO Patent Public Search"
+  title: "申請人或受讓人含 Fujin Precision 的美國專利（13 件）"
+  date: "2026-10-12"
+  level: "一手"
+  url: "https://ppubs.uspto.gov/api/searches/searchWithBeFamily"
+  clip: "clippings/web/USPTO-ppubs-富晉精密晉城-申請人檢索-20261012.json"
+us12601878b2:
+  who: "富晉精密、鴻海精密美國專利 US12601878B2"
+  title: "預接頭與連接器（實施例為保偏光纖組件）"
+  date: "2026-04-14"
+  level: "一手"
+  url: "https://ppubs.uspto.gov/api/patents/highlight/US-12601878-B2?queryId=1&source=USPAT&includeSections=true"
+  clip: "clippings/web/patent-US12601878B2-富晉鴻海-保偏光纖預接頭.json"
+us12571974b2:
+  who: "富晉精密、鴻海精密美國專利 US12571974B2"
+  title: "轉接器、連接器與光電傳輸組件"
+  date: "2026-03-10"
+  level: "一手"
+  url: "https://ppubs.uspto.gov/api/patents/highlight/US-12571974-B2?queryId=1&source=USPAT&includeSections=true"
+  clip: "clippings/web/patent-US12571974B2-富晉鴻海-光電轉接器.json"
+uanalyze-shunsin-20251121:
+  who: "優分析"
+  title: "訊芯法說：51.2T CPO 小量出貨"
+  date: "2025-11-21"
+  level: "媒體報"
+  url: "https://uanalyze.com.tw/articles/8080739716"
+  clip: "clippings/web/優分析-訊芯法說51.2T-CPO小量出貨-20251121.md"
+cnyes-shunsin-agm-20260626:
+  who: "鉅亨網"
+  title: "訊芯股東會：與台積電合作 COUPE"
+  date: "2026-06-26"
+  level: "媒體報"
+  url: "https://news.cnyes.com/news/id/6513157"
+  clip: "clippings/web/鉅亨網-訊芯股東會-與台積電合作COUPE-FAU-20260626.md"
+bse-hdg-inquiry-2025:
+  who: "蘅東光北交所上市審核問詢函回覆"
+  title: "蘅东光公开发行股票并在北交所上市申请文件的审核问询函的回复"
+  date: "2025"
+  level: "一手"
+  url: "http://notice.10jqka.com.cn/api/pdf/bbb8cb7cfdf187ab.pdf"
+  clip: "clippings/web/北交所-蘅東光-審核問詢函回復-2025日期不明.md"
+cninfo-hdg-ar2025-20260424:
+  who: "蘅東光年報"
+  title: "蘅东光 2025 年年度报告"
+  date: "2026-04-24"
+  level: "一手"
+  url: "http://dataclouds.cninfo.com.cn/sjother2/bse_onmarket/2026/20260424/a4bb71583fee11f191d9fa163e296ac0.pdf"
+  clip: "clippings/web/巨潮-蘅東光-2025年度報告-20260424.md"
+cninfo-hdg-h1-2026-20260821:
+  who: "蘅東光半年報"
+  title: "蘅东光 2026 年半年度报告"
+  date: "2026-08-21"
+  level: "一手"
+  url: "http://static.cninfo.com.cn/finalpage/2026-08-21/1225493139.PDF"
+  clip: "clippings/web/巨潮-蘅東光-2026半年度報告-20260821.md"
+cninfo-hdg-irm-20260921:
+  who: "蘅東光投資者關係活動記錄表"
+  title: "蘅东光投资者关系活动记录表（2026-09-18 调研）"
+  date: "2026-09-21"
+  level: "公司說"
+  url: "http://static.cninfo.com.cn/finalpage/2026-09-21/1225574813.PDF"
+  clip: "clippings/web/巨潮-蘅東光-投資者關係活動記錄-20260921.md"
+hkex-adt-prospectus-20260515:
+  who: "愛德泰港交所申請版本（草擬本）"
+  title: "深圳市愛德泰科技股份有限公司 申請版本"
+  date: "2026-05-15"
+  level: "一手"
+  url: "https://www1.hkexnews.hk/app/sehk/2026/108541/documents/sehk26051500226_c.pdf"
+  clip: "clippings/web/港交所-愛德泰-申請版本-20260515.md"
+cninfo-zhishang-ph-order-20260604:
+  who: "致尚科技公告"
+  title: "关于收到日常经营订单的自愿性披露公告（2026-038）"
+  date: "2026-06-04"
+  level: "一手"
+  url: "http://static.cninfo.com.cn/finalpage/2026-06-04/1225352232.PDF"
+  clip: "clippings/web/巨潮-致尚科技-PH客戶訂單自願性披露-20260604.md"
+cninfo-zhishang-ph-memo-20260930:
+  who: "致尚科技公告"
+  title: "關於簽訂合作備忘錄的公告（2026-076）"
+  date: "2026-09-30"
+  level: "一手"
+  url: "http://static.cninfo.com.cn/finalpage/2026-09-30/1225589683.PDF"
+  clip: "clippings/web/巨潮-致尚科技-PH客戶2027需求預測備忘錄-20260930.md"
+cninfo-zhishang-ar2025-20260421:
+  who: "致尚科技年報"
+  title: "致尚科技 2025 年年度报告"
+  date: "2026-04-21"
+  level: "一手"
+  url: "http://static.cninfo.com.cn/finalpage/2026-04-21/1225131446.PDF"
+  clip: "clippings/web/巨潮-致尚科技-2025年度報告-20260421.md"
+cninfo-zhishang-h1-2026-20260826:
+  who: "致尚科技半年報"
+  title: "致尚科技 2026 年半年度报告"
+  date: "2026-08-26"
+  level: "一手"
+  url: "http://static.cninfo.com.cn/finalpage/2026-08-26/1225504459.PDF"
+  clip: "clippings/web/巨潮-致尚科技-2026半年度報告-20260826.md"
+cninfo-zhishang-ipo-20230704:
+  who: "致尚科技招股說明書"
+  title: "致尚科技首次公开发行股票并在创业板上市招股说明书"
+  date: "2023-07-04"
+  level: "一手"
+  url: "http://static.cninfo.com.cn/finalpage/2023-07-04/1217202788.PDF"
+  clip: "clippings/web/巨潮-致尚科技-首次公開發行招股說明書-20230704.md"
+kysec-ph-chain-20261008:
+  who: "開源證券通信行業點評（東方財富轉載）"
+  title: "重視 PH 鏈投資機遇"
+  date: "2026-10-08"
+  level: "第三方"
+  url: "https://pdf.dfcfw.com/pdf/H3_AP202610081830206632_1.pdf"
+  clip: "clippings/web/東方財富轉載-開源證券-重視PH鏈-致尚PH客戶Senko-20261008.md"
+senko-gf-detachable-20250924:
+  who: "Senko 新聞稿"
+  title: "SENKO and GlobalFoundries Achieve Breakthrough in Wafer-Level Detachable Fiber Interface and Optical Testing for Co-Packaged Optics"
+  date: "2025-09-24"
+  level: "一手"
+  url: "https://www.senko.com/senko-and-globalfoundries-achieve-breakthrough-in-wafer-level-detachable-fiber-interface-and-optical-testing-for-co-packaged-optics/"
+  clip: "clippings/web/senko-pr-globalfoundries-wafer-level-detachable-20250924.md"
+cninfo-irm-passive-20261012:
+  who: "深交所互動易"
+  title: "互動易問答（關鍵字 Shuffle、柔性板、Lumentum、MPC、UCM 等，被動件廠）"
+  date: "2026-05～2026-10"
+  level: "公司說"
+  url: "https://irm.cninfo.com.cn/newircs/index/search"
+  clip: "clippings/web/互動易-被動件廠-Shuffle-Lumentum傳聞-MPC-UCM-問答-20261012.json"
+sec-lumentum-filings-20261012:
+  who: "SEC EDGAR"
+  title: "Lumentum 2026 年申報清單（無 Item 2.01 資產處分 8-K）"
+  date: "2026-10-12"
+  level: "一手"
+  url: "https://data.sec.gov/submissions/CIK0001633978.json"
+  clip: "clippings/web/SEC-Lumentum-2026申報清單-無資產處分8K-20261012.json"
+nihonma-furukawa-shirayama-20241107:
+  who: "日本 M&A センター M&A ニュース"
+  title: "古河電気工業、コネクタ部品メーカーの白山を買収"
+  date: "2024-11-07"
+  level: "媒體報"
+  url: "https://www.nihon-ma.co.jp/news/20241107_5801-8/"
+  clip: "clippings/web/日本MAセンター-古河電工收購白山67%-MT插芯世界第二-20241107.md"
+furukawa-pr-shirayama-tmt-20260602:
+  who: "古河電工新聞稿"
+  title: "白山　VSFF多心光コネクタに対応するTMTフェルールの量産に向け工場新設"
+  date: "2026-06-02"
+  level: "公司說"
+  url: "https://digitalpr.jp/r/136045"
+  clip: "clippings/web/古河電工PR經digitalpr-白山TMT插芯新工場-MT插芯世界頂級份額-20260602.md"
+furukawa-optosol-briefing-20260604:
+  who: "古河電工光ソリューション事業說明會資料"
+  title: "光ソリューション事業説明会"
+  date: "2026-06-04"
+  level: "公司說"
+  url: "https://www.furukawa.co.jp/ir/library/briefing/pdf/2026/20260604_optosol.pdf"
+  clip: "clippings/web/古河電工-光ソリューション事業說明會-CPO用PMF-MMC-SNMT-20260604.md"
+fujikura-qa-mmc-20251113:
+  who: "藤倉決算說明會質疑應答"
+  title: "2025年度第2四半期決算 質疑応答（要旨）"
+  date: "2025-11-13"
+  level: "公司說"
+  url: "https://ssl4.eir-parts.net/doc/5803/ir_material_for_fiscal_ym/191118/00.pdf"
+  clip: "clippings/web/藤倉-2025年度Q2決算說明會質疑應答-MMC比例-CPO交換器16倍-20251113.md"
+fujikura-qa-mt-20260217:
+  who: "藤倉決算說明會質疑應答"
+  title: "決算説明会 質疑応答（要旨）2026-02-17"
+  date: "2026-02-17"
+  level: "公司說"
+  url: "https://ssl4.eir-parts.net/doc/5803/ir_material_for_fiscal_ym/198804/00.pdf"
+  clip: "clippings/web/藤倉-2025年度Q3決算說明會質疑應答-MT插芯產能2倍-MMC-20260217.md"
+fujikura-qa-usconec-20260818:
+  who: "藤倉決算說明會質疑應答"
+  title: "2026年度第1四半期決算 質疑応答（要旨）"
+  date: "2026-08-18"
+  level: "公司說"
+  url: "https://ssl4.eir-parts.net/doc/5803/ir_material_for_fiscal_ym/210980/00.pdf"
+  clip: "clippings/web/藤倉-2026年度Q1決算說明會質疑應答-USConec持分法利益-20260818.md"
+sumitomo-results-briefing-20260522:
+  who: "住友電工決算說明會資料"
+  title: "2025年度 決算説明会資料"
+  date: "2026-05-22"
+  level: "公司說"
+  url: "https://sumitomoelectric.com/jp/sites/japan/files/2026-05/download_documents/20260522ceo.pdf"
+  clip: "clippings/web/住友電工-2025年度決算説明会資料-情報通信產能-20260522.md"
+sumitomo-qa-20260610:
+  who: "住友電工決算說明會質疑應答"
+  title: "2025年度 期末決算説明会 質疑応答要旨"
+  date: "2026-06-10"
+  level: "公司說"
+  url: "https://sumitomoelectric.com/jp/sites/japan/files/2026-06/download_documents/2025_IR_summaryofqa.pdf"
+  clip: "clippings/web/住友電工-2025年度期末決算説明会質疑応答-CPO高出力CW-LD-20260610.md"
+coherent-photonlink-deck-20260921:
+  who: "Coherent 投資人簡報（ECOC 2026 PhotonLink 發表會）"
+  title: "Investor Presentation"
+  date: "2026-09-21"
+  level: "公司說"
+  url: "https://ir.coherent.com/static-files/80d6a0b9-4ea5-422d-af1c-9f886021d518"
+  clip: "clippings/web/Coherent-PhotonLink發表簡報-FAU與NPO-20260921.md"
+afl-sdm4-mcf-20260311:
+  who: "AFL 新聞稿"
+  title: "Industry Leaders Define New Multicore Fiber Design"
+  date: "2026-03-11"
+  level: "公司說"
+  url: "https://www.aflglobal.com/en/emea/company/company-profile/news/2026/fiber-optics-industry-leaders-announce-collaboration-to-define-a-new-multicore-fiber-design"
+  clip: "clippings/web/AFL新聞稿-SDM4多芯光纖MSA-AFL康寧住友TeraHop-20260311.md"
+lightmatter-l20-20261012:
+  who: "Lightmatter 產品頁"
+  title: "Passage L20"
+  date: "2026-10-12（擷取）"
+  level: "一手"
+  url: "https://lightmatter.co/products/passage-l20/"
+  clip: "clippings/web/lightmatter-product-passage-L20-NPO-20261012.md"
+sec-commscope-8k-20260115:
+  who: "CommScope（改名 Vistance Networks）8-K（SEC）"
+  title: "CCS 業務出售給 Amphenol 完成、公司改名"
+  date: "2026-01-15"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/1517228/000119312526014078/d749492d8k.htm"
+  clip: "clippings/web/SEC-CommScope-8K-CCS賣給Amphenol完成-改名Vistance-20260115.md"
+sec-commscope-10q-20251030:
+  who: "CommScope 10-Q（SEC）"
+  title: "CommScope Form 10-Q, Q3 2025"
+  date: "2025-10-30"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/1517228/000119312525256715/comm-20250930.htm"
+  clip: "clippings/web/SEC-CommScope-10Q-2025Q3-Nasdaq-通信基礎設施-20251030.md"
+sec-amphenol-10k-20260211:
+  who: "Amphenol 10-K（SEC）"
+  title: "Amphenol Form 10-K for 2025"
+  date: "2026-02-11"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/aph-20251231x10k.htm"
+  clip: "clippings/web/SEC-Amphenol-2025年報10K-20260211.md"
+cfol-jonhon-ucm-20260527:
+  who: "光纖在線（轉中航光電發布）"
+  title: "中航光电推出UCM超小型多芯光纤连接器，适配CPO/NPO新架构"
+  date: "2026-05-27"
+  level: "公司說"
+  url: "http://www.c-fol.net/news/3_202605/20260527100529.html"
+  clip: "clippings/web/光纖在線-中航光電UCM超小型多芯連接器-20260527.md"
+cninfo-irm-china-npo-20261012:
+  who: "深交所互動易"
+  title: "互動易問答（中國 NPO 路線相關關鍵字，241 則）"
+  date: "2025-10～2026-10"
+  level: "公司說"
+  url: "https://irm.cninfo.com.cn/newircs/index/search"
+  clip: "clippings/web/互動易-中國NPO路線-問答-20261012.json"
+c114-alibaba-al64-snpo-20260922:
+  who: "C114 通信網（企業稿）"
+  title: "磐久AL64分布式超节点服务器发布 SNPO光互连开放生态发展加速"
+  date: "2026-09-22"
+  level: "公司說"
+  url: "https://m.c114.com.cn/w241-1318185.html"
+  clip: "clippings/web/C114-阿里磐久AL64-SNPO光互連超節點-UTU16連接器-20260922.md"
+iccsz-tencent-npo-spec-20260127:
+  who: "訊石光通訊網（轉載騰訊『鵝廠網事』）"
+  title: "3.2T NPO突破算力互联密度，筑牢全光网络根基"
+  date: "2026-01-27"
+  level: "公司說"
+  url: "http://www.iccsz.com/site/cn/News/2026/01/27/20260127100621377484.htm"
+  clip: "clippings/web/訊石轉鵝廠網事-騰訊3.2T-NPO引擎技術規格-ELS外置光源-20260127.md"
+ocp2026-agenda-meta-20261012:
+  who: "OCP Global Summit 2026 議程"
+  title: "Integrated Optics at Scale for AI Infrastructure: From 51.2T CPO Validation to Meta’s 102.4T Integrated Optics Switch（場次 10196，摘要）"
+  date: "2026-10-14"
+  level: "公司說"
+  url: "https://2026ocpglobal.fnvirtual.app/a/schedule/"
+  clip: "clippings/data/ocp2026-議程-光學相關.csv"
+tencent-kol-shuffle-1152-20241229:
+  who: "騰訊雲開發者社區（轉載社群帳號『光器件小談』）"
+  title: "应用于CPO封装模块内的光纤互联方案"
+  date: "2024-12-29"
+  level: "KOL"
+  url: "https://cloud.tencent.com/developer/news/2028617"
+  clip: "clippings/web/騰訊雲轉載-光器件小談-CPO機內光纖互聯shuffle-1152芯-20241229.md"
+
+allmind-auo-q2-20260730:
+  who: AllMind（法說逐字稿轉錄，AI 轉寫、說話者為 AI 指派）
+  title: "友達 2026Q2 法說會逐字稿"
+  date: '2026-07-30'
+  level: 公司說（第三方轉錄）
+  url: https://allmind.ai/earnings/event/bt_AUOTY_2026_Q2
+  clip: clippings/web/AllMind-友達-2026Q2法說逐字稿-20260730.md
+
+fugle-auo-20260730:
+  who: 富果（券商部落格，第三方整理）
+  title: "友達法說會重點備忘錄"
+  date: '2026-07-30'
+  level: 第三方
+  url: https://blog.fugle.tw/post/earnings-call-2409-2026-07-30
+  clip: clippings/web/富果-友達-法說會重點備忘錄-20260730.md
+
+allmind-auo-q1-20260430:
+  who: AllMind（法說逐字稿轉錄，AI 轉寫、說話者為 AI 指派）
+  title: "友達 2026Q1 法說會逐字稿"
+  date: '2026-04-30'
+  level: 公司說（第三方轉錄）
+  url: https://allmind.ai/earnings/event/bt_AUOTY_2026_Q1
+  clip: clippings/web/AllMind-友達-2026Q1法說逐字稿-20260430.md
+
+agc-semi-script-20260602:
+  who: AGC（公司官網 IR）
+  title: "半導体事業説明会（スクリプト）"
+  date: '2026-06-02'
+  level: 一手
+  url: https://www.agc.com/ir/library/bizbriefing/pdf/2026_0602semiconductor_script.pdf
+  clip: clippings/web/AGC官網-半導体事業説明会スクリプト-20260602.md
+
+mops-ezconn-slides-20260608:
+  who: 公開資訊觀測站（光聖簡報）
+  title: "光聖法說簡報（英文版）"
+  date: '2026-06-08'
+  level: 一手
+  url: https://mopsov.twse.com.tw/nas/STR/644220260608E001.pdf
+  clip: clippings/web/MOPS-光聖-法說簡報英文-20260608.md
+
+mops-ezconn-kgi-20260908:
+  who: 公開資訊觀測站（光聖簡報）
+  title: "光聖凱基場法說簡報"
+  date: '2026-09-08'
+  level: 公司說
+  url: https://mopsov.twse.com.tw/nas/STR/644220260908M001.pdf
+  clip: clippings/web/MOPS-光聖-凱基法說簡報-20260908.md
+
+fugle-ezconn-20251203:
+  who: 富果（法說會助理，第三方整理）
+  title: "光聖法說備忘錄（2025-12-03）"
+  date: '2025-12-03'
+  level: 第三方
+  url: https://blog.fugle.tw/post/earnings-call-6442-2025-12-03
+  clip: clippings/web/富果-光聖-法說備忘錄-20251203.md
+
+fugle-ezconn-20260312:
+  who: 富果（法說會助理，第三方整理）
+  title: "光聖法說備忘錄（2026-03-12）"
+  date: '2026-03-12'
+  level: 第三方
+  url: https://blog.fugle.tw/post/earnings-call-6442-2026-03-12
+  clip: clippings/web/富果-光聖-法說備忘錄-20260312.md
+
+fugle-ezconn-20260910:
+  who: 富果（法說會助理，第三方整理）
+  title: "光聖法說備忘錄（2026-09-10）"
+  date: '2026-09-10'
+  level: 第三方
+  url: https://blog.fugle.tw/post/earnings-call-6442-2026-09-10
+  clip: clippings/web/富果-光聖-法說備忘錄-20260910.md
+
+mops-bizlink-slides-20251107:
+  who: 公開資訊觀測站（貿聯-KY 簡報）
+  title: "貿聯-KY 法說簡報（2025-11-07）"
+  date: '2025-11-07'
+  level: 一手
+  url: https://mopsov.twse.com.tw/nas/STR/366520251107M001.pdf
+  clip: clippings/web/MOPS-貿聯-KY-法說簡報-20251107.md
+
+fugle-bizlink-20251107:
+  who: 富果（法說會助理，第三方整理）
+  title: "貿聯-KY 法說備忘錄（2025-11-07）"
+  date: '2025-11-07'
+  level: 第三方
+  url: https://blog.fugle.tw/post/earnings-call-3665-2025-11-7
+  clip: clippings/web/富果-貿聯-KY-法說備忘錄-20251107.md

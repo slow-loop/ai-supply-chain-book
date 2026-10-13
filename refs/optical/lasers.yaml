@@ -1,0 +1,870 @@
+# lasers.md 新增的出處。格式同 ../../refs.yaml。
+usgs-indium-202601:
+  who: USGS（美國地質調查局）
+  title: 'Mineral Commodity Summaries 2026: Indium'
+  date: 2026-01
+  level: 一手
+  url: https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-indium.pdf
+  clip: clippings/web/USGS-MCS2026-銦-202601.md
+xinhua-mofcom-indium-20250204:
+  who: 商務部、海關總署（新華網刊載）
+  title: 商務部 海關總署公告2025年第10號：對鎢、碲、鉍、鉬、銦相關物項實施出口管制
+  date: '2025-02-04'
+  level: 一手
+  url: https://www.news.cn/fortune/20250204/3af5c0e6e6324837a633569415423031/c.html
+  clip: clippings/web/新華網-商務部海關總署公告2025第10號銦管制-20250204.md
+businesskorea-indium-20260619:
+  who: BusinessKorea（轉述 Reuters）
+  title: China Tightens Export Inspections on Indium Used in AI Data Centers
+  date: '2026-06-21'
+  level: 媒體報
+  url: https://www.businesskorea.co.kr/news/articleView.html?idxno=271747
+  clip: clippings/web/Businesskorea-中國收緊銦出口檢查-20260619.md
+idnfinancials-indium-202606:
+  who: IDN Financials（轉述 Reuters）
+  title: China tightens indium export curbs as markets brace for further limits
+  date: 2026-06
+  level: 媒體報
+  url: https://www.idnfinancials.com/news/64986/china-tightens-indium-export-curbs-as-markets-brace-for-further-limits
+  clip: clippings/web/IDNFinancials-中國收緊銦出口-2026.md
+sec-axt-10q-20260813:
+  who: AXT（SEC 10-Q）
+  title: Form 10-Q, quarter ended 2026-06-30
+  date: '2026-08-13'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1051627/000143774926027677/axti20260630_10q.htm
+  clip: clippings/web/SEC-AXT-10Q-2026Q2-20260813.md
+mexicobusiness-inp-202609:
+  who: Mexico Business News（轉述 Reuters）
+  title: China's Indium Phosphide Curbs Threaten AI Data Center Rollout
+  date: 2026-09
+  level: 媒體報
+  url: https://mexicobusiness.news/mining/news/chinas-indium-phosphide-curbs-threaten-ai-data-center-rollout
+  clip: clippings/web/MexicoBusinessNews-中國InP管制威脅AI資料中心-2026.md
+reuters-inp-20260611:
+  who: Reuters（Investing.com 轉載）
+  title: China's control over indium phosphide exports threatens AI data centre rollout
+  date: '2026-06-11'
+  level: 媒體報
+  url: https://www.investing.com/news/stock-market-news/chinas-control-over-indium-phosphide-exports-threatens-ai-data-centre-rollout-4736446
+  clip: clippings/web/Investing轉Reuters-中國InP管制威脅AI資料中心-20260611.md
+huxiu-indium-20260622:
+  who: 虎嗅（作者文章）
+  title: 磷化铟衬底价格暴涨250% 国产6英寸技术突破改写供应链格局
+  date: '2026-06-22'
+  level: KOL
+  url: https://m.huxiu.com/article/4869102.html
+  clip: clippings/web/虎嗅-銦出口-20260622.md
+biggo-inp-price-20260425:
+  who: BigGo Finance
+  title: 'AI Computing Power Ignites "Gold Material" Indium Phosphide: Prices Nearly Double in a Year, Supply-Demand Gap Exceeds 70%'
+  date: '2026-04-25'
+  level: 第三方
+  url: https://finance.biggo.com/news/xsiIxJ0Bh5an-7GhIww3
+  clip: clippings/web/biggo-InP價格一年近翻倍缺口70%-2026.md
+trendforce-6inch-inp-fab-20260318:
+  who: TrendForce
+  title: '[News] World’s First 6-Inch InP Photonic Chip Industrial Wafer Fab Broke Ground'
+  date: '2026-03-18'
+  level: 第三方
+  url: https://www.trendforce.com/news/2026/03/18/news-worlds-first-6-inch-inp-photonic-chip-industrial-wafer-fab-broke-ground/
+  clip: clippings/web/TrendForce-首座6吋InP光晶片廠動土-20260318.md
+trendforce-sumitomo-inp-20260713:
+  who: TrendForce（引日經）
+  title: '[News] Sumitomo Electric to Raise InP Substrate Expansion Scale With JPY 18 Billion'
+  date: '2026-07-13'
+  level: 第三方
+  url: https://www.trendforce.com/news/2026/07/13/news-sumitomo-electric-to-raise-inp-substrate-expansion-scale-with-jpy-18-billion/
+  clip: clippings/web/TrendForce-住友電工InP基板擴產180億日圓-20260713.md
+investing-axt-q2-20260730:
+  who: AXT 法說逐字稿（Investing.com）
+  title: 'Earnings call transcript: AXT tops Q2 2026 estimates, shares jump after hours By Investing.com'
+  date: '2026-07-30'
+  level: 公司說
+  url: https://www.investing.com/news/transcripts/earnings-call-transcript-axt-tops-q2-2026-estimates-shares-jump-after-hours-93CH-4826344
+  clip: clippings/web/Investing-AXT-Q2-2026法說逐字稿-20260730.md
+investing-aaoi-q2-20260806:
+  who: AAOI 法說逐字稿（Investing.com）
+  title: 'Earnings call transcript: Applied Optoelectronics tops Q2 2026 forecasts By Investing.com'
+  date: '2026-08-06'
+  level: 公司說
+  url: https://www.investing.com/news/transcripts/earnings-call-transcript-applied-optoelectronics-tops-q2-2026-forecasts-93CH-4844551
+  clip: clippings/web/Investing-AAOI-Q2-2026法說逐字稿-20260806.md
+sec-axt-8k-coherent-20260702:
+  who: AXT（SEC 8-K）
+  title: 與 Coherent 的三年 6 吋 InP 基板供應協議
+  date: '2026-07-02'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1051627/000143774926022557/axti20260630_8k.htm
+  clip: clippings/web/SEC-AXT-8K-長約-20260702.md
+sec-axt-8k-lumentum-20260729:
+  who: AXT（SEC 8-K）
+  title: 與 Lumentum 的六年產能保留協議
+  date: '2026-07-29'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1051627/000143774926024883/axti20260715_8k.htm
+  clip: clippings/web/SEC-AXT-8K-長約-20260729.md
+sec-axt-8k-casela-20260617:
+  who: AXT（SEC 8-K）
+  title: 通美與南京 Casela 的 2027 年供貨協議
+  date: '2026-06-17'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1051627/000143774926020978/axti20260615_8k.htm
+  clip: clippings/web/SEC-AXT-8K-長約Casela-20260617.md
+ctee-inp-20260812:
+  who: 工商時報
+  title: AI算力卡在一束光！「磷化銦InP」缺料風暴襲來  將比記憶體更缺？
+  date: '2026-08-12'
+  level: 媒體報
+  url: https://www.ctee.com.tw/news/20260812701099-430502
+  clip: clippings/web/工商時報-InP缺料風暴-20260812.md
+bnext-inp-20260803:
+  who: 數位時代
+  title: AI光通訊需求升溫！磷化銦InP是什麼？聯亞、全新等5檔概念股一次看
+  date: '2026-08-03'
+  level: 媒體報
+  url: https://www.bnext.com.tw/article/91622/what-is-inp-ai-optical-communication-stock
+  clip: clippings/web/數位時代-InP概念股聯亞全新-20260803.md
+vpec-slides-20260902:
+  who: 全新光電（公開資訊觀測站法說簡報）
+  title: 中信證券法說簡報
+  date: '2026-09-02'
+  level: 公司說
+  url: https://mopsov.twse.com.tw/nas/STR/245520260902M001.pdf
+  clip: clippings/web/MOPS-全新-中信法說簡報-20260902.md
+eettw-laser-shortage-20251231:
+  who: 電子工程專輯（TrendForce 稿）
+  title: AI資料中心引爆光通訊雷射缺貨潮
+  date: '2025-12-31'
+  level: 第三方
+  url: https://www.eettaiwan.com/20251231nt21-ai-datacenter-triggers-shortage-of-optical-communication-lasers/
+  clip: clippings/web/電子工程專輯TW-光通訊雷射缺貨潮-日期待查.md
+semitoday-iqe-20260909:
+  who: Semiconductor Today（IQE 公告）
+  title: IQE first-half 2026 revenue up 43% year-on-year, driven by AI data-center infrastructure, advanced sensing, wireless and defence
+  date: '2026-09-09'
+  level: 媒體報
+  url: https://www.semiconductor-today.com/news_items/2026/sep/iqe-090926.shtml
+  clip: clippings/web/SemiconductorToday-IQE上半年營收增43%-20260909.md
+semitoday-trendforce-laser-20260604:
+  who: TrendForce（Semiconductor Today 刊載）
+  title: AI data-center expansion to drive monthly capacity of EML and CW-DFB lasers to 50.7 million in 2026
+  date: '2026-06-04'
+  level: 第三方
+  url: https://www.semiconductor-today.com/news_items/2026/jun/trendforce-040626.shtml
+  clip: clippings/web/SemiconductorToday-TrendForce-EML-CW-DFB月產能-20260604.md
+investing-lumentum-q4fy26-20260811:
+  who: Lumentum 法說逐字稿（Investing.com）
+  title: 'Earnings call transcript: Lumentum tops Q4 2026 forecasts as AI demand lifts outlook By Investing.com'
+  date: '2026-08-11'
+  level: 公司說
+  url: https://www.investing.com/news/transcripts/earnings-call-transcript-lumentum-tops-q4-2026-forecasts-as-ai-demand-lifts-outlook-93CH-4852933
+  clip: clippings/web/Investing-Lumentum-FY26Q4法說逐字稿-20260811.md
+supercomputing-cpo-laser-202609:
+  who: Supercomputing News（引 LightCounting 分析師、OIF 規格、Lumentum 白皮書）
+  title: 'Co-Packaged Optics Light Source: Two Suppliers, Open Spec'
+  date: '2026-09-24'
+  level: 第三方
+  url: https://www.supercomputing.news/emerging/co-packaged-optics-light-source-two-suppliers-open-scale-up-spec
+  clip: clippings/web/SupercomputingNews-CPO光源兩家供應商-2026.md
+fool-broadcom-q3fy26-20260909:
+  who: Broadcom 法說逐字稿（The Motley Fool）
+  title: Broadcom (AVGO) Q3 2026 Earnings Call Transcript
+  date: 2026-09
+  level: 公司說
+  url: https://www.fool.com/earnings/call-transcripts/2026/09/09/broadcom-avgo-q3-2026-earnings-call-transcript/
+  clip: clippings/web/Fool-Broadcom-FY26Q3法說逐字稿-20260909.md
+webull-broadcom-q3fy26-20260903:
+  who: Broadcom 法說逐字稿（Webull）
+  title: Broadcom Q3 2026 Earnings Call Transcript
+  date: 2026-09
+  level: 公司說
+  url: https://www.webull.com/news/15511095937917952
+  clip: clippings/web/Webull-Broadcom-FY26Q3法說逐字稿-20260903.md
+wallstreetcn-yuanjie-h1-202608:
+  who: 華爾街見聞
+  title: AI算力需求爆发，源杰科技上半年营收同比增351%，净利润大增1212%｜财报见闻
+  date: 2026-08
+  level: 媒體報
+  url: https://wallstreetcn.com/articles/3780559
+  clip: clippings/web/華爾街見聞-源杰H1營收-2026日期不明.md
+eetchina-400mw-cw-20261009:
+  who: 電子工程專輯（作者文章）
+  title: 【光电集成】400mW高功率CW激光器深度解析：技术壁垒、产业博弈与国产突围进度-电子工程专辑
+  date: '2026-10-09'
+  level: KOL
+  url: https://www.eet-china.com/mp/a529621.html
+  clip: clippings/web/電子工程專輯-400mW高功率CW激光器深度解析-2026.md
+ledinside-cioe-20261008:
+  who: LEDinside
+  title: '[News] CIOE 2026 Highlights: Accelink, Eoptolink, TFC and 40+ Suppliers Demonstrated Latest Advances in Optical Communications'
+  date: '2026-10-08'
+  level: 媒體報
+  url: https://www.ledinside.com/news/2026/10/2026_10_08_01
+  clip: clippings/web/LEDinside-CIOE2026光通訊展-20261008.md
+sivers-glasgow-20260903:
+  who: Sivers Semiconductors 新聞稿
+  title: Sivers Semiconductors Invests USD 30 Million to Expand European Photonics Manufacturing for AI Datacenters - Sivers Semiconductors
+  date: '2026-09-03'
+  level: 一手
+  url: https://www.sivers-semiconductors.com/press/sivers-semiconductors-invests-usd-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters/
+  clip: clippings/web/Sivers新聞稿-格拉斯哥InP雷射廠擴產3千萬美元-2026.md
+theregister-coherent-4x-20260617:
+  who: The Register
+  title: Nvidia-backed optics vendor to boost wafer output by 4x to meet AI interconnect demand
+  date: '2026-06-17'
+  level: 媒體報
+  url: https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909
+  clip: clippings/web/TheRegister-NVIDIA支持光學廠晶圓產出4倍-20260617.md
+theregister-nvidia-scaleup-20260405:
+  who: The Register
+  title: Nvidia embraces optical scale-up as copper reaches limits
+  date: '2026-04-05'
+  level: 媒體報
+  url: https://www.theregister.com/on-prem/2026/04/05/nvidia-embraces-optical-scale-up-as-copper-reaches-limits/5225238
+  clip: clippings/web/TheRegister-NVIDIA擁抱光學scale-up-20260405.md
+semieng-cpo-link-budget-202606:
+  who: Semiconductor Engineering（作者文章）
+  title: 'CPO Will Dominate Scale-Up: Link Budgets For dB And $ Are Key'
+  date: 2026-06
+  level: 第三方
+  url: https://semiengineering.com/cpo-will-dominate-scale-up-link-budgets-for-db-and-are-key/
+  clip: clippings/web/SemiEngineering-CPO主導scale-up鏈路預算-2026.md
+semieng-lasers-heartbeat-202605:
+  who: Semiconductor Engineering（收錄 Lumentum、Coherent 投影片）
+  title: Lasers Are The Heartbeat Of The Optical AI Data Center
+  date: '2026-05-13'
+  level: 第三方
+  url: https://semiengineering.com/lasers-are-the-heartbeat-of-the-optical-ai-data-center/
+  clip: clippings/web/SemiEngineering-雷射是光資料中心心跳-20261006.md
+zacks-coherent-q4fy26-20260812:
+  who: Zacks
+  title: Coherent Q4 Earnings Call Highlights Faster AI Optics Capacity Ramp
+  date: '2026-08-12'
+  level: 媒體報
+  url: https://www.zacks.com/stock/news/2974308/coherent-q4-earnings-call-highlights-faster-ai-optics-capacity-ramp
+  clip: clippings/web/Zacks-Coherent-FY26Q4法說重點-20260812.md
+sec-coherent-10k-20260814:
+  who: Coherent（SEC 10-K）
+  title: Form 10-K, fiscal year ended 2026-06-30
+  date: '2026-08-14'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/820318/000082031826000020/iivi-20260630.htm
+  clip: clippings/web/SEC-Coherent-FY2026年報10K-20260814.md
+sec-lumentum-10k-20260817:
+  who: Lumentum（SEC 10-K）
+  title: Form 10-K, fiscal year ended 2026-06-27
+  date: '2026-08-17'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1633978/000162828026057358/lite-20260627.htm
+  clip: clippings/web/SEC-Lumentum-FY2026年報10K-20260817.md
+technews-tsmc-bottleneck-20260831:
+  who: 科技新報（引台積電）
+  title: AI 資料中心「神經系統」是光學！徐國晉：矽光子將成光收發器主流
+  date: '2026-08-31'
+  level: 媒體報
+  url: https://technews.tw/2026/08/31/semi-tsmc-silicon-photonics-global-summit/
+  clip: clippings/web/TechNews-徐國晉矽光子將成光收發器主流-20260831.md
+technews-tsmc-coupe-20260831:
+  who: 科技新報（引台積電）
+  title: 台積電揭 COUPE 藍圖：光源、調變器、SOA 全整合，進一步挑戰「光學中介層」
+  date: '2026-08-31'
+  level: 媒體報
+  url: https://technews.tw/2026/08/31/tsmc-coupe-semicon-taiwan-2026/
+  clip: clippings/web/TechNews-台積電COUPE-SEMICON2026-20260831.md
+cna-tsmc-bottleneck-20260831:
+  who: 中央社（引台積電）
+  title: 台積電：矽光子成光收發器主流 2027年市占估逾50%
+  date: '2026-08-31'
+  level: 媒體報
+  url: https://www.cna.com.tw/news/afe/202608310029.aspx
+  clip: clippings/web/中央社-徐國晉矽光子2027市占逾50%瓶頸雷射光纖連接器測試-20260831.md
+cna-tsmc-coupe-20260831:
+  who: 中央社（引台積電）
+  title: 台積電：AI詞元快速成長 I/O瓶頸成挑戰
+  date: '2026-08-31'
+  level: 媒體報
+  url: https://www.cna.com.tw/news/afe/202608310097.aspx
+  clip: clippings/web/中央社-陳明發COUPE異質整合IO瓶頸-20260831.md
+techorange-semicon-20260831:
+  who: TechOrange
+  title: SEMICON 2026 矽光子論壇 CPO
+  date: '2026-08-31'
+  level: 媒體報
+  url: https://techorange.com/2026/08/31/semicon-2026-silicon-photonics-forum-cpo/
+  clip: clippings/web/TechOrange-SEMICON2026矽光子論壇CPO-20260831.md
+yole-transceivers-20260506:
+  who: Yole
+  title: 'Opinion: optical transceivers at the chokepoint of AI growth and supply chain constraints'
+  date: '2026-05-06'
+  level: 第三方
+  url: https://www.yolegroup.com/strategy-insights/opinion-optical-transceivers-at-the-chokepoint-of-ai-growth-and-supply-chain-constraints/
+  clip: clippings/web/Yole-transceivers-chokepoint-20260506.md
+lightwave-lightcounting-202603:
+  who: Lightwave（LightCounting 稿）
+  title: AI scale-up raises the stakes for transceivers and CPO adoption
+  date: '2026-03-10'
+  level: 第三方
+  url: https://www.lightwaveonline.com/home/article/55362899/ai-scale-up-raises-the-stakes-for-transceivers-and-cpo-adoption
+  clip: clippings/web/Lightwave-LightCounting-AI-scale-up提高CPO賭注-2026.md
+trendforce-cpo-bottleneck-20260727:
+  who: TrendForce
+  title: 'TrendForce press: NVIDIA, Broadcom ramp CPO switch production'
+  date: '2026-07-27'
+  level: 第三方
+  url: https://trendforce.com/presscenter/news/20260727-13151.html
+  clip: clippings/web/TrendForce-NVIDIA博通CPO交換器量產三瓶頸-20260727.md
+mops-vpec-ar2025-20260529:
+  who: 全新光電（公開資訊觀測站年報）
+  title: 114 年度股東會年報
+  date: '2026-05-29'
+  level: 一手
+  url: https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=2455&year=115&mtype=F& （檔名 2025_2455_20260529F04.pdf）
+  clip: clippings/web/MOPS-全新-2025年報-主要原料供應商-20260529.md
+mops-landmark-ar2025-20260527:
+  who: 聯亞光電（公開資訊觀測站年報）
+  title: 114 年度股東會年報
+  date: '2026-05-27'
+  level: 一手
+  url: https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3081&year=115&mtype=F& （檔名 2025_3081_20260527F04.pdf）
+  clip: clippings/web/MOPS-聯亞-2025年報-主要原料供應商-20260527.md
+mops-iet-ar2025-20260623:
+  who: 英特磊（公開資訊觀測站年報）
+  title: 114 年度股東會年報
+  date: '2026-06-23'
+  level: 一手
+  url: https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=4971&year=115&mtype=F& （檔名 2025_4971_20260623F04.pdf）
+  clip: clippings/web/MOPS-英特磊-2025年報-主要原料供應商-20260623.md
+nouryon-hpmo-202603:
+  who: Nouryon
+  title: HPMO high purity metalorganics 型錄
+  date: 2026-03
+  level: 公司說
+  url: https://nouryon.com/globalassets/inriver/resources/brochure-hpmo-high-purity-metalorganics-en_us.pdf
+  clip: clippings/web/Nouryon-HPMO型錄-LaPorte生產MO源-202603.md
+nouryon-alkyls-20261012:
+  who: Nouryon
+  title: 金屬烷基產品頁
+  date: 2026-10-12（擷取）
+  level: 公司說
+  url: https://nouryon.com/products/metal-alkyls/
+  clip: clippings/web/Nouryon產品頁-金屬烷基-生產地嘉興LaPorte鹿特丹-20261012.md
+cninfo-irm-tmin-20261012:
+  who: 深交所互動易（南大光電、恆星科技、東山精密的回覆）
+  title: 三甲基銦、MO 源、銦出口管制相關問答
+  date: 2026-07～09
+  level: 公司說
+  url: https://irm.cninfo.com.cn/
+  clip: clippings/web/互動易-三甲基銦MO源銦出口管制-問答-20261012.json
+tmtpost-inp-indium-20260508:
+  who: 鈦媒體（轉述券商）
+  title: 缺口超50%，订单排到2028年，磷化铟的“断供”危机才刚开始-钛媒体官方网站
+  date: '2026-05-08'
+  level: 媒體報
+  url: https://www.tmtpost.com/7979390.html
+  clip: clippings/web/鈦媒體-InP斷供危機申萬宏源銦需求163噸-20260508.md
+guancha-inp-20260623:
+  who: 觀察者網
+  title: 从磷化铟的故事看中国关键矿产出口管制
+  date: '2026-06-23'
+  level: 媒體報
+  url: https://www.guancha.cn/xinzhiguanchasuo/2026_06_23_821317.shtml
+  clip: clippings/web/觀察者網心智觀察所-InP出口管制產業圖譜-20260623.md
+sei-tr205-cpo-laser-202407:
+  who: 住友電工（SEI テクニカルレビュー）
+  title: CPO向け400mW級1.3µm帯高出力半導体レーザ
+  date: 2024-07
+  level: 一手
+  url: https://sumitomoelectric.com/jp/sites/japan/files/2024-07/download_documents/J205-05.pdf
+  clip: clippings/web/住友電工TechnicalReview205-CPO用400mW級1.3um高出力雷射-202407.md
+melco-irday-qa-20260608:
+  who: 三菱電機
+  title: IR Day 2026 事業戦略 質疑応答要旨
+  date: '2026-06-08'
+  level: 公司說
+  url: https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co7.pdf
+  clip: clippings/web/三菱電機-IRDay2026事業戦略質疑応答-CPO-CW雷射-20260608.md
+melco-irday-semi-20260529:
+  who: 三菱電機
+  title: IR Day 2026 半導体・デバイス事業
+  date: '2026-05-29'
+  level: 公司說
+  url: https://www.mitsubishielectric.co.jp/ja/pr/2026/pdf/0529_co5.pdf
+  clip: clippings/web/三菱電機-IRDay2026半導體デバイス事業簡報-CPO-CW光源-20260529.md
+furukawa-dfb-plant-20251217:
+  who: 古河電工新聞稿
+  title: 信号光源用高出力DFBレーザダイオードチップの製造工場を新設
+  date: '2025-12-17'
+  level: 一手
+  url: https://www.furukawaelectric.com/release/2025/comm_20251217.html
+  clip: clippings/web/古河電工新聞稿-高出力DFB雷射晶片岩手新廠380億日圓-20251217.md
+furukawa-q1fy26-qa-20260806:
+  who: 古河電工
+  title: 2026年度第1四半期決算 説明会 質疑応答録
+  date: '2026-08-06'
+  level: 公司說
+  url: https://www.furukawa.co.jp/ir/library/finalreport/pdf/2027/20260806_online-qa.pdf
+  clip: clippings/web/古河電工-2026年度Q1決算說明會質疑應答-DFB雷射-20260806.md
+furukawa-mgmt-qa-20260519:
+  who: 古河電工
+  title: 経営説明会 質疑応答
+  date: '2026-05-19'
+  level: 公司說
+  url: https://www.furukawa.co.jp/ir/library/mid_briefing/pdf/2026/20260519_management_qa.pdf
+  clip: clippings/web/古河電工-經營說明會質疑應答-InP雷射-20260519.md
+furukawa-ofc2026-elsfp-202603:
+  who: 古河電工（OFC 2026 論文 W3E.1）
+  title: Ultra-High Optical Output Power External Laser Sources for Co-Packaged Optics
+  date: 2026-03
+  level: 一手
+  url: https://opg.optica.org/abstract.cfm?uri=OFC-2026-W3E.1
+  clip: clippings/web/Optica-OFC2026-W3E1-古河電工16通道ELSFP高出力外部光源論文摘要-202603.md
+sec-broadcom-10k-20251218:
+  who: Broadcom（SEC 10-K）
+  title: Form 10-K FY2025
+  date: '2025-12-18'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm
+  clip: clippings/web/SEC-Broadcom-FY2025年報10K-20251218.md
+sec-broadcom-10q-20260910:
+  who: Broadcom（SEC 10-Q）
+  title: Form 10-Q, quarter ended 2026-08-02
+  date: '2026-09-10'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1730168/000173016826000080/avgo-20260802.htm
+  clip: clippings/web/SEC-Broadcom-FY26Q3-10Q-20260910.md
+broadcom-pr-bailly-20240314:
+  who: Broadcom 新聞稿
+  title: Broadcom Delivers Industry's First 51.2-Tbps Co-Packaged Optics Ethernet Switch Platform
+  date: '2024-03-14'
+  level: 一手
+  url: https://investors.broadcom.com/news-releases/news-release-details/broadcom-delivers-industrys-first-512-tbps-co-packaged-optics
+  clip: clippings/web/broadcom-pr-bailly-51.2T-CPO-遠端雷射模組-20240314.md
+broadcom-ecoc2025-202509:
+  who: Broadcom（ECOC 2025 簡報）
+  title: Will you need CPO in 5 years, 3 years, or do you need it Now?
+  date: 2025-09
+  level: 公司說
+  url: https://www.ecocexhibition.com/wp-content/uploads/Tues-1300-R.Pancholy-R1.1.pdf
+  clip: clippings/web/Broadcom簡報-ECOC2025-Pancholy-CPO可靠度BFC雷射模組-202509.md
+naddod-1p6t-lasers-20250530:
+  who: NADDOD 部落格
+  title: '1.6T Optical Module Solutions: SiPh vs. EML'
+  date: '2025-05-30'
+  level: 第三方
+  url: https://www.naddod.com/blog/silicon-photonics-vs-eml-technology-optimizing-1-6t-osfp224-transceivers
+  clip: clippings/web/NADDOD部落格-1.6T矽光vsEML雷射顆數-20250530.md
+lumentum-elsfp-wp-202606:
+  who: Lumentum 白皮書
+  title: ELSFP reliability
+  date: 2026-06
+  level: 公司說
+  url: https://www.lumentum.com/sites/default/files/2026-06/elsfpreliability-wp-cl-ae.pdf
+  clip: clippings/web/Lumentum白皮書-ELSFP可靠度UHP雷射20FIT-202606.md
+wallstreetcn-tianfeng-bom-20260418:
+  who: 華爾街見聞（轉述券商報告）
+  title: CPO 通信器件深度剖析（BOM 拆解）
+  date: '2026-04-18'
+  level: 第三方
+  url: https://wallstreetcn.com/articles/3770323
+  clip: clippings/web/華爾街見聞-天風證券CPO交換機BOM70640美元-20260418.md
+dwzq-inp-20260513:
+  who: 東吳證券
+  title: 磷化銦：光之基石（行業點評）
+  date: '2026-05-13'
+  level: 第三方
+  url: https://pdf.dfcfw.com/pdf/H3_AP202605131822277568_1.pdf
+  clip: clippings/web/東吳證券-磷化铟光之基石行業點評-20260513.md
+sina-axt-inp-20260615:
+  who: 新浪
+  title: AXT三日涨超63%
+  date: '2026-06-15'
+  level: 媒體報
+  url: https://www.sina.cn/news/detail/5329961313370941.html
+  clip: clippings/web/新浪-AXT三日漲超63%磷化铟供需缺口-20260615.md
+fxbaogao-inp-20260105:
+  who: 未具名機構會議紀要（發現報告摘要）
+  title: 磷化銦全球供需情況和擴產預期
+  date: '2026-01-05'
+  level: KOL
+  url: https://www.fxbaogao.com/detail/5227237
+  clip: clippings/web/發現報告-磷化铟全球供需和扩产预期纪要-20260105.md
+sina-semiinsights-inp-20260123:
+  who: 半導體行業觀察（新浪財經轉載）
+  title: 磷化铟，火了！
+  date: '2026-01-23'
+  level: 媒體報
+  url: https://t.cj.sina.com.cn/articles/view/3856710564/e5e0bba401901rydy
+  clip: clippings/web/新浪財經-半導體行業觀察-磷化铟火了-20260123.md
+toyokeizai-inp-20260904:
+  who: 東洋經濟
+  title: JX金属と住友電工で世界シェア8割！ ｢インジウムリン基板｣は40年大きな変化がなかったのにAIデータセンターで10倍増産
+  date: '2026-09-04'
+  level: 媒體報
+  url: https://toyokeizai.net/articles/-/956589
+  clip: clippings/web/東洋經濟-JX金屬住友電工InP基板世界シェア8割-20260904.md
+sec-lumentum-8k-q4fy26-20260811:
+  who: Lumentum（SEC 8-K 附件 99.1）
+  title: Fourth Quarter and Full Fiscal Year 2026 Results
+  date: '2026-08-11'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1633978/000162828026055726/lite_ex991xq4fy26.htm
+  clip: clippings/web/SEC-Lumentum-FY26Q4財報新聞稿-ELS模組首單-20260811.md
+lumentum-pr-ecoc2026-20260921:
+  who: Lumentum 新聞稿
+  title: Lumentum to Demonstrate DWDM ELSFP Laser Module for OCI MSA Applications at ECOC 2026
+  date: '2026-09-21'
+  level: 一手
+  url: https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-to-Demonstrate-DWDM-ELSFP-Laser-Module-for-OCI-MSA-Applications-at-ECOC-2026/default.aspx
+  clip: clippings/web/lumentum-pr-ecoc2026-dwdm-elsfp-20260921.md
+lumentum-pr-ofc2026-20260317:
+  who: Lumentum 新聞稿
+  title: Lumentum Demonstrates Industry-Leading Technologies and Products for Scale-Out, Scale-Up and Scale-Across AI Infrastructure at OFC 2026
+  date: '2026-03-17'
+  level: 一手
+  url: https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Demonstrates-Industry-Leading-Technologies-and-Products-for-Scale-Out-Scale-Up-and-Scale-Across-AI-Infrastructure-at-OFC-2026/default.aspx
+  clip: clippings/web/lumentum-pr-ofc2026-20260317.md
+futurum-coherent-ofc2026-20260323:
+  who: Futurum
+  title: Coherent's $23 Billion Growth Opportunity Lifted by NVIDIA's Optical Ambitions
+  date: '2026-03-23'
+  level: 第三方
+  url: https://futurumgroup.com/insights/coherents-23-billion-growth-opportunity-lifted-by-nvidias-optical-ambitions/
+  clip: clippings/web/Futurum-Coherent-OFC2026-230億機會-ELS與FAU是CPO最大兩塊-20260323.md
+webull-coherent-q4fy26-20260812:
+  who: Coherent 法說稿（Webull，機器翻譯）
+  title: Coherent FY26 Q4 法說
+  date: '2026-08-12'
+  level: 公司說
+  url: https://www.webull.com/news/15393555909010432
+  clip: clippings/web/Webull-Coherent-FY26Q4法說-CPO無延遲-20260812.md
+moj-asset-rule31-20261012:
+  who: 全國法規資料庫
+  title: 公開發行公司取得或處分資產處理準則第 31 條
+  date: 2026-10-12（查詢）
+  level: 一手
+  url: https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=G0400069&flno=31
+  clip: clippings/web/全國法規資料庫-取得或處分資產處理準則第31條公告門檻-20261012.md
+digitimes-inp-export-20260615:
+  who: DIGITIMES（付費牆，只有首段）
+  title: China eases InP substrate exports, lifting compound semiconductor supply
+  date: '2026-06-15'
+  level: 媒體報
+  url: https://www.digitimes.com/news/a20260615PD212/substrate-exports-capacity-2026-market.html
+  clip: clippings/web/DIGITIMES英文-中國放寬InP基板出口-20260615.md
+cninfo-tfc-irm-20260709:
+  who: 天孚通信（巨潮資訊網）
+  title: 投資者關係活動記錄表
+  date: '2026-07-09'
+  level: 公司說
+  url: http://static.cninfo.com.cn/finalpage/2026-07-09/1225417924.PDF
+  clip: clippings/web/巨潮-天孚通信-投資者關係活動記錄-20260709.md
+taiwannews-tsmc-20260831:
+  who: Taiwan News（引中央社）
+  title: Taiwan News：TSMC Hsu Kuo-chin silicon photonics
+  date: '2026-08-31'
+  level: 媒體報
+  url: https://www.taiwannews.com.tw/news/6430625
+  clip: clippings/web/TaiwanNews-徐國晉矽光子瓶頸雷射連接器測試-2026.md
+cnyes-tsmc-semicon-20260831:
+  who: 鉅亨網
+  title: 〈SEMICON〉徐國晉：矽光子2027年滲透率破5成 CPO今年下半年量產（鉅亨）
+  date: '2026-08-31'
+  level: 媒體報
+  url: https://news.cnyes.com/news/id/6592509
+  clip: clippings/web/鉅亨-SEMICON徐國晉矽光子2027滲透率破5成-20260831.md
+cnyes-cpo-suppliers-20260724:
+  who: 鉅亨網
+  title: 聯亞漲停只是第一槍？ 輝達全面導入CPO，8大供應鏈迎黃金爆發期！
+  date: '2026-07-24'
+  level: 媒體報
+  url: https://news.cnyes.com/news/id/6544508
+  clip: clippings/web/鉅亨網-CPO八大供應鏈-20260724.md
+mops-capex-20261012:
+  who: 公開資訊觀測站（重大訊息全文，經 data/mops_capex.py 整理）
+  title: 31 家公司 2025–2026 取得機器設備、廠務、資本支出公告
+  date: 2026-10-12（擷取）
+  level: 一手
+  url: https://mops.twse.com.tw/mops/#/web/t05st01
+  clip: clippings/data/mops-capex-公告.csv
+finmind-laser-tw-20261012:
+  who: 公開資訊觀測站月營收（經 FinMind）
+  title: 聯亞、全新、英特磊、光環、華星光、聯鈞、立碁、環宇-KY 月營收
+  date: 2026-10-12（擷取）
+  level: 一手
+  url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockMonthRevenue
+  clip: clippings/data/laser-tw-月營收.csv
+
+allmind-tower-q3-20251110:
+  who: "Tower 法說逐字稿（AllMind，AI 轉寫稿）"
+  title: "Tower Semiconductor Q3 2025 Earnings Call"
+  date: '2025-11-10'
+  level: "第三方轉錄"
+  url: "https://allmind.ai/earnings/event/bt_TSEM_2025_Q3"
+  clip: clippings/web/AllMind-Tower-2025Q3法說逐字稿-20251110.md
+allmind-tower-q1-20260513:
+  who: "Tower 法說逐字稿（AllMind，AI 轉寫稿）"
+  title: "Tower Semiconductor Q1 2026 Earnings Call"
+  date: '2026-05-13'
+  level: "第三方轉錄"
+  url: "https://allmind.ai/earnings/event/bt_TSEM_2026_Q1"
+  clip: clippings/web/AllMind-Tower-2026Q1法說逐字稿-20260513.md
+fool-coherent-q1fy26-20251106:
+  who: "Coherent 法說逐字稿（Motley Fool，第三方轉錄）"
+  title: "Coherent FY2026 Q1 Earnings Call Transcript"
+  date: '2025-11-05'
+  level: "第三方轉錄"
+  url: "https://www.fool.com/earnings/call-transcripts/2025/11/06/coherent-cohr-q1-2026-earnings-call-transcript"
+  clip: clippings/web/Fool-Coherent-2026Q1法說逐字稿-20251106.md
+fool-coherent-q2fy26-20260204:
+  who: "Coherent 法說逐字稿（Motley Fool，第三方轉錄）"
+  title: "Coherent FY2026 Q2 Earnings Call Transcript"
+  date: '2026-02-04'
+  level: "第三方轉錄"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/02/04/coherent-cohr-q2-2026-earnings-call-transcript"
+  clip: clippings/web/Fool-Coherent-2026Q2法說逐字稿-20260204.md
+allmind-coherent-q4fy26-20260812:
+  who: "Coherent 法說逐字稿（AllMind，AI 轉寫稿）"
+  title: "Coherent FY2026 Q4 Earnings Call"
+  date: '2026-08-12'
+  level: "第三方轉錄"
+  url: "https://allmind.ai/earnings/event/bt_COHR_2026_Q4"
+  clip: clippings/web/AllMind-Coherent-2026Q4法說逐字稿-20260812.md
+allmind-lumentum-q1fy26-20251104:
+  who: "Lumentum 法說逐字稿（AllMind，AI 轉寫稿）"
+  title: "Lumentum FY2026 Q1 Earnings Call"
+  date: '2025-11-04'
+  level: "第三方轉錄"
+  url: "https://allmind.ai/earnings/event/bt_LITE_2026_Q1"
+  clip: clippings/web/AllMind-Lumentum-2026Q1法說逐字稿-20251104.md
+fool-lumentum-q2fy26-20260203:
+  who: "Lumentum 法說逐字稿（Motley Fool，第三方轉錄）"
+  title: "Lumentum FY2026 Q2 Earnings Call Transcript"
+  date: '2026-02-03'
+  level: "第三方轉錄"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/02/03/lumentum-lite-q2-2026-earnings-call-transcript"
+  clip: clippings/web/Fool-Lumentum-2026Q2法說逐字稿-20260203.md
+fool-lumentum-q3fy26-20260506:
+  who: "Lumentum 法說逐字稿（Motley Fool，第三方轉錄）"
+  title: "Lumentum FY2026 Q3 Earnings Call Transcript"
+  date: '2026-05-05'
+  level: "第三方轉錄"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/05/06/lumentum-lite-q3-2026-earnings-transcript"
+  clip: clippings/web/Fool-Lumentum-2026Q3法說逐字稿-20260506.md
+allmind-aaoi-q3-20251107:
+  who: "AAOI 法說逐字稿（AllMind，AI 轉寫稿）"
+  title: "Applied Optoelectronics Q3 2025 Earnings Call"
+  date: '2025-11-07'
+  level: "第三方轉錄"
+  url: "https://allmind.ai/earnings/event/bt_AAOI_2025_Q3"
+  clip: clippings/web/AllMind-AAOI-2025Q3法說逐字稿-20251107.md
+fool-aaoi-q4-20260226:
+  who: "AAOI 法說逐字稿（Motley Fool，第三方轉錄）"
+  title: "Applied Optoelectronics Q4 2025 Earnings Call"
+  date: '2026-02-26'
+  level: "第三方轉錄"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/02/26/applied-optoelectronics-aaoi-earnings-call"
+  clip: clippings/web/Fool-AAOI-2025Q4法說逐字稿-20260226.md
+fool-aaoi-q1-20260507:
+  who: "AAOI 法說逐字稿（Motley Fool，第三方轉錄）"
+  title: "Applied Optoelectronics Q1 2026 Earnings Call Transcript"
+  date: '2026-05-07'
+  level: "第三方轉錄"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/05/07/aaoi-q1-2026-earnings-call-transcript"
+  clip: clippings/web/Fool-AAOI-2026Q1法說逐字稿-20260507.md
+allmind-axt-q3-20251030:
+  who: "AXT 法說逐字稿（AllMind，AI 轉寫稿）"
+  title: "AXT Q3 2025 Earnings Call"
+  date: '2025-10-30'
+  level: "第三方轉錄"
+  url: "https://allmind.ai/earnings/event/bt_AXTI_2025_Q3"
+  clip: clippings/web/AllMind-AXT-2025Q3法說逐字稿-20251030.md
+allmind-axt-q4-20260220:
+  who: "AXT 法說逐字稿（AllMind，AI 轉寫稿）"
+  title: "AXT Q4 2025 Earnings Call"
+  date: '2026-02-20'
+  level: "第三方轉錄"
+  url: "https://allmind.ai/earnings/event/bt_AXTI_2025_Q4"
+  clip: clippings/web/AllMind-AXT-2025Q4法說逐字稿-20260220.md
+fool-axt-q1-20260430:
+  who: "AXT 法說逐字稿（Motley Fool，第三方轉錄）"
+  title: "AXT Q1 2026 Earnings Call Transcript"
+  date: '2026-04-30'
+  level: "第三方轉錄"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/04/30/axt-axti-q1-2026-earnings-call-transcript"
+  clip: clippings/web/Fool-AXT-2026Q1法說逐字稿-20260430.md
+cninfo-tfc-irm-20251127:
+  who: "天孚通信 投資者關係活動記錄表"
+  title: "天孚通信 2025-11-27 投資者關係活動記錄表"
+  date: '2025-11-27'
+  level: "公司說"
+  url: "http://static.cninfo.com.cn/finalpage/2025-11-27/1224831855.PDF"
+  clip: clippings/web/巨潮-天孚通信-投資者關係活動記錄-20251127.md
+szse-irm-tfc-20260826:
+  who: "天孚通信（深交所互動易答覆）"
+  title: "天孚通信 CPO 相關互動易問答（答覆日 2026-08-21）"
+  date: '2026-08-26'
+  level: "公司說"
+  url: "https://irm.cninfo.com.cn/views/interactiveAnswer"
+  clip: clippings/web/深交所互動易-天孚通信-CPO相關問答-20260826.md
+cninfo-hgtech-irm-20251026:
+  who: "華工科技 投資者關係活動記錄表"
+  title: "華工科技 2025-10-26 投資者關係活動記錄表"
+  date: '2025-10-26'
+  level: "公司說"
+  url: "http://static.cninfo.com.cn/finalpage/2025-10-26/1224737965.PDF"
+  clip: clippings/web/巨潮-華工科技-投資者關係活動記錄-20251026.md
+cninfo-hgtech-irm-20260326:
+  who: "華工科技 投資者關係活動記錄表"
+  title: "華工科技 2026-03-26 投資者關係活動記錄表"
+  date: '2026-03-26'
+  level: "公司說"
+  url: "http://static.cninfo.com.cn/finalpage/2026-03-26/1225037283.PDF"
+  clip: clippings/web/巨潮-華工科技-投資者關係活動記錄-20260326.md
+cninfo-innolight-irm-20260201:
+  who: "中際旭創 投資者關係活動記錄表"
+  title: "中際旭創 2026-02-01 投資者關係活動記錄表"
+  date: '2026-02-01'
+  level: "公司說"
+  url: "http://static.cninfo.com.cn/finalpage/2026-02-01/1224960917.PDF"
+  clip: clippings/web/巨潮-中際旭創-投資者關係活動記錄-20260201.md
+sse-sourcephotonics-irm-20260602:
+  who: "仕佳光子 投資者關係活動記錄表"
+  title: "仕佳光子 2026-06-02 投資者關係活動記錄表"
+  date: '2026-06-02'
+  level: "公司說"
+  url: "https://pdf.dfcfw.com/pdf/H2_AN202606021823158507_1.pdf"
+  clip: clippings/web/上交所公告-仕佳光子-投資者關係活動記錄-20260602-2026-003.md
+sse-sourcephotonics-irm-20260805:
+  who: "仕佳光子 投資者關係活動記錄表"
+  title: "仕佳光子 2026-08-05 投資者關係活動記錄表"
+  date: '2026-08-05'
+  level: "公司說"
+  url: "https://pdf.dfcfw.com/pdf/H2_AN202608051827667406_1.pdf"
+  clip: clippings/web/上交所公告-仕佳光子-投資者關係活動記錄-20260805-2026-004.md
+sse-sourcephotonics-irm-20260806:
+  who: "仕佳光子 投資者關係活動記錄表"
+  title: "仕佳光子 2026-08-06 投資者關係活動記錄表"
+  date: '2026-08-06'
+  level: "公司說"
+  url: "https://pdf.dfcfw.com/pdf/H2_AN202608061827710300_1.pdf"
+  clip: clippings/web/上交所公告-仕佳光子-投資者關係活動記錄-20260806-2026-006.md
+sse-yuanjie-irm-20251103:
+  who: "源杰科技 投資者關係活動記錄表"
+  title: "源杰科技 2025-11-03 投資者關係活動記錄表"
+  date: '2025-11-03'
+  level: "公司說"
+  url: "https://pdf.dfcfw.com/pdf/H2_AN202511031774373909_1.pdf"
+  clip: clippings/web/上交所公告-源杰科技-投資者關係活動記錄-20251103.md
+sse-yuanjie-irm-20260831:
+  who: "源杰科技 投資者關係活動記錄表"
+  title: "源杰科技 2026-08-31 投資者關係活動記錄表"
+  date: '2026-08-31'
+  level: "公司說"
+  url: "https://pdf.dfcfw.com/pdf/H2_AN202608311828813316_1.pdf"
+  clip: clippings/web/上交所公告-源杰科技-投資者關係活動記錄-20260831.md
+sse-everbright-irm-20251204:
+  who: "長光華芯 投資者關係活動記錄表"
+  title: "長光華芯 2025-12-04 投資者關係活動記錄表"
+  date: '2025-12-04'
+  level: "公司說"
+  url: "https://pdf.dfcfw.com/pdf/H2_AN202512041793874710_1.pdf"
+  clip: clippings/web/上交所公告-長光華芯-投資者關係活動記錄-20251204.md
+furukawa-q2fy25-speech-20251110:
+  who: "古河電工 2025 年度第 2 季決算說明會講演全文"
+  title: "古河電工 2025 年度 Q2 決算説明会（講演全文）"
+  date: '2025-11-10'
+  level: "一手"
+  url: "https://www.furukawa.co.jp/ir/library/finalreport/pdf/2026/20251110_telecon.pdf"
+  clip: clippings/web/古河電工-2025年度Q2決算説明會テキスト講演全文-20251110.md
+mops-applied-opto-20251222:
+  who: "光環 國票證券場法說簡報（公開資訊觀測站）"
+  title: "光環 法說會簡報"
+  date: '2025-12-22'
+  level: "一手"
+  url: "https://mopsov.twse.com.tw/nas/STR/323420251222M001.pdf"
+  clip: clippings/web/MOPS-光環-國票法說簡報-20251222.md
+fugle-applied-opto-20251222:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "光環 法說會備忘錄"
+  date: '2025-12-22'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-3234-2025-12-22"
+  clip: clippings/web/富果-光環-法說備忘錄-20251222.md
+fugle-luxnet-20251222:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "華星光 法說會備忘錄"
+  date: '2025-12-22'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-4979-2025-12-22"
+  clip: clippings/web/富果-華星光-法說備忘錄-20251222.md
+fugle-unitedopto-20260818:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "聯鈞 法說會備忘錄"
+  date: '2026-08-18'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-3450-2026-08-18"
+  clip: clippings/web/富果-聯鈞-法說備忘錄-20260818.md
+fugle-unitedopto-20251119:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "聯鈞 法說會備忘錄"
+  date: '2025-11-19'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-3450-2025-11-19"
+  clip: clippings/web/富果-聯鈞-法說備忘錄-20251119.md
+mops-unitedopto-slides-20260818:
+  who: "聯鈞 法說簡報（公開資訊觀測站）"
+  title: "聯鈞 法說會簡報"
+  date: '2026-08-18'
+  level: "一手"
+  url: "https://mopsov.twse.com.tw/nas/STR/345020260818M001.pdf"
+  clip: clippings/web/MOPS-聯鈞-法說簡報-20260818.md
+fugle-ufo-20260304:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "環宇-KY 法說會備忘錄"
+  date: '2026-03-04'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-4991-2026-03-04"
+  clip: clippings/web/富果-環宇-KY-法說備忘錄-20260304.md
+fugle-ufo-20260505:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "環宇-KY 法說會備忘錄"
+  date: '2026-05-05'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-4991-2026-05-05"
+  clip: clippings/web/富果-環宇-KY-法說備忘錄-20260505.md
+fugle-ufo-20260805:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "環宇-KY 法說會備忘錄"
+  date: '2026-08-05'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-4991-2026-08-05"
+  clip: clippings/web/富果-環宇-KY-法說備忘錄-20260805.md
+fugle-iet-20260312:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "英特磊（IET-KY）法說會備忘錄"
+  date: '2026-03-12'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-4971-2026-03-12"
+  clip: clippings/web/富果-IET-KY-法說備忘錄-20260312.md
+fugle-iet-20260507:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "英特磊（IET-KY）法說會備忘錄"
+  date: '2026-05-07'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-4971-2026-05-07"
+  clip: clippings/web/富果-IET-KY-法說備忘錄-20260507.md
+fugle-iet-20260827:
+  who: "富果研究（第三方整理，不是原話）"
+  title: "英特磊（IET-KY）法說會備忘錄"
+  date: '2026-08-27'
+  level: "第三方整理"
+  url: "https://blog.fugle.tw/post/earnings-call-4971-2026-08-27"
+  clip: clippings/web/富果-IET-KY-法說備忘錄-20260827.md
+fool-coherent-q3fy26-20260506:
+  who: "Coherent 法說逐字稿（Motley Fool，第三方轉錄）"
+  title: "Coherent FY2026 Q3 Earnings Call Transcript"
+  date: '2026-05-06'
+  level: "第三方轉錄"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/05/06/coherent-cohr-q3-2026-earnings-transcript"
+  clip: clippings/web/Fool-Coherent-2026Q3法說逐字稿-20260506.md

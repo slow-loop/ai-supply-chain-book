@@ -1,0 +1,786 @@
+# equipment-test.md 新增的出處。格式同 ../../refs.yaml。
+gvm-gmt-20260828:
+  who: 遠見
+  title: 「不轉型也是死！」高明鐵熬過多年虧損，如何押中矽光子翻身？
+  date: '2026-08-28'
+  level: 媒體報
+  url: https://www.gvm.com.tw/article/132700
+  clip: clippings/web/遠見-高明鐵押中矽光子-20260828.md
+technews-trendforce-test-20260506:
+  who: TechNews（TrendForce 文章）
+  title: CPO 檢測成為量產關鍵瓶頸，盤點已卡位新藍海的設備商動態
+  date: '2026-05-06'
+  level: 第三方
+  url: https://technews.tw/2026/05/06/testing-is-the-critical-bottleneck-in-cpo-mass-production/
+  clip: clippings/web/TechNews-TrendForce測試是CPO量產瓶頸-20260506.md
+trendforce-cpo-test-20260720:
+  who: TrendForce Insights
+  title: The Critical Bottleneck in CPO Mass Production? It's Testing
+  date: '2026-07-20'
+  level: 第三方
+  url: https://insights.trendforce.com/p/cpo-testing-market-opportunities
+  clip: clippings/web/TrendForce-Insights-CPO測試是量產瓶頸-20260720.md
+ctee-allring-gp-20260820:
+  who: 工商時報
+  title: 輝達CPO交換器量產 設備廠準備發光 法人點名萬潤、均豪等有望受惠
+  date: '2026-08-20'
+  level: 媒體報
+  url: https://www.ctee.com.tw/news/20260820700080-439901
+  clip: clippings/web/工商時報-CPO量產設備萬潤均豪-20260820.md
+photoncap-test-100s-2026:
+  who: PhotonCap（Substack）
+  title: 'The 100-Second Bottleneck Behind NVIDIA CPO: 7 Companies That Own the 4-Stage Test Stack'
+  date: 2026-05
+  level: KOL
+  url: https://photoncap.net/p/the-100-second-bottleneck-behind
+  clip: clippings/web/Photoncap-100秒測試瓶頸-2026.md
+technews-gs-allring-20260709:
+  who: TechNews（引高盛）
+  title: 看好 CoWoS、CPO 雙引擎動能！高盛調整萬潤目標價 1,550 元
+  date: '2026-07-09'
+  level: 第三方
+  url: https://technews.tw/2026/07/09/goldman-sachs-see-all-ring/
+  clip: clippings/web/TechNews-高盛萬潤CPO設備出貨低於預期-20260709.md
+ctee-allring-20260727:
+  who: 工商時報
+  title: 《半導體》萬潤亮燈攻頂站回千元關 外資續看讚後市
+  date: '2026-07-27'
+  level: 媒體報
+  url: https://www.ctee.com.tw/news/20260727700938-430201
+  clip: clippings/web/工商時報-萬潤-20260727.md
+cnyes-gmt-order-20260723:
+  who: 鉅亨網
+  title: 高明鐵H1業績超越去年一整年下半年更佳 並取得800G/1.6T耦光對位訂單
+  date: '2026-07-23'
+  level: 媒體報
+  url: https://news.cnyes.com/news/id/6543638
+  clip: clippings/web/cnyes-gaomingtie-800g-1.6t-coupling-order-20261010.md
+udn-gmt-expand-20260928:
+  who: 經濟日報
+  title: CPO 設備供應商出貨爆發 直得、高明鐵等啟動擴廠計畫 | 產業熱點 | 產業 | 經濟日報
+  date: '2026-09-28'
+  level: 媒體報
+  url: https://money.udn.com/money/story/5612/9780503
+  clip: clippings/web/經濟日報-直得高明鐵擴廠-20260928.md
+ctee-allring-sipho-20260821:
+  who: 工商時報
+  title: CoWoS賺飽飽！萬潤7月獲利倍增 還要打造矽光子CPO為第二成長曲線
+  date: '2026-08-21'
+  level: 媒體報
+  url: https://www.ctee.com.tw/news/20260821700206-439901
+  clip: clippings/web/工商時報-萬潤矽光子第二曲線-20260821.md
+fugle-allring-20260827:
+  who: 富果（AI 法說摘要）
+  title: 【萬潤法說會重點內容備忘錄】未來展望趨勢 20260827
+  date: '2026-08-27'
+  level: 第三方
+  url: https://blog.fugle.tw/post/earnings-call-6187-2026-08-27
+  clip: clippings/web/富果-萬潤法說備忘錄-20260827.md
+mirror-gmt-tyd-20260903:
+  who: 鏡報
+  title: 黑手黨雙雄CPO開打？高明鐵裝「找光大腦」、東佑達練「奈米筋骨」　現錯位未來恐對撞
+  date: '2026-09-03'
+  level: 媒體報
+  url: https://www.mirrordaily.news/story/83437
+  clip: clippings/web/鏡報-高明鐵東佑達六軸對位-20260903.md
+udn-largan-machine-20260416:
+  who: 聯合報
+  title: 大立光自研機台拚突圍 林恩平定調CPO為優先專案：明後年看可行性
+  date: '2026-04-16'
+  level: 媒體報（引公司說）
+  url: https://udn.com/news/story/7240/9446188
+  clip: clippings/web/聯合報-大立光自研機台CPO優先專案-2026.md
+cninfo-hans-h1-20260821:
+  who: 巨潮資訊網（大族激光 002008）
+  title: 大族激光 2026 年半年度報告
+  date: '2026-08-21'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-08-21/1225485259.PDF
+  clip: clippings/web/巨潮-大族激光-2026半年度報告-20260821.md
+technews-chroma-q1-20260430:
+  who: TechNews
+  title: 量測與 CPO 測試需求大！致茂首季每股賺 9.12 元，毛利率衝上 63%
+  date: '2026-04-30'
+  level: 媒體報（引公司說）
+  url: https://technews.tw/2026/04/30/chroma-2026-q1-financial-report/
+  clip: clippings/web/TechNews-致茂Q1法說CPO四段Insertion訂單-20260430.md
+ctee-chroma-20260731:
+  who: 工商時報
+  title: 致茂AI測試動能 下半年續強
+  date: '2026-07-31'
+  level: 媒體報（引公司說）
+  url: https://www.ctee.com.tw/news/20260731700232-430502
+  clip: clippings/web/工商時報-致茂-20260731.md
+uanalyze-chroma-20260917:
+  who: 優分析
+  title: 致茂(2360)法說揭2027三大引擎！CPO試產啟動、Inference與Die Burn-in接棒
+  date: '2026-09-17'
+  level: 媒體報
+  url: https://uanalyze.com.tw/articles/4543755537
+  clip: clippings/web/優分析-致茂法說CPO試產Insertion3-2026.md
+udn-chroma-20260914:
+  who: 經濟日報（權證專欄）
+  title: 致茂、鴻勁 四檔搶鏡
+  date: '2026-09-14'
+  level: 媒體報
+  url: https://money.udn.com/money/story/5739/9752155
+  clip: clippings/web/經濟日報-致茂CPO-9752155.md
+udn-mpi-nvidia-20260420:
+  who: 經濟日報
+  title: 旺矽大咬輝達 CPO 商機
+  date: '2026-04-20'
+  level: 媒體報（引法人）
+  url: https://money.udn.com/money/story/11074/9451318
+  clip: clippings/web/經濟日報-旺矽CPO測試設備輝達-2026.md
+udn-mpi-20260820:
+  who: 經濟日報
+  title: 下半年續旺 法人調升旺矽獲利預估值及目標價
+  date: '2026-08-20'
+  level: 第三方（投顧）
+  url: https://money.udn.com/money/story/5607/9703462
+  clip: clippings/web/經濟日報-旺矽下半年續旺CPO-202608.md
+digitimes-ficontec-out-20260409:
+  who: DIGITIMES
+  title: 傳ficonTEC出局矽光子測試　FormFactor、旺矽搶突破瓶頸（付費牆，只有標題和首段）
+  date: '2026-04-09'
+  level: 媒體報
+  url: https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000751536_WLX4ODXY4R0MD95JAY6XT
+  clip: clippings/web/DIGITIMES-傳ficonTEC出局矽光子測試-20260409-opencli.md
+ctee-hon-20260731:
+  who: 工商時報
+  title: 《半導體》鴻勁產能滿載到年底 2027年續拚擴產5成
+  date: '2026-07-31'
+  level: 媒體報（引公司說）
+  url: https://www.ctee.com.tw/news/20260731700594-430201
+  clip: clippings/web/工商時報-鴻勁-20260731.md
+fugle-hon-20260512:
+  who: 富果（AI 法說摘要）
+  title: 【鴻勁法說會重點內容備忘錄】20260512
+  date: '2026-05-12'
+  level: 第三方
+  url: https://blog.fugle.tw/post/earnings-call-7769-2026-05-12
+  clip: clippings/web/富果-鴻勁法說備忘錄-20260512.md
+uanalyze-hantest-20260409:
+  who: 優分析
+  title: 優分析UAnalyze
+  date: '2026-04-09'
+  level: 媒體報（引公司說）
+  url: https://uanalyze.com.tw/articles/1125350302
+  clip: clippings/web/優分析-漢測矽光子測試設備專責團隊-2026.md
+digitimes-ficontec-hantest-20260910:
+  who: DIGITIMES
+  title: ficonTEC突破上電下光測試瓶頸　結盟漢測搶設備交付
+  date: '2026-09-10'
+  level: 媒體報
+  url: https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767945_69PLMYIC3VSJY86KYVBZW
+  clip: clippings/web/DIGITIMES-ficonTEC結盟漢測上電下光-20260910.md
+uanalyze-ftech-20260910:
+  who: 優分析
+  title: 優分析UAnalyze
+  date: '2026-09-10'
+  level: 媒體報（引公司說）
+  url: https://uanalyze.com.tw/articles/1683855084
+  clip: clippings/web/優分析-惠特8月營收驗證產品出貨-202609.md
+cninfo-robotechnik-contract-20260325:
+  who: 巨潮資訊網（羅博特科）
+  title: 羅博特科 關於簽訂重大合同的公告
+  date: '2026-03-25'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-03-25/1225031716.PDF
+  clip: clippings/web/巨潮-羅博特科-重大合同公告-20260325.md
+cninfo-robotechnik-contract-20260402:
+  who: 巨潮資訊網（羅博特科）
+  title: 羅博特科 關於簽訂重大合同的公告
+  date: '2026-04-02'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-04-02/1225075365.PDF
+  clip: clippings/web/巨潮-羅博特科-重大合同公告-20260402.md
+cninfo-robotechnik-contract-20260506:
+  who: 巨潮資訊網（羅博特科）
+  title: 羅博特科 關於簽訂重大合同的公告
+  date: '2026-05-06'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-05-06/1225280575.PDF
+  clip: clippings/web/巨潮-羅博特科-重大合同公告-20260506.md
+cninfo-robotechnik-contract-20260720:
+  who: 巨潮資訊網（羅博特科）
+  title: 羅博特科 關於簽訂重大合同的公告
+  date: '2026-07-20'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-07-20/1225434160.PDF
+  clip: clippings/web/巨潮-羅博特科-重大合同公告-20260720.md
+cninfo-robotechnik-contract-20260727:
+  who: 巨潮資訊網（羅博特科）
+  title: 羅博特科 關於簽訂重大合同的公告
+  date: '2026-07-27'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-07-27/1225443709.PDF
+  clip: clippings/web/巨潮-羅博特科-重大合同公告-20260727.md
+cninfo-robotechnik-contract-20260819:
+  who: 巨潮資訊網（羅博特科）
+  title: 羅博特科 關於簽訂重大合同的公告
+  date: '2026-08-19'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-08-19/1225482421.PDF
+  clip: clippings/web/巨潮-羅博特科-重大合同公告-20260819.md
+cninfo-robotechnik-nvidia-20260617:
+  who: 巨潮資訊網（羅博特科）
+  title: 羅博特科 關於合作事項的說明公告
+  date: '2026-06-17'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-06-17/1225374853.PDF
+  clip: clippings/web/巨潮-羅博特科-合作事項說明-20260617.md
+cninfo-robotechnik-disclosure-20260826:
+  who: 巨潮資訊網（羅博特科）
+  title: 羅博特科 關於調整重大合同自願性信息披露標準的公告
+  date: '2026-08-26'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-08-26/1225507375.PDF
+  clip: clippings/web/巨潮-羅博特科-調整重大合同披露標準-20260826.md
+sec-formfactor-10q-20260804:
+  who: SEC EDGAR（FormFactor）
+  title: FormFactor Form 10-Q（quarter ended 2026-06-27）
+  date: '2026-08-04'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1039399/000103939926000033/form-20260627.htm
+  clip: clippings/web/SEC-FormFactor-10Q-2026Q2-20260804.md
+sec-formfactor-8k-20260729:
+  who: SEC EDGAR（FormFactor）
+  title: FormFactor Q2 2026 earnings release（8-K Ex 99.1）
+  date: '2026-07-29'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/0001039399/000103939926000030/ex9901-earningsreleasexq226.htm
+  clip: clippings/web/SEC-FormFactor-8K-2026Q2財報新聞稿-20260729.md
+statementdog-formfactor-20260729:
+  who: 財報狗（法說摘要）
+  title: FormFactor 2026Q2 法說會摘要
+  date: '2026-07-29'
+  level: 第三方
+  url: https://statementdog.com/analysis/FORM/earnings_calls/316581
+  clip: clippings/web/財報狗-FormFactor-2026Q2法說逐字稿-20260729.md
+fool-formfactor-q1-20260429:
+  who: Motley Fool（逐字稿）
+  title: FormFactor (FORM) Q1 2026 Earnings Call Transcript
+  date: '2026-04-29'
+  level: 公司說
+  url: https://www.fool.com/earnings/call-transcripts/2026/04/29/formfactor-form-q1-2026-earnings-transcript/
+  clip: clippings/web/Fool-FormFactor-Q1-2026法說逐字稿-20260429.md
+allmind-formfactor-q2-20260729:
+  who: AllMind（法說逐字稿轉錄）
+  title: FormFactor Q2 2026 earnings call transcript
+  date: '2026-07-29'
+  level: 公司說（第三方轉錄）
+  url: https://allmind.ai/earnings/event/2941099
+  clip: clippings/web/AllMind-FormFactor-2026Q2法說-20260729.md
+yahoo-teradyne-photon100-20260317:
+  who: Yahoo Finance（轉 Zacks）
+  title: Teradyne (TER) to Facilitate Production of High-Volume Silicon Photonics and Co-Packaged Optics with Photon 100 Launch
+  date: '2026-03-17'
+  level: 媒體報
+  url: https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-facilitate-production-high-194530794.html
+  clip: clippings/web/Yahoo財經-Teradyne-Photon100發表-20260317.md
+quartz-teradyne-sipho-2026:
+  who: Quartz（轉 Zacks）
+  title: 'Teradyne Rides on Strong UltraFLEXplus Demand: More Upside Ahead?'
+  date: '2026'
+  level: 第三方
+  url: https://qz.com/teradyne-rides-on-strong-ultraflexplus-demand-more-upside-ahead
+  clip: clippings/web/Quartz-Teradyne矽光測試市場3到7億美元.md
+sec-teradyne-8k-20260728:
+  who: SEC EDGAR（Teradyne）
+  title: Teradyne Q2 2026 earnings release（8-K Ex 99.1）
+  date: '2026-07-28'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/0000097210/000119312526321933/ter-ex99_1.htm
+  clip: clippings/web/SEC-Teradyne-8K-2026Q2財報新聞稿-20260728.md
+advantest-openlight-20260623:
+  who: Advantest
+  title: Advantest Partners with OpenLight to Develop Silicon Photonics Test Solutions for High-Volume Manufacturing | News & Events (2026)｜ADVANTEST CORPORATION
+  date: '2026-06-23'
+  level: 公司說
+  url: https://www.advantest.com/news/2026/20260623.html
+  clip: clippings/web/Advantest官網-OpenLight矽光子測試合作-20260623.md
+hkex-asmpt-h1-20260729:
+  who: 港交所（ASMPT 0522）
+  title: ASMPT 2026 年中期業績公告
+  date: '2026-07-29'
+  level: 一手
+  url: https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0729/2026072900011.pdf
+  clip: clippings/web/HKEX-ASMPT-2026中期業績公告-20260729.md
+besi-q2-20260723:
+  who: Besi
+  title: BE Semiconductor Industries N.V. Announces Q2-26 and H1-26 Results
+  date: '2026-07-23'
+  level: 一手
+  url: https://www.besi.com/investor-relations/press-releases/details/be-semiconductor-industries-nv-announces-q2-26-and-h1-26-results/
+  clip: clippings/web/Besi官網-2026Q2財報新聞稿-20260723.md
+mnm-cpo-equipment-20261012:
+  who: MarketsandMarkets
+  title: Co-Packaged Photonics Manufacturing Equipment Market Size, Share & Trends
+  date: 2026-10-12（擷取）
+  level: 第三方
+  url: https://www.marketsandmarkets.com/Market-Reports/co-packaged-photonics-manufacturing-equipment-market-165020586.html
+  clip: clippings/web/MarketsandMarkets-CPO製造設備市場規模.md
+semieng-cpo-test-20261007:
+  who: Semiconductor Engineering
+  title: CPO Testing Faces A Moving Target Problem
+  date: '2026-10-07'
+  level: 媒體報
+  url: https://semiengineering.com/cpo-testing-faces-a-moving-target-problem/
+  clip: clippings/web/SemiEngineering-CPO測試移動目標-20261007.md
+teradyne-ficontec-20250331:
+  who: Teradyne IR
+  title: 'Teradyne Announces Production System for Double-Sided Wafer Probe Test for Silicon Photonics :: Teradyne, Inc. (TER)'
+  date: '2025-03-31'
+  level: 公司說
+  url: https://investors.teradyne.com/news-events/press-releases/detail/9/teradyne-announces-production-system-for-double-sided-wafer-probe-test-for-silicon-photonics
+  clip: clippings/web/Teradyne-ficonTEC雙面晶圓測試新聞稿-20250331.md
+technews-hantest-20260922:
+  who: 科技新報財經
+  title: 興櫃股王漢測掛牌上櫃，盤中一度大漲逾 114% 展開蜜月行情
+  date: '2026-09-22'
+  level: 媒體報（引公司說）
+  url: https://finance.technews.tw/2026/09/22/hance-the-leading-stock-on-the-emerging-stock-market-was-listed-on-the-otc-market/
+  clip: clippings/web/TechNews財經-漢測上櫃CPO明年大量貢獻-20260922.md
+uanalyze-hon-20260802:
+  who: 優分析（轉載鉅亨網）
+  title: 優分析UAnalyze
+  date: '2026-08-02'
+  level: 媒體報（引公司說）
+  url: https://uanalyze.com.tw/articles/5986052643
+  clip: clippings/web/優分析-鴻勁CPO光電同測10月出貨-20260802.md
+ieee-meta-cpo-ecoc-20250928:
+  who: Meta、Broadcom（IEEE Xplore，ECOC 2025 論文摘要）
+  title: CPO Technology Evaluation for Hyperscale Data Center Fabric Switches
+  date: '2025-09-28'
+  level: 一手（論文摘要）
+  url: https://ieeexplore.ieee.org/document/11263202
+  clip: clippings/web/ieee-11263202-Meta-ECOC2025-CPO評估-document-page.md
+sth-broadcom-reliability-202510:
+  who: ServeTheHome
+  title: Broadcom CPO Reliability Testing with TH5-Bailly
+  date: 2025-10
+  level: 媒體報（引公司投影片）
+  url: https://www.servethehome.com/broadcom-cpo-reliability-testing-with-th5-bailly/
+  clip: clippings/web/ServeTheHome-Broadcom-CPO可靠度測試Bailly-202510.md
+broadcom-pr-cpo-reliability-202510:
+  who: Broadcom 新聞稿（Nasdaq 轉載）
+  title: Broadcom Showcases Industry-Leading Quality and Reliability of Co-Packaged Optics
+  date: 2025-10
+  level: 公司說
+  url: https://www.nasdaq.com/press-release/broadcom-showcases-industry-leading-quality-and-reliability-co-packaged-optics-2025
+  clip: clippings/web/Broadcom新聞稿-CPO在Meta可靠度-202510.md
+convergedigest-pecc-meta-202510:
+  who: Converge Digest
+  title: 'PECC Summit: Meta’s Drew Alduino on AI Networking Reliability Walls - Converge Digest'
+  date: 2025-10
+  level: 媒體報（引公司說）
+  url: https://convergedigest.com/pecc-summit-metas-drew-alduino-on-ai-networking-reliability-walls/
+  clip: clippings/web/ConvergeDigest-PECC-Meta-Alduino可靠度-202510.md
+photoncap-ofc2026-cpo-20260406:
+  who: PhotonCap（Substack）
+  title: '[OFC 2026] Part 2 of 5: CPO and the AI Interconnect Challenge'
+  date: '2026-04-06'
+  level: KOL
+  url: https://photoncap.net/p/ofc-2026-part-2-of-5-cpo-and-the
+  clip: clippings/web/Photoncap-OFC2026第2篇CPO-20260406.md
+nvidia-devblog-cpo-resiliency-20250818:
+  who: NVIDIA Developer Blog
+  title: Scaling AI Factories with Co-Packaged Optics for Better Power Efficiency
+  date: '2025-08-18'
+  level: 公司說
+  url: https://developer.nvidia.com/blog/scaling-ai-factories-with-co-packaged-optics-for-better-power-efficiency
+  clip: clippings/web/nvidia-devblog-CPO-10倍韌性-20250818.md
+taipeitimes-tsmc-sipho-20260901:
+  who: Taipei Times
+  title: Silicon photonics expected to dominate AI growth, TSMC vice president says
+  date: '2026-09-01'
+  level: 媒體報
+  url: https://www.taipeitimes.com/News/biz/archives/2026/09/01/2003863454
+  clip: clippings/web/TaipeiTimes-台積電CPO可靠度-20260901.md
+udn-tyd-suruga-20260902:
+  who: 經濟日報（宋健生）
+  title: SEMICON／東佑達攜手日商駿河精機 攻 AI 矽光子 CPO 光耦合對位設備
+  date: '2026-09-02'
+  level: 媒體報
+  url: https://udn.com/news/story/7240/9729776
+  clip: clippings/web/經濟日報-東佑達駿河CPO對位國內八成-20260902.md
+mops-hon-slides-20260730:
+  who: 公開資訊觀測站（鴻勁 7769）
+  title: 鴻勁 2026 年 7 月 30 日法說會簡報
+  date: '2026-07-30'
+  level: 公司說
+  url: https://mopsov.twse.com.tw/nas/STR/776920260730M001.pdf
+  clip: clippings/web/MOPS-鴻勁-法說簡報-20260730.md
+mops-foci-funds-20261006:
+  who: 公開資訊觀測站（上詮 3363，承銷商台新證券評估意見）
+  title: 上詮 114 年現金增資 募資計畫執行情形季報（含承銷商評估意見）
+  date: '2026-10-06'
+  level: 一手
+  url: https://mopsov.twse.com.tw/mops/web/bfhtm_q2 （新站選單「募資計畫執行」；co_id=3363，舊站 ajax_bfhtm → ajax_bfTseRptServlet，抓法見 data/mops_deep.py funds）
+  clip: clippings/web/MOPS-上詮-募資計畫執行季報-20261006.md
+mops-foci-2026q2-20260807:
+  who: 公開資訊觀測站電子書（上詮 3363）
+  title: 上詮 2026 年第二季合併財務報告
+  date: '2026-08-07'
+  level: 一手
+  url: https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3363&year=115&mtype=A& （檔名 202602_3363_AI1.pdf）
+  clip: clippings/web/MOPS-上詮-2026Q2合併財報-20260807.md
+mops-foci-slides-20260902:
+  who: 公開資訊觀測站（上詮 3363）
+  title: 上詮 2026 年 9 月 2 日法說會簡報
+  date: '2026-09-02'
+  level: 公司說
+  url: https://mopsov.twse.com.tw/nas/STR/336320260902M001.pdf
+  clip: clippings/web/MOPS-上詮-法說簡報-20260902.md
+mops-chroma-q2-slides-20260730:
+  who: 公開資訊觀測站（致茂 2360）
+  title: 致茂 2026 年第二季法說會簡報
+  date: '2026-07-30'
+  level: 公司說
+  url: https://mopsov.twse.com.tw/nas/STR/236020260730M001.pdf
+  clip: clippings/web/MOPS-致茂-Q2法說簡報-20260730.md
+mops-chroma-q1-slides-20260430:
+  who: 公開資訊觀測站（致茂 2360）
+  title: 致茂 2026 年第一季法說會簡報
+  date: '2026-04-30'
+  level: 公司說
+  url: https://mopsov.twse.com.tw/nas/STR/236020260430M001.pdf
+  clip: clippings/web/MOPS-致茂-Q1法說簡報-20260430.md
+mops-allring-h1-slides-20260827:
+  who: 公開資訊觀測站（萬潤 6187）
+  title: 萬潤 2026 年上半年法說會簡報
+  date: '2026-08-27'
+  level: 公司說
+  url: https://mopsov.twse.com.tw/nas/STR/618720260826M003.pdf
+  clip: clippings/web/MOPS-萬潤-H1法說簡報-20260827.md
+mops-allring-ar2025-20260626:
+  who: 公開資訊觀測站電子書（萬潤 6187）
+  title: 萬潤 114 年度年報
+  date: '2026-06-26'
+  level: 一手
+  url: https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=6187&year=115&mtype=F& （檔名 2025_6187_20260626F04.pdf）
+  clip: clippings/web/MOPS-萬潤-2025年報-20260626.md
+mops-ase-ar2025-20260624:
+  who: 公開資訊觀測站電子書（日月光投控 3711）
+  title: 日月光投控 114 年度年報
+  date: '2026-06-24'
+  level: 一手
+  url: https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3711&year=115&mtype=F& （檔名 2025_3711_20260624F04.pdf）
+  clip: clippings/web/MOPS-日月光投控-2025年報-20260624.md
+mops-ase-ar2024-20250625:
+  who: 公開資訊觀測站電子書（日月光投控 3711）
+  title: 日月光投控 113 年度年報
+  date: '2025-06-25'
+  level: 一手
+  url: https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=3711&year=114&mtype=F& （檔名 2024_3711_20250625F04.pdf）
+  clip: clippings/web/MOPS-日月光投控-2024年報-20250625.md
+mops-ase-q2-slides-20260730:
+  who: 公開資訊觀測站（日月光投控 3711）
+  title: 日月光投控 2026 年第二季法說會簡報
+  date: '2026-07-30'
+  level: 公司說
+  url: https://mopsov.twse.com.tw/nas/STR/371120260730M001.pdf
+  clip: clippings/web/MOPS-日月光投控-Q2法說簡報-20260730.md
+mops-tsmc-capex-en-20260210:
+  who: 公開資訊觀測站英文版（台積電 2330）
+  title: TSMC board approved capital appropriations（英文重大訊息）
+  date: '2026-02-10'
+  level: 一手
+  url: https://emops.twse.com.tw/server-java/t05st01_e?step=1&co_id=2330&spoke_date=20260210&spoke_time=193946&seq_no=7
+  clip: clippings/web/MOPS-台積電-資本預算英文公告-20260210.md
+ase-blog-cpo-20250106:
+  who: ASE 官網部落格
+  title: 'Advanced Packaging Evolution: Chiplet and Silicon Photonics-CPO'
+  date: '2025-01-06'
+  level: 公司說
+  url: https://ase.aseglobal.com/blog/technology/advanced-packaging-for-ai-chiplet-and-cpo/
+  clip: clippings/web/ASE-blog-Chiplet與矽光CPO封裝-FAU組裝-20250106.md
+ase-pr-cpo-20250401:
+  who: ASE（Business Wire 新聞稿，經 silicon.co.uk 轉載頁抓取）
+  title: ASE Demonstrates CPO that Improves Energy Efficiency for AI applications
+  date: '2025-04-01'
+  level: 公司說
+  url: https://www.silicon.co.uk/press-release/ase-demonstrates-cpo-that-improves-energy-efficiency-for-ai-applications
+  clip: clippings/web/ASE-pr-CPO示範-光纖陣列耦合翹曲控制-20250401.md
+technews-ase-cpo-20260410:
+  who: 科技新報
+  title: 吳田玉：日月光今年有六座工廠同步動工，今年開始量產 CPO
+  date: '2026-04-10'
+  level: 媒體報（引公司說）
+  url: https://finance.technews.tw/2026/04/10/ase-technology-holding-co-ltd-will-start-construction-on-six-factories-simultaneously-this-year/
+  clip: clippings/web/TechNews-吳田玉日月光今年開始量產CPO-20260410.md
+ew-ase-q2-20260730:
+  who: Earnings Whispers（ASE Technology Holding Q2 2026 earnings call transcript）
+  title: ASE Technology Holding Q2 2026 earnings call transcript
+  date: '2026-07-30'
+  level: 公司說
+  url: https://earningswhispers.com/transcript/ASX/Q22026
+  clip: clippings/web/EarningsWhispers-日月光投控-2026Q2法說逐字稿-20260730.md
+storm-ase-q2-20260730:
+  who: 風傳媒
+  title: AI晶片愈做愈大，封裝下一步轉向面板與光互連！日月光揭CPO、玻璃基板最新時程
+  date: '2026-07-30'
+  level: 媒體報（引公司說）
+  url: https://www.storm.mg/article/11152969
+  clip: clippings/web/風傳媒-日月光法說CPO年底初步導入-20260730.md
+cninfo-usi-ar2025-20260404:
+  who: 巨潮資訊網（環旭電子 601231，上交所公告）
+  title: 環旭電子 2025 年年度報告
+  date: '2026-04-04'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-04-04/1225080391.PDF
+  clip: clippings/web/巨潮-環旭電子-2025年度報告-20260404.md
+cninfo-usi-h1-20260827:
+  who: 巨潮資訊網（環旭電子 601231，上交所公告）
+  title: 環旭電子 2026 年半年度報告
+  date: '2026-08-27'
+  level: 一手
+  url: http://static.cninfo.com.cn/finalpage/2026-08-27/1225514791.PDF
+  clip: clippings/web/巨潮-環旭電子-2026半年度報告-20260827.md
+cna-ase-dfau-20260507:
+  who: 中央社（聯合新聞網轉載）
+  title: 日月光集團啟動策略規劃 攻AI用矽光子CPO方案
+  date: '2026-05-07'
+  level: 媒體報（引公司說）
+  url: https://udn.com/news/story/7240/9487622
+  clip: clippings/web/中央社經udn-日月光集團啟動CPO策略規劃-D-FAU組裝-20260507.md
+cnyes-usi-acq-20260117:
+  who: 鉅亨網（Yahoo 股市轉載，記者魏志豪）
+  title: 日月光投控旗下環旭衝刺CPO 斥16億元併購成都光創聯
+  date: '2026-01-17'
+  level: 媒體報
+  url: https://tw.stock.yahoo.com/news/日月光投控旗下環旭衝刺cpo-斥16億元併購成都光創聯-020209919.html
+  clip: clippings/web/鉅亨經Yahoo-環旭16億併購成都光創聯-20260117.md
+iselabs-photonics-20261012:
+  who: ISE Labs（日月光集團）官網
+  title: ISE Labs | ASE Group
+  date: 日期不明（2026-10-12 擷取）
+  level: 公司說
+  url: https://www.iselabs.com/applications/photonics
+  clip: clippings/web/ISELabs-Photonics測試服務頁-20261012.md
+sec-amkor-10k-20260220:
+  who: Amkor Technology（SEC EDGAR 10-K）
+  title: Amkor Technology Form 10-K（fiscal 2025）
+  date: '2026-02-20'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/1047127/000104712726000014/amkr-20251231.htm
+  clip: clippings/web/SEC-Amkor-2025年報10K-20260220.md
+ew-amkor-q2-20260727:
+  who: Earnings Whispers（Amkor Q2 2026 earnings call transcript）
+  title: Amkor Q2 2026 earnings call transcript
+  date: '2026-07-27'
+  level: 公司說
+  url: https://earningswhispers.com/transcript/AMKR/Q22026
+  clip: clippings/web/EarningsWhispers-Amkor-2026Q2法說逐字稿-20260727.md
+mops-raytek-ar2025-20260618:
+  who: 公開資訊觀測站電子書（瑞峰半導體 7873）
+  title: 瑞峰半導體 114 年度年報
+  date: '2026-06-18'
+  level: 一手
+  url: https://doc.twse.com.tw/server-java/t57sb01?step=1&colorchg=1&co_id=7873&year=115&mtype=F （檔名 2025_7873_20260626F04.pdf，114 年度股東會年報）
+  clip: clippings/web/MOPS電子書-瑞峰7873-2025年報-20260618.md
+ecfr-bis-osat-20260924:
+  who: eCFR（15 CFR Part 740 Supplement No. 7, 90 FR 5310, 2025-01-16）
+  title: 15 CFR Part 740 Supplement No. 7 — Approved "OSAT" Companies
+  date: 2026-09-24（eCFR 版本日）
+  level: 一手
+  url: https://www.ecfr.gov/api/versioner/v1/full/2026-09-24/title-15.xml?part=740
+  clip: clippings/web/eCFR-15CFR740-Supp7-BIS認可OSAT名單-20260924.md
+gf-fabrinet-fiber-attach-20221110:
+  who: GlobalFoundries 官網部落格（Wayback 快照）
+  title: GF Collaborates with Fabrinet on Fiber-Attach Capability for Silicon Photonics Platform
+  date: '2022-11-10'
+  level: 公司說
+  url: https://gf.com/blog/gf-collaborates-with-fabrinet-on-fiber-attach-capability-for-silicon-photonics-platform/
+  clip: clippings/web/GF-blog-Fabrinet光纖貼合合作-20221110.md
+moneydj-tyd-suruga-20260903:
+  who: MoneyDJ
+  title: 《SEMICON》東佑達攜日廠 攻CPO光耦合對位設備
+  date: '2026-09-03'
+  level: 媒體報
+  url: https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=d942f24a-5f7b-4a2a-9866-a73e7aee3d79
+  clip: clippings/web/MoneyDJ-東佑達駿河CPO對位-20260903.md
+us20250321388a1:
+  who: 日月光（Advanced Semiconductor Engineering）美國專利公開案
+  title: US20250321388A1
+  date: '2025-10-16'
+  level: 一手
+  url: https://ppubs.uspto.gov/api/patents/highlight/US-20250321388-A1?queryId=1&source=US-PGPUB&includeSections=true
+  clip: clippings/web/patent-US20250321388A1.md
+us20260153679a1:
+  who: 日月光（Advanced Semiconductor Engineering）美國專利公開案
+  title: US20260153679A1
+  date: '2026-06-04'
+  level: 一手
+  url: https://ppubs.uspto.gov/api/patents/highlight/US-20260153679-A1?queryId=1&source=US-PGPUB&includeSections=true
+  clip: clippings/web/patent-US20260153679A1.md
+us20260099016a1:
+  who: 日月光（Advanced Semiconductor Engineering）美國專利公開案
+  title: US20260099016A1
+  date: '2026-04-09'
+  level: 一手
+  url: https://ppubs.uspto.gov/api/patents/highlight/US-20260099016-A1?queryId=1&source=US-PGPUB&includeSections=true
+  clip: clippings/web/patent-US20260099016A1.md
+us20260299235a1:
+  who: 日月光（Advanced Semiconductor Engineering）美國專利公開案
+  title: US20260299235A1
+  date: '2026-10-01'
+  level: 一手
+  url: https://ppubs.uspto.gov/api/patents/highlight/US-20260299235-A1?queryId=1&source=US-PGPUB&includeSections=true
+  clip: clippings/web/patent-US20260299235A1.md
+us12740449b2:
+  who: Amkor 美國專利
+  title: US12740449B2
+  date: '2026-09-15'
+  level: 一手
+  url: https://ppubs.uspto.gov/api/patents/highlight/US-12740449-B2?queryId=1&source=USPAT&includeSections=true
+  clip: clippings/web/patent-US12740449B2.md
+us20260299201a1:
+  who: 長電（JCET Microelectronics (Jiangyin)）美國專利公開案
+  title: US20260299201A1
+  date: '2026-10-01'
+  level: 一手
+  url: https://ppubs.uspto.gov/api/patents/highlight/US-20260299201-A1?queryId=1&source=US-PGPUB&includeSections=true
+  clip: clippings/web/patent-US20260299201A1.md
+finmind-equipment-tw-20261012:
+  who: 公開資訊觀測站月營收（經 FinMind）
+  title: 高明鐵、萬潤、東佑達、羅昇、致茂、旺矽、穎崴、鴻勁、漢測、惠特、光焱、弘塑 月營收
+  date: 2026-10-12（擷取）
+  level: 一手
+  url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockMonthRevenue
+  clip: clippings/data/equipment-tw-月營收.csv
+mops-capital-20261012:
+  who: 公開資訊觀測站（經 data/mops_capex.py 整理）
+  title: 31 家公司實收資本額（對照取得或處分資產公告門檻）
+  date: 2026-10-12（擷取）
+  level: 一手
+  url: https://mops.twse.com.tw/mops/#/web/t05st03
+  clip: clippings/data/mops-capex-實收資本額.csv
+mops-tsmc-capex-names-20261012:
+  who: 公開資訊觀測站（台積電重大訊息，經 data/mops_deep.py 整理）
+  title: 台積電 2025–2026 資本預算公告的預期交易相對人
+  date: 2026-10-12（擷取）
+  level: 一手
+  url: https://mops.twse.com.tw/mops/#/web/t05st01
+  clip: clippings/data/mops-deep-台積電資本預算相對人.csv
+mops-ase-allring-20261012:
+  who: 公開資訊觀測站（日月光投控重大訊息，經 data/osat_fau_mops.py 整理）
+  title: 日月光投控子公司向萬潤取得機器設備公告（112–115 年）
+  date: 2026-10-12（擷取）
+  level: 一手
+  url: https://mops.twse.com.tw/mops/#/web/t05st01
+  clip: clippings/data/osat-fau-日月光向萬潤公告.csv
+uspto-osat-fiber-20261012:
+  who: USPTO Patent Public Search（經 data/osat_fau_uspto.py 整理）
+  title: 日月光、矽品、Amkor、長電 2025 年以後公開、提到光纖的美國專利
+  date: 2026-10-12（擷取）
+  level: 一手
+  url: https://ppubs.uspto.gov/pubwebapp/
+  clip: clippings/data/osat-fau-封測廠光纖專利.csv
+
+ase-ir-q4-20260205:
+  who: 日月光投控 IR（法說逐字稿）
+  title: "日月光投控 2025Q4 法說會逐字稿（英文）"
+  date: '2026-02-05'
+  level: 公司說
+  url: https://ir.aseglobal.com/c/ir_events_details.php?id=21339
+  clip: clippings/web/日月光投控IR-日月光投控-2025Q4法說逐字稿-20260205.md
+
+ase-ir-q1-20260429:
+  who: 日月光投控 IR（法說逐字稿）
+  title: "日月光投控 2026Q1 法說會逐字稿（英文）"
+  date: '2026-04-29'
+  level: 公司說
+  url: https://ir.aseglobal.com/c/ir_events_details.php?id=21591
+  clip: clippings/web/日月光投控IR-日月光投控-2026Q1法說逐字稿-20260429.md
+
+ase-ir-q2-20260730:
+  who: 日月光投控 IR（法說逐字稿）
+  title: "日月光投控 2026Q2 法說會逐字稿（英文）"
+  date: '2026-07-30'
+  level: 公司說
+  url: https://ir.aseglobal.com/c/ir_events_details.php?id=21817
+  clip: clippings/web/日月光投控IR-日月光投控-2026Q2法說逐字稿-20260730.md
+
+mops-ase-slides-20251202:
+  who: 公開資訊觀測站（日月光投控簡報）
+  title: "先進封裝創新推動 AI 發展（法說簡報，英文版）"
+  date: '2025-12-02'
+  level: 一手
+  url: https://mopsov.twse.com.tw/nas/STR/371120251202E001.pdf
+  clip: clippings/web/MOPS-日月光投控-法說簡報英文-20251202.md
+
+fugle-mpi-20260515:
+  who: 富果（法說會助理，第三方整理）
+  title: "旺矽 2026Q1 法說備忘錄"
+  date: '2026-05-15'
+  level: 第三方
+  url: https://blog.fugle.tw/post/earnings-call-6223-2026-05-15
+  clip: clippings/web/富果-旺矽-法說備忘錄-20260515.md
+
+
+
+mops-winway-slides-20260514:
+  who: 公開資訊觀測站（穎崴簡報）
+  title: "The Evolution of Co-Packaged Optics (CPO) Advanced Testing Methodologies for Silicon Photonics（法說簡報，英文版）"
+  date: '2026-05-14'
+  level: 一手
+  url: https://mopsov.twse.com.tw/nas/STR/651520260514E001.pdf
+  clip: clippings/web/MOPS-穎崴-法說簡報英文-20260514.md
+
+fugle-hon-20260312:
+  who: 富果（法說會助理，第三方整理）
+  title: "鴻勁 2025Q4 法說備忘錄"
+  date: '2026-03-12'
+  level: 第三方
+  url: https://blog.fugle.tw/post/earnings-call-7769-2026-03-12
+  clip: clippings/web/富果-鴻勁-法說備忘錄-20260312.md
+
+allmind-teradyne-q2-20260729:
+  who: AllMind（法說逐字稿轉錄）
+  title: "Teradyne Q2 2026 earnings call transcript"
+  date: '2026-07-29'
+  level: 公司說（第三方轉錄）
+  url: https://allmind.ai/earnings/event/bt_TER_2026_Q2
+  clip: clippings/web/AllMind-Teradyne-2026Q2法說逐字稿-20260729.md
+
+fool-teradyne-q1-20260429:
+  who: Motley Fool（逐字稿）
+  title: "Teradyne (TER) Q1 2026 Earnings Call Transcript"
+  date: '20260429（網'
+  level: 公司說（第三方轉錄）
+  url: https://www.fool.com/earnings/call-transcripts/2026/04/29/teradyne-ter-q1-2026-earnings-transcript
+  clip: clippings/web/Fool-Teradyne-2026Q1法說逐字稿-20260429.md
+
+fool-formfactor-q3-20251029:
+  who: Motley Fool（逐字稿）
+  title: "FormFactor (FORM) Q3 2025 Earnings Call Transcript"
+  date: '20251029（網'
+  level: 公司說（第三方轉錄）
+  url: https://www.fool.com/earnings/call-transcripts/2025/10/29/formfactor-form-q3-2025-earnings-call-transcript
+  clip: clippings/web/Fool-FormFactor-2025Q3法說逐字稿-20251029.md
+
+fool-formfactor-q4-20260204:
+  who: Motley Fool（逐字稿）
+  title: "FormFactor (FORM) Q4 2025 Earnings Call Transcript"
+  date: '20260204（網'
+  level: 公司說（第三方轉錄）
+  url: https://www.fool.com/earnings/call-transcripts/2026/02/04/formfactor-form-q4-2025-earnings-call-transcript
+  clip: clippings/web/Fool-FormFactor-2025Q4法說逐字稿-20260204.md
+
+allmind-amkor-q2-20260727:
+  who: AllMind（法說逐字稿轉錄）
+  title: "Amkor Q2 2026 earnings call transcript"
+  date: '2026-07-27'
+  level: 公司說（第三方轉錄）
+  url: https://allmind.ai/earnings/event/bt_AMKR_2026_Q2
+  clip: clippings/web/AllMind-Amkor-2026Q2法說逐字稿-20260727.md
+
+cninfo-robotechnik-irm-20260827:
+  who: 羅博特科（巨潮資訊網）
+  title: "投資者關係活動記錄表（2026-08-27）"
+  date: '2026-08-27'
+  level: 公司說
+  url: http://static.cninfo.com.cn/finalpage/2026-08-27/1225515655.PDF
+  clip: clippings/web/巨潮-羅博特科-投資者關係活動記錄-20260827.md

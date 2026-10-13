@@ -1,0 +1,5 @@
+title: AI 供應鏈
+chapters:
+  - dir: optical
+    title: 光通訊：CPO 與 FAU
+    pages: [index, basics, alternatives, inside, fau, fau-makers, detachable, lasers, equipment-test, passive, players, timing, china, calendar]

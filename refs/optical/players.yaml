@@ -1,0 +1,271 @@
+# players.md 新增的出處。格式同 ../../refs.yaml。
+bitget-odaily-coupe-20260712:
+  who: "Bitget（轉載 Odaily）"
+  title: "Nvidia temporarily abandons TSMC's COUPE technology solution and shifts to Tower Semiconductor's silicon photonics platform"
+  date: "2026-07-12"
+  level: "媒體報"
+  url: "https://www.bitget.com/news/detail/12560605501163"
+  clip: "clippings/web/Bitget轉Odaily-傳輝達暫棄COUPE改高塔-20260712.md"
+cninfo-tfc-2020-reply-20200911:
+  who: "巨潮資訊（蘇州天孚光通信 300394）"
+  title: "巨潮-天孚通信-2020定增問詢回覆三次修訂稿-前五大客戶地區-20200911"
+  date: "2020-09-11"
+  level: "一手"
+  url: "http://static.cninfo.com.cn/finalpage/2020-09-11/1208428860.PDF"
+  clip: "clippings/web/巨潮-天孚通信-2020定增問詢回覆三次修訂稿-前五大客戶地區-20200911.md"
+fool-gf-q2-20260812:
+  who: "The Motley Fool（法說逐字稿）"
+  title: "GlobalFoundries (GFS) Q2 2026 Earnings Call Transcript | The Motley Fool"
+  date: "2026-08-12"
+  level: "公司說"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/08/12/globalfoundries-gfs-q2-2026-earnings-call-transcript/"
+  clip: "clippings/web/Fool-GlobalFoundries-2026Q2法說逐字稿-20260812.md"
+fool-tower-q2-20260804:
+  who: "The Motley Fool（法說逐字稿）"
+  title: "Tower Semiconductor (TSEM) Q2 2026 Earnings Call Transcript"
+  date: "2026-08-04"
+  level: "公司說"
+  url: "https://www.fool.com/earnings/call-transcripts/2026/08/11/tower-semiconductor-tsem-q2-2026-earnings-call-transcript/"
+  clip: "clippings/web/Fool-Tower-2026Q2法說逐字稿-20260804.md"
+ia-ayar-lightmatter-coupe-20260920:
+  who: "Irrational Analysis（匿名分析師的社群文章）"
+  title: "[Market Memo] Calm Before the IPO Storm"
+  date: "2026-09-20"
+  level: "KOL"
+  url: "https://irrationalanalysis.substack.com/p/market-memo-calm-before-the-ipo-storm"
+  clip: "clippings/web/IrrationalAnalysis-市場備忘-Ayar-Lightmatter離開格芯轉COUPE-20260920.md"
+ia-npo-cpo-july-20260712:
+  who: "Irrational Analysis（匿名分析師的社群文章）"
+  title: "July NPO/CPO Update: Stupidity Singularity"
+  date: "2026-07-12"
+  level: "KOL"
+  url: "https://irrationalanalysis.substack.com/p/july-npocpo-update-stupidity-singularity"
+  clip: "clippings/web/IrrationalAnalysis-NPO-CPO七月更新-20260712.md"
+ltn-bizlink-ocp2026-20261008:
+  who: "com.tw"
+  title: "貿聯OCP秀AI四大方案 聚焦800V供電、1.6T互連"
+  date: "2026-10-08"
+  level: "媒體報"
+  url: "https://ec.ltn.com.tw/article/breakingnews/5599715"
+  clip: "clippings/web/自由財經-貿聯OCP秀四大方案-20261008.md"
+nvidia-research-mehta-2026:
+  who: "nvidia.com"
+  title: "NVIDIA Research：Nandish Mehta 著作清單（含 ISSCC/OFC/ECTC/VLSI 2026 光互連論文）"
+  date: "2026"
+  level: "媒體報"
+  url: "https://research.nvidia.com/person/nandish-mehta"
+  clip: "clippings/web/nvidia-research-NandishMehta著作清單-2026.md"
+opticsorg-fabrinet-q2-20260203:
+  who: "optics.org"
+  title: "Boom continues as Fabrinet posts 36% surge in sales revenues | optics.org"
+  date: "2026-02-03"
+  level: "媒體報"
+  url: "https://optics.org/news/boom-continues-as-fabrinet-posts-36-surge-in-sales-revenues"
+  clip: "clippings/web/optics.org-Fabrinet-FY26Q2營收增36%-20260203.md"
+opticsorg-fabrinet-q4-20260818:
+  who: "optics.org"
+  title: "Fabrinet smashes sales record as data center demand accelerates | optics.org"
+  date: "2026-08-18"
+  level: "媒體報"
+  url: "https://optics.org/news/fabrinet-smashes-sales-record-as-data-center-demand-accelerates"
+  clip: "clippings/web/optics.org-Fabrinet-FY26Q4創紀錄-20260818.md"
+semimedia-amd-mi500-20260422:
+  who: "SemiMedia"
+  title: "AMD taps GlobalFoundries for MI500 photonics as it advances CPO design"
+  date: "2026-04-22"
+  level: "媒體報"
+  url: "https://www.semimedia.cc/20943.html"
+  clip: "clippings/web/SemiMedia-AMD-MI500光學格芯-20260422.md"
+setn-nvidia-coupe-20260714:
+  who: "三立新聞網"
+  title: "傳輝達棄台積COUPE類股遭狂殺　報告一次看"
+  date: "2026-07-14"
+  level: "媒體報（引法人）"
+  url: "https://www.setn.com/news/1872199"
+  clip: "clippings/web/三立-傳輝達棄台積COUPE-20260714.md"
+simpletechtrend-nvidia-cpo-npo-2026:
+  who: "Simple Tech Trend"
+  title: "NVIDIA's Shift from CPO to NPO: What It Means for Lasers"
+  date: "2026"
+  level: "KOL"
+  url: "https://www.simpletechtrend.com/en/post/cpo-npo-four-debates-nvidia-laser-vcsel-margin-1"
+  clip: "clippings/web/SimpleTechTrend-NVIDIA從CPO轉NPO四個爭議-2026.md"
+sth-hotchips2026-spectrumx-20260825:
+  who: "ServeTheHome"
+  title: "NVIDIA Spectrum-X Ethernet Multiplane Network Architecture at Hot Chips 2026"
+  date: "2026"
+  level: "媒體報"
+  url: "https://www.servethehome.com/nvidia-spectrum-x-ethernet-multiplane-network-architecture-at-hot-chips-2026/"
+  clip: "clippings/web/ServeTheHome-HotChips2026-SpectrumX-Multiplane-202608.md"
+technews-nvidia-coupe-tower-20260713:
+  who: "科技新報"
+  title: "輝達暫棄台積電 COUPE 方案？傳改採高塔矽光子 NPO 解決方案"
+  date: "2026-07-13"
+  level: "媒體報（引 KOL）"
+  url: "https://technews.tw/2026/07/13/irrational-analysis-see-tsmc-coupe-and-nvidia/"
+  clip: "clippings/web/TechNews-傳輝達暫棄COUPE改採高塔-20260713.md"
+tipranks-mixx-ocp2026-202610:
+  who: "TipRanks"
+  title: "Mixx Technologies Showcases AI Data Center Connectivity at OCP Global Summit - TipRanks.com"
+  date: "2026"
+  level: "媒體報"
+  url: "https://www.tipranks.com/news/private-companies/mixx-technologies-showcases-ai-data-center-connectivity-at-ocp-global-summit"
+  clip: "clippings/web/TipRanks-Mixx-OCP2026-202610.md"
+tower-6k-meti-20260714:
+  who: "Tower Semiconductor（SEC 6-K）"
+  title: "Tower Semiconductor 6-K：Tower with METI Support Announces Strategic Capacity Expansion in Japan（2026-07-14）"
+  date: "2026-07-14"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/928876/000117891326003477/zk2635682.htm"
+  clip: "clippings/web/tower-sec-6k-METI日本擴產SiPho-20260714.md"
+tower-6k-newphotonics-20260917:
+  who: "Tower Semiconductor（SEC 6-K）"
+  title: "Tower Semiconductor 6-K：NewPhotonics and Tower Begin High-Volume Shipments of Laser-Integrated, Serviceable Optical Engine PICs（2026-09-17）"
+  date: "2026-09-17"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/928876/000117891326004535/zk2636128.htm"
+  clip: "clippings/web/tower-sec-6k-NewPhotonics-NPO光引擎量產出貨-20260917.md"
+tower-6k-q2-20260804:
+  who: "Tower Semiconductor（SEC 6-K）"
+  title: "Tower Semiconductor 6-K Exhibit 99.1：Q2 2026 財報新聞稿（2026-08-04）"
+  date: "2026-08-04"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/928876/000117891326003776/exhibit_99-1.htm"
+  clip: "clippings/web/tower-sec-6k-2026Q2財報新聞稿-20260804.md"
+tower-pr-nvidia-20260205:
+  who: "Tower Semiconductor"
+  title: "Tower Semiconductor Teams with NVIDIA to Advance AI Infrastructure with 1.6T Data Center Optical Modules -"
+  date: "2026-02-05"
+  level: "公司說"
+  url: "https://towersemi.com/2026/02/05/02052026/"
+  clip: "clippings/web/tower-pr-NVIDIA合作1.6T光模組-20260205.md"
+us12216313b2:
+  who: "USPTO"
+  title: "patent-US12216313B2-Broadcom-矽光邊緣耦合準直接頭"
+  date: "2025-02-04"
+  level: "一手"
+  url: "https://ppubs.uspto.gov/pubwebapp/ （US12216313B2）"
+  clip: "clippings/web/patent-US12216313B2-Broadcom-矽光邊緣耦合準直接頭.json"
+
+# 法說原話補入（2026-10-12）
+fool-credo-q4-20260601:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Credo 2026 財年第四季法說逐字稿'
+  date: '2026-06-01'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/06/01/credo-crdo-q4-2026-earnings-transcript'
+  clip: 'clippings/web/Fool-Credo-2026Q4法說逐字稿-20260601.md'
+fool-marvell-q4-20260305:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Marvell 2026 財年第四季法說逐字稿'
+  date: '2026-03-05'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/03/05/marvell-mrvl-q4-2026-earnings-call-transcript'
+  clip: 'clippings/web/Fool-Marvell-2026Q4法說逐字稿-20260305.md'
+fool-marvell-q1-20260527:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Marvell 2027 財年第一季法說逐字稿'
+  date: '2026-05-27'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/05/27/marvell-mrvl-q1-2027-earnings-transcript'
+  clip: 'clippings/web/Fool-Marvell-2027Q1法說逐字稿-20260527.md'
+allmind-marvell-q2-20260827:
+  who: 'AllMind（第三方轉錄，AI 轉寫）'
+  title: 'Marvell 2027 財年第二季法說逐字稿'
+  date: '2026-08-27'
+  level: '公司說（第三方轉錄，AI 轉寫稿，說話者多標成 Speaker #N）'
+  url: 'https://allmind.ai/earnings/event/bt_MRVL_2027_Q2'
+  clip: 'clippings/web/AllMind-Marvell-2027Q2法說逐字稿-20260827.md'
+fool-broadcom-q4fy25-20251212:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Broadcom 2025 財年第四季法說逐字稿'
+  date: '2025-12-12'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2025/12/12/broadcom-avgo-q4-2025-earnings-call-transcript'
+  clip: 'clippings/web/Fool-Broadcom-2025Q4法說逐字稿-20251212.md'
+fool-fabrinet-q2-20260202:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Fabrinet 2026 財年第二季法說逐字稿'
+  date: '2026-02-02'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/02/02/fabrinet-fn-q2-2026-earnings-call-transcript'
+  clip: 'clippings/web/Fool-Fabrinet-2026Q2法說逐字稿-20260202.md'
+fool-fabrinet-q3-20260504:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Fabrinet 2026 財年第三季法說逐字稿'
+  date: '2026-05-04'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/05/04/fabrinet-fn-q3-2026-earnings-transcript'
+  clip: 'clippings/web/Fool-Fabrinet-2026Q3法說逐字稿-20260504.md'
+allmind-fabrinet-q4-20260817:
+  who: 'AllMind（第三方轉錄，AI 轉寫）'
+  title: 'Fabrinet 2026 財年第四季法說逐字稿'
+  date: '2026-08-17'
+  level: '公司說（第三方轉錄，AI 轉寫稿，說話者標示未必正確）'
+  url: 'https://allmind.ai/earnings/event/bt_FN_2026_Q4'
+  clip: 'clippings/web/AllMind-Fabrinet-2026Q4法說逐字稿-20260817.md'
+fool-celestica-q1-20260428:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Celestica 2026 年第一季法說逐字稿'
+  date: '2026-04-28'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/04/28/celestica-cls-q1-2026-earnings-transcript'
+  clip: 'clippings/web/Fool-Celestica-2026Q1法說逐字稿-20260428.md'
+allmind-celestica-q2-20260728:
+  who: 'AllMind（第三方轉錄，AI 轉寫）'
+  title: 'Celestica 2026 年第二季法說逐字稿'
+  date: '2026-07-28'
+  level: '公司說（第三方轉錄，AI 轉寫稿，說話者標示未必正確）'
+  url: 'https://allmind.ai/earnings/event/bt_CLS_2026_Q2'
+  clip: 'clippings/web/AllMind-Celestica-2026Q2法說逐字稿-20260728.md'
+allmind-tower-q4-20260211:
+  who: 'AllMind（第三方轉錄，AI 轉寫）'
+  title: 'Tower 2025 年第四季法說逐字稿'
+  date: '2026-02-11'
+  level: '公司說（第三方轉錄，AI 轉寫稿，說話者標示未必正確）'
+  url: 'https://allmind.ai/earnings/event/bt_TSEM_2025_Q4'
+  clip: 'clippings/web/AllMind-Tower-2025Q4法說逐字稿-20260211.md'
+allmind-st-q2-20260723:
+  who: 'AllMind（第三方轉錄，AI 轉寫）'
+  title: '意法半導體 2026 年第二季法說逐字稿'
+  date: '2026-07-23'
+  level: '公司說（第三方轉錄，AI 轉寫稿，說話者標示未必正確）'
+  url: 'https://allmind.ai/earnings/event/bt_STM_2026_Q2'
+  clip: 'clippings/web/AllMind-ST-2026Q2法說逐字稿-20260723.md'
+fool-cisco-q2-20260211:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Cisco 2026 財年第二季法說逐字稿'
+  date: '2026-02-11'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/02/11/cisco-csco-q2-2026-earnings-call-transcript'
+  clip: 'clippings/web/Fool-Cisco-2026Q2法說逐字稿-20260211.md'
+fool-astera-q4-20260210:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Astera Labs 2025 年第四季法說逐字稿'
+  date: '2026-02-10'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/02/10/astera-labs-alab-q4-2025-earnings-transcript'
+  clip: 'clippings/web/Fool-Astera-2025Q4法說逐字稿-20260210.md'
+fugle-accton-20251107:
+  who: '富果研究（法說會助理）'
+  title: '智邦 2025 年第三季法說備忘錄'
+  date: '2025-11-07'
+  level: '第三方（富果整理，非原話全文）'
+  url: 'https://blog.fugle.tw/post/earnings-call-2345-2025-11-7'
+  clip: 'clippings/web/富果-智邦-法說備忘錄-20251107.md'
+
+# 法說原話補入（2026-10-12）
+allmind-celestica-q3-20251028:
+  who: 'AllMind（第三方轉錄，AI 轉寫）'
+  title: 'Celestica 2025 年第三季法說逐字稿'
+  date: '2025-10-28'
+  level: '公司說（第三方轉錄，AI 轉寫稿，說話者標示未必正確）'
+  url: 'https://allmind.ai/earnings/event/bt_CLS_2025_Q3'
+  clip: 'clippings/web/AllMind-Celestica-2025Q3法說逐字稿-20251028.md'
+fool-celestica-q4-20260129:
+  who: 'Motley Fool（第三方轉錄）'
+  title: 'Celestica 2025 年第四季法說逐字稿'
+  date: '2026-01-29'
+  level: '公司說（第三方轉錄）'
+  url: 'https://www.fool.com/earnings/call-transcripts/2026/01/29/celestica-cls-q4-2025-earnings-call-transcript'
+  clip: 'clippings/web/Fool-Celestica-2025Q4法說逐字稿-20260129.md'

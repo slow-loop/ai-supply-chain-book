@@ -1,0 +1,100 @@
+# fau.md 新增的出處。格式同 ../../refs.yaml。
+eastmoney-dfau-survey-20260531:
+  who: "東方財富財富號（機構調研在線），未具名公司的調研紀要"
+  title: "光通信大厂调研"
+  date: "2026-05-31"
+  level: "KOL"
+  url: "https://caifuhao.eastmoney.com/news/20260531060906187431540"
+  clip: "clippings/web/東方財富財富號-光通信大廠調研DFAU報價-20260531.md"
+udn-gs-foci-fau-20260914:
+  who: "經濟日報（轉述高盛）"
+  title: "大廠瘋搶 AI「算力高速公路」！高盛喊「買」這二家台系企業"
+  date: "2026-09-14"
+  level: "第三方"
+  url: "https://money.udn.com/money/story/5607/9753950"
+  clip: "clippings/web/經濟日報-高盛上詮FAU40通道升80通道-20260914.md"
+sth-nvidia-cpo-hotchips2025-20250826:
+  who: "ServeTheHome"
+  title: "NVIDIA Co-Packaged Optics with Silcion Photonics for Switching and Spectrum-XGS Scale-Across"
+  date: "2025-08-26"
+  level: "媒體報"
+  url: "https://www.servethehome.com/nvidia-co-packaged-optics-with-silcion-photonics-for-switching-and-spectrum-xgs-scale-across/"
+  clip: "clippings/web/servethehome-nvidia-cpo-hotchips2025-20250826.md"
+hotchips2025-nvidia-cpo-slides:
+  who: "NVIDIA（Gilad Shainer），Hot Chips 2025 簡報"
+  title: "HC25_NVIDIA_Shainer_v4"
+  date: "2025-08-26"
+  level: "一手"
+  url: "https://hc2025.hotchips.org/assets/program/conference/day2/HC25_NVIDIA_Shainer_v4.pdf"
+  clip: "clippings/web/HotChips2025-NVIDIA-Shainer-CPO-slides-20250826.md"
+senko-semicontaiwan-202609:
+  who: "SEMICON Taiwan 2026 議程（Senko 演講摘要）"
+  title: "Expanded beam, detachable connectors that simplify co-package optics"
+  date: "2026-09"
+  level: "公司說"
+  url: "https://www.semicontaiwan.org/en/node/15396"
+  clip: "clippings/web/semicontaiwan-senko-detachable-fau-talk-202609.md"
+gazettabyte-teramount-20240326:
+  who: "Gazettabyte"
+  title: "Teramount's scalable fibre attach for co-packaged optics"
+  date: "2024-03-26"
+  level: "媒體報"
+  url: "https://gazettabyte.com/2024-3-26-teramounts-scalable-fibre-attach-for-co-packaged-optics/"
+  clip: "clippings/web/gazettabyte-teramount-fibre-attach-part2-20240326.md"
+ocp-opensiph-whitepaper-202607:
+  who: "OCP Open Silicon Photonics for AI Systems 工作流"
+  title: "Vision: Open Silicon Photonics for AI Systems（白皮書）"
+  date: "2026-07"
+  level: "一手"
+  url: "https://www.opencompute.org/documents/vision-opensiphforaisystems-final-pdf"
+  clip: "clippings/web/OCP-OpenSiPh-AI-Systems-白皮書-202607.md"
+stockfeel-largan-q3-20261008:
+  who: "股感（法說會筆記）"
+  title: "大立光 3008 2026Q3 法說會"
+  date: "2026-10-08"
+  level: "第三方"
+  url: "https://www.stockfeel.com.tw/%E5%A4%A7%E7%AB%8B%E5%85%89-3008-2026q3-%E6%B3%95%E8%AA%AA%E6%9C%83/"
+  clip: "clippings/web/stockfeel-largan-2026q3-earnings-call-20261008.md"
+lightera-cpo-fiber-20260316:
+  who: "Lightera 新聞稿"
+  title: "Lightera launches Micro Connect 1310 fiber suite for co-packaged optics featuring new 80/125 bend-insensitive SMF and PMF"
+  date: "2026-03-16"
+  level: "公司說"
+  url: "https://lightera.com/n/lightera-launches-micro-connect-1310-fiber-suite-for-co-packaged-optics-featuring-new-80-125-bend-insensitive-smf-and-pmf/"
+  clip: "clippings/web/lightera-micro-connect-1310-cpo-smf-pmf-20260316.md"
+us20260186216a1:
+  who: "矽品 SPIL 專利 US20260186216A1"
+  title: "ELECTRONIC PACKAGE"
+  date: "2026-07-02"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260186216"
+  clip: "clippings/web/patent-US20260186216A1.md"
+us20260047486a1:
+  who: "矽品 SPIL 專利 US20260047486A1"
+  title: "ELECTRONIC PACKAGE AND MANUFACTURING METHOD THEREOF"
+  date: "2026-02-12"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260047486"
+  clip: "clippings/web/patent-US20260047486A1.md"
+us12687679b2:
+  who: "Corning 專利 US12687679B2"
+  title: "Fiber holders and associated methods for maintaining relative orientiation of fibers therein"
+  date: "2026-07-21"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12687679"
+  clip: "clippings/web/patent-US12687679B2.md"
+us20260023210a1:
+  who: "Corning 專利 US20260023210A1"
+  title: "HOLLOW-CORE FIBER ARRAY UNIT WITH INTEGRATED SOLID CORE WAVEGUIDE INTERFACE"
+  date: "2026-01-22"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260023210"
+  clip: "clippings/web/patent-US20260023210A1.md"
+
+gewo168-cpo-passive-20260530:
+  who: 未具名調研紀要（南海呈森網刊載）
+  title: 调研纪要|500 亿市场!CPO 最被低估的两个无源器件
+  date: '2026-05-30'
+  level: KOL
+  url: https://www.gewo168.com/118870.html
+  clip: clippings/web/南海呈森網-調研紀要CPO無源器件FAU單價-20260530.md

@@ -1,0 +1,2281 @@
+# cpo-v3 的出處登記。key → 一份來源文件；順序 = 在 v3 第一次出現的順序。
+# 給 notes/build_note.py 用：[[key]] 變成註腳編號。說法逐條對應見 clippings/_recon/v3-claims-to-refs.md。
+# level：一手（原始文件、公司新聞稿、專利、論文）／公司說（公司說法經轉載或問答）／媒體報／第三方（研究機構、分析）／KOL
+
+tianxia-coupe-20260818:
+  who: "天下雜誌"
+  title: "COUPE是什麼？台積電把「光」送進晶片，輝達成為最早客戶"
+  date: "2026-08-18"
+  level: "媒體報"
+  url: "https://www.cw.com.tw/article/5142474"
+  clip: "clippings/web/cw-coupe-what-is-20260818.md"
+semianalysis-cpo-book:
+  who: "SemiAnalysis"
+  title: "Co Packaged Optics (CPO) – Scaling with Light for the Next Wave of Interconnect"
+  date: "2026-01-01"
+  level: "第三方"
+  url: "https://newsletter.semianalysis.com/p/co-packaged-optics-cpo-book-scaling"
+  clip: "clippings/web/semianalysis-cpo-book-20261010.md"
+cnyes-spectrumx-20260817:
+  who: "鉅亨網"
+  title: "「光進銅退」時代來了！輝達CPO交換器正式出貨：功耗暴降80%、頻寬衝上409.6Tb/s"
+  date: "2026-08-17"
+  level: "媒體報"
+  url: "https://news.cnyes.com/news/id/6578743"
+  clip: "clippings/web/cnyes-nvidia-spectrumx-photonics-shipping-20260817.md"
+nvidia-blog-20260106:
+  who: "NVIDIA 技術部落格"
+  title: "Scaling Power-Efficient AI Factories with NVIDIA Spectrum-X Ethernet Photonics"
+  date: "2026-01-06"
+  level: "一手"
+  url: "https://developer.nvidia.com/blog/scaling-power-efficient-ai-factories-with-nvidia-spectrum-x-ethernet-photonics/"
+  clip: "clippings/web/nvidia-devblog-spectrumx-ethernet-photonics-20260106.md"
+nvidia-blog-20250826:  # 同文另有 clippings/web/nvidia-dev-blog-cpo-industry-collab-20261010.md
+  who: "NVIDIA 技術部落格"
+  title: "How Industry Collaboration Fosters NVIDIA Co-Packaged Optics"
+  date: "2025-08-26"
+  level: "一手"
+  url: "https://developer.nvidia.com/blog/how-industry-collaboration-fosters-nvidia-co-packaged-optics"
+  clip: "clippings/web/nvidia-blog-industry-collaboration-cpo-20250826.md"
+nvidia-pr-20250318:
+  who: "NVIDIA 新聞稿"
+  title: "NVIDIA Announces Spectrum-X Photonics, Co-Packaged Optics Networking Switches to Scale AI Factories to Millions of GPUs"
+  date: "2025-03-18"
+  level: "一手"
+  url: "https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Spectrum-X-Photonics-Co-Packaged-Optics-Networking-Switches-to-Scale-AI-Factories-to-Millions-of-GPUs/"
+  clip: "clippings/web/nvidia-pr-spectrumx-photonics-announce-20250318.md"
+tsmc-pr-20260422:
+  who: "台積電新聞稿"
+  title: "TSMC Debuts A13 Technology at 2026 North America Technology Symposium"
+  date: "2026-04-22"
+  level: "一手"
+  url: "https://pr.tsmc.com/english/news/3302"
+  clip: "clippings/web/tsmc-pr-2026-na-symposium-a13-coupe-20260422.md"
+broadcom-pr-20251008:
+  who: "Broadcom 新聞稿"
+  title: "Broadcom Announces Tomahawk® 6 – Davisson, the Industry’s First 102.4-Tbps Ethernet Switch with Co-Packaged Optics"
+  date: "2025-10-08"
+  level: "一手"
+  url: "https://investors.broadcom.com/news-releases/news-release-details/broadcom-announces-tomahawkr-6-davisson-industrys-first-1024"
+  clip: "clippings/web/broadcom-pr-th6-davisson-cpo-20251008.md"
+nvidia-qx800-datasheet-20260911:
+  who: "NVIDIA 規格書"
+  title: "NVIDIA Quantum-X800 InfiniBand Switches"
+  date: "2026-09-11"
+  level: "一手"
+  url: "https://dam-cdn.nvd.orangelogic.com/AssetLink/35m40gksfm2l23257j071cjd655b37w0.pdf"
+  clip: "clippings/web/nvidia-quantum-x800-switch-datasheet-20260911.md"
+bnext-coupe-20260521:
+  who: "數位時代"
+  title: "白話科技｜COUPE是什麼？台積電點名下一個半導體關鍵字，COUPE概念股有哪些？"
+  date: "2026-05-21"
+  level: "媒體報"
+  url: "https://www.bnext.com.tw/article/90989/whats-tsmc-coupe"
+  clip: "clippings/web/bnext-whats-tsmc-coupe-20260521.md"
+luxnet-slides-20260828:
+  who: "華星光法說簡報"
+  title: "華星光 2026 年法人說明會簡報"
+  date: "2026-08-28"
+  level: "一手"
+  url: "https://mopsov.twse.com.tw/nas/STR/497920260828M001.pdf"
+  clip: "clippings/web/MOPS-華星光-中信法說簡報-20260828.md"
+udn-luxnet-20260828:
+  who: "經濟日報"
+  title: "華星光法說會／AI 伺服器帶動光收發模組需求 下半年業績將大幅成長"
+  date: "2026-08-28"
+  level: "媒體報"
+  url: "https://money.udn.com/money/story/5612/9720193"
+  clip: "clippings/web/經濟日報-華星光法說-20260828.md"
+tomshardware-npo-20260813:
+  who: "Tom's Hardware"
+  title: "Near-packaged optics (NPO) gains ground as the industry hedges against CPO's growing pains — analysts say volume for NPO products will extend until the end of the decade"
+  date: "2026-08-13"
+  level: "媒體報"
+  url: "https://www.tomshardware.com/tech-industry/near-packaged-optics-gains-ground-aso-the-industry-hedges-against-co-packaged-optics-growing-pains"
+  clip: "clippings/web/TomsHardware-NPO-gains-ground-20260813.md"
+broadcom-pr-ofc2026-20260312:
+  who: "Broadcom 新聞稿"
+  title: "Broadcom Showcases Industry-Leading Solutions for Scaling AI Infrastructure at OFC 2026"
+  date: "2026-03-12"
+  level: "一手"
+  url: "https://investors.broadcom.com/news-releases/news-release-details/broadcom-showcases-industry-leading-solutions-scaling-ai"
+  clip: "clippings/web/broadcom-pr-ofc2026-scaling-ai-20260312.md"
+nvidia-blog-gtc2026-20260319:
+  who: "NVIDIA 部落格"
+  title: "NVIDIA GTC 2026: Live Updates on What’s Next in AI"
+  date: "2026-03-19"
+  level: "一手"
+  url: "https://blogs.nvidia.com/blog/gtc-2026-news/"
+  clip: "clippings/web/nvidia-blog-gtc2026-live-updates-20260319.md"
+marvell-pr-20250106:
+  who: "Marvell 新聞稿"
+  title: "Marvell Announces Breakthrough Co-Packaged Optics Architecture for Custom AI Accelerators"
+  date: "2025-01-06"
+  level: "一手"
+  url: "https://investor.marvell.com/news-events/press-releases/detail/114/marvell-announces-breakthrough-co-packaged-optics-architecture-for-custom-ai-accelerators"
+  clip: "clippings/web/marvell-pr-cpo-architecture-custom-xpu-20250106.md"
+intel-oci-20240626:
+  who: "Intel 新聞"
+  title: "Intel Demonstrates First Fully Integrated Optical I/O Chiplet"
+  date: "2024-06-26"
+  level: "一手"
+  url: "https://newsroom.intel.com/artificial-intelligence/intel-unveils-first-integrated-optical-io-chiplet"
+  clip: "clippings/web/intel-newsroom-oci-chiplet-20240626.md"
+wikipedia-silicon-photonics:
+  who: "Wikipedia"
+  title: "Silicon photonics"
+  date: "2026-08-24"
+  level: "第三方"
+  url: "https://en.wikipedia.org/wiki/Silicon_photonics"
+  clip: "clippings/web/wikipedia-silicon-photonics-20261010.md"
+semianalysis-isscc2026:
+  who: "SemiAnalysis"
+  title: "NVIDIA & Broadcom CPO, HBM4 & LPDDR6, TSMC Active LSI, Logic-Based SRAM, UCIe-S and More"
+  date: "2026-04-15"
+  level: "第三方"
+  url: "https://newsletter.semianalysis.com/p/isscc-2026-nvidia-and-broadcom-cpo"
+  clip: "clippings/web/SemiAnalysis-ISSCC2026-NVIDIA-Broadcom-CPO-20260415.md"
+cmc-amf-process:
+  who: "CMC Microsystems（AMF 製程說明）"
+  title: "AMF Silicon Photonics General-Purpose Fabrication Process – CMC Microsystems"
+  date: "日期不明"
+  level: "第三方"
+  url: "https://www.cmc.ca/amf-silicon-photonics-general-purpose"
+  clip: "clippings/web/cmc-amf-sipho-process-20261010.md"
+gf-pr-amf-20251118:
+  who: "格芯新聞稿"
+  title: "GlobalFoundries Acquires Advanced Micro Foundry, Accelerating Silicon Photonics Global Leadership and Expanding AI Infrastructure Portfolio | GlobalFoundries"
+  date: "2025-11-18"
+  level: "一手"
+  url: "https://gf.com/gf-press-release/globalfoundries-acquires-advanced-micro-foundry-accelerating-silicon-photonics-global-leadership-and-expanding-ai-infrastructure-portfolio/"
+  clip: "clippings/web/gf-pr-acquires-amf-sipho-20251118.md"
+tsmc-ectc2025-coupe:
+  who: "台積電 ECTC 2025 論文"
+  title: "Optical and Electrical Characterization of a Compact Universal Photonic Engine"
+  date: "2025-05"
+  level: "一手"
+  url: "https://ieeexplore.ieee.org/document/11038201"
+  clip: "clippings/web/ieee-11038201-document-page-20261011.md"
+us20260133379a1:
+  who: "台積電專利 US20260133379A1"
+  title: "OPTICAL DEVICE AND METHOD OF MANUFACTURE"
+  date: "2026-05-14"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260133379"
+  clip: "clippings/web/patent-US20260133379A1.md"
+trendforce-fau-bottleneck:
+  who: "TrendForce"
+  title: "Passive Part, Active Battle: Inside CPO's FAU Coupling Bottleneck"
+  date: "2026-10-07"
+  level: "第三方"
+  url: "https://insights.trendforce.com/p/cpo-fau-coupling-bottleneck"
+  clip: "clippings/web/trendforce-insights-fau-coupling-bottleneck-20261010.md"
+udn-unitedopto-20260818:
+  who: "經濟日報"
+  title: "聯鈞：COSA產能逐年幾乎翻倍 ELSFP進入試產"
+  date: "2026-08-18"
+  level: "媒體報"
+  url: "https://money.udn.com/money/story/5612/9699489"
+  clip: "clippings/web/經濟日報-聯鈞COSA產能ELSFP-20260818.md"
+moneydj-unitedopto-20260819:
+  who: "MoneyDJ"
+  title: "聯鈞ELSFP卡位CPO/NPO商機，攜大廠開發邁試產"
+  date: "2026-08-19"
+  level: "媒體報"
+  url: "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=16669a15-3654-4291-a950-2dc0e29cd933"
+  clip: "clippings/web/MoneyDJ-聯鈞ELSFP試產-20260819.md"
+moneydj-landmark-20260813:
+  who: "MoneyDJ"
+  title: "聯亞:不同架構對規格影響小，70/100mW續當主流"
+  date: "2026-08-13"
+  level: "媒體報"
+  url: "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=d83a7779-f20f-47b3-a01a-1b2bdad7145e"
+  clip: "clippings/web/MoneyDJ-聯亞70-100mW主流-20260813.md"
+nvidia-ectc2025-allsmf:
+  who: "NVIDIA ECTC 2025 論文"
+  title: "All-SMF Arrays for Co-Packaged Optics: Optimizing Cost, Complexity and Performance"
+  date: "2025-05"
+  level: "一手"
+  url: "https://ieeexplore.ieee.org/document/11038223"
+  clip: "clippings/web/ieee-11038223-document-page-20261011.md"
+cornell-cnf-2024:
+  who: "Cornell CNF 研究摘要"
+  title: "2023-2024 CNF Research Accomplishments, Optics, p.88"
+  date: "2024"
+  level: "第三方"
+  url: "https://cnf.cornell.edu/sites/default/files/2024-RA/2023-2024_CNF_RA_OPTICS_PAGE-88.pdf"
+  clip: "clippings/web/cornell-cnf-cpo-fiber-polarization-page88-2024.md"
+ctee-fa-fau-20260716:
+  who: "工商時報"
+  title: "跨足CPO大立光為何從FA切入？揭開AI光通訊最關鍵的一塊拼圖"
+  date: "2026-07-16"
+  level: "媒體報"
+  url: "https://www.ctee.com.tw/news/20260716701098-430502"
+  clip: "clippings/web/ctee-fa-fau-20260716.md"
+peoplenews-largan-20261009:  # 同文另有 clippings/web/peoplenews-largan-bianju2-fau-newfactory-20261009.md
+  who: "民報"
+  title: "大立光變局2》客戶要求一路做到FAU　整座新廠押AI光通訊"
+  date: "2026-10-09"
+  level: "媒體報"
+  url: "https://www.peoplenews.tw/articles/economic-news/60305"
+  clip: "clippings/web/民報-變局2客戶要求做到FAU-20261009.md"
+us20260309938a1:
+  who: "台積電專利 US20260309938A1"
+  title: "METHOD OF FORMING FIBER ARRAY UNIT STRUCTURE"
+  date: "2026-10-08"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260309938"
+  clip: "clippings/web/patent-US20260309938A1.md"
+us12717096b2:
+  who: "台積電專利 US12717096B2"
+  title: "Integrated fiber array unit structure including embedded passive optical components and method for forming the same"
+  date: "2026-08-25"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12717096"
+  clip: "clippings/web/patent-US12717096B2.md"
+us12687683b2:
+  who: "上詮專利 US12687683B2"
+  title: "Light-coupling device"
+  date: "2026-07-21"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12687683"
+  clip: "clippings/web/patent-US12687683B2.md"
+us12613386b2:
+  who: "台積電專利 US12613386B2"
+  title: "Gel dispensation apparatus including dual flow control channels and method of operating the same"
+  date: "2026-04-28"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12613386"
+  clip: "clippings/web/patent-US12613386B2.md"
+lsa-review-202601:
+  who: "Light: Science & Applications"
+  title: "Advances in waveguide to waveguide couplers for 3D integrated photonic packaging"
+  date: "2026-01-01"
+  level: "一手"
+  url: "https://www.nature.com/articles/s41377-025-02048-w"
+  clip: "clippings/web/lsa-waveguide-couplers-3d-packaging-review-20260101.md"
+corning-fau-datasheet:
+  who: "Corning 規格書"
+  title: "Corning Fiber Array Unit (FAU) product information (OEM-039)"
+  date: "2019-09-03"
+  level: "一手"
+  url: "https://www.corning.com/microsites/coc/oem/documents/OEM-039-AEN.pdf"
+  clip: "clippings/web/corning-oem039-fau-mtp-datasheet-20261010.md"
+ctee-largan-agm-20260609:
+  who: "工商時報"
+  title: "《光電股》大立光林恩平：已開發出業界最佳FA 9月試產線完成"
+  date: "2026-06-09"
+  level: "媒體報"
+  url: "https://www.ctee.com.tw/news/20260609701001-430201"
+  clip: "clippings/web/ctee-largan-fa-0.3um-20260609.md"
+tue-fiber-fixation:
+  who: "Eindhoven 理工大學"
+  title: "A concept for accurate edge-coupled multi-fiber photonic interconnects"
+  date: "日期不明"
+  level: "第三方"
+  url: "https://research.tue.nl/en/publications/a-concept-for-accurate-edge-coupled-multi-fiber-photonic-intercon/"
+  clip: "clippings/web/tue-edge-coupled-multi-fiber-interconnect-concept-20261011.md"
+cna-largan-q3-20261008:  # 同文另有 cna-largan-fa-fau-q3-20261008.md、經濟日報-法說FA認證FAU量產中央社稿-20261008.md
+  who: "中央社"
+  title: "大立光衝刺CPO　林恩平：FA通過認證FAU拚明年量產"
+  date: "2026-10-08"
+  level: "媒體報"
+  url: "https://www.cna.com.tw/news/afe/202610080326.aspx"
+  clip: "clippings/web/中央社-法說FA認證FAU量產-20261008.md"
+bnext-foci-20260814:
+  who: "數位時代"
+  title: "「AI光通訊是百年機遇」上詮董事長林松福：我們只有一個選擇，就是擁抱它"
+  date: "2026-08-14"
+  level: "媒體報"
+  url: "https://www.bnext.com.tw/article/91866/foci-3363-cpo-fau-mass-production"
+  clip: "clippings/web/bnext-上詮-董事長林松福專訪-20260814.md"
+fraunhofer-ipt-pm:
+  who: "Fraunhofer IPT（innovations report）"
+  title: "Automated Precision Assembly for Polarized Optical Fibers"
+  date: "日期不明"
+  level: "第三方"
+  url: "https://innovations-report.com/?p=319738"
+  clip: "clippings/web/innovationsreport-fraunhofer-ipt-pm-fiber-assembly-20261011.md"
+utwente-phix:
+  who: "Twente 大學／PHIX"
+  title: "Fibre array automation case study (PHIX / University of Twente)"
+  date: "日期不明"
+  level: "第三方"
+  url: "https://fip.utwente.nl/article/third-issue/third-issue-case-study"
+  clip: "clippings/web/utwente-fip-fibre-array-automation-case-study-20261011.md"
+ozoptics-vgroove-chips:
+  who: "OZ Optics 規格書"
+  title: "DTS0077 - V-Groove Chips"
+  date: "2025-11-27"
+  level: "一手"
+  url: "https://www.ozoptics.com/ALLNEW_PDF/DTS0077.pdf"
+  clip: "clippings/web/ozoptics-silicon-vgroove-chips-datasheet-20261011.md"
+orbray-fa:
+  who: "Orbray 產品頁"
+  title: "Fiber Array Unit (FAU)"
+  date: "日期不明"
+  level: "公司說"
+  url: "https://orbray.com/en/product/optical/device/1d-fiber-array.html"
+  clip: "clippings/web/orbray-1d-fiber-array-20261010.md"
+corning-smf28-ultra:
+  who: "Corning 產品資料"
+  title: "Corning SMF-28 Ultra Optical Fiber product information (PI-1424)"
+  date: "2025"
+  level: "一手"
+  url: "https://www.corning.com/media/worldwide/coc/documents/Fiber/product-information-sheets/PI-1424-AEN.pdf"
+  clip: "clippings/web/corning-smf28-ultra-product-information-pi1424-20261011.md"
+us20260140324a1:
+  who: "上詮專利 US20260140324A1"
+  title: "METHOD AND SYSTEM FOR ASSEMBLY AND CALIBRATION OF POLARIZATION-MAINTAINING FIBERS IN CO-PACKAGED OPTICS"
+  date: "2026-05-21"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260140324"
+  clip: "clippings/web/patent-US20260140324A1.md"
+us20260036750a1:
+  who: "上詮專利 US20260036750A1"
+  title: "LENS-TYPE OPTICAL FIBER ARRAY STACKING STRUCTURE"
+  date: "2026-02-05"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260036750"
+  clip: "clippings/web/patent-US20260036750A1.md"
+us20260177766a1:
+  who: "萬潤專利 US20260177766A1"
+  title: "COMPONENT COUPLING METHOD AND APPARATUS"
+  date: "2026-06-25"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260177766"
+  clip: "clippings/web/patent-US20260177766A1.md"
+us20260079305a1:
+  who: "RAM Photonics 專利 US20260079305A1"
+  title: "METHOD AND SYSTEM FOR PACKAGING FIBER ARRAYS"
+  date: "2026-03-19"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260079305"
+  clip: "clippings/web/patent-US20260079305A1.md"
+focuslight-h1-2026:
+  who: "炬光科技半年報"
+  title: "西安炬光科技股份有限公司 2026 年半年度报告"
+  date: "2026-08-08"
+  level: "一手"
+  url: "https://static.cninfo.com.cn/finalpage/2026-08-08/1225464342.PDF"
+  clip: "clippings/web/巨潮-炬光科技-2026半年度報告-20260808.md"
+cninfo-irm-search:  # 一份搜尋結果含多家公司多則回覆，各則日期見 JSON 的 updateDate
+  who: "深交所互動易"
+  title: "深交所互動易問答（關鍵字 FAU／光纤阵列／MT插芯／V槽／CPO载板 等）"
+  date: "日期不明"
+  level: "公司說"
+  url: "https://irm.cninfo.com.cn/"
+  clip: "clippings/web/互動易-多家-FAU零件與CPO載板關鍵字搜尋-20261011.json"
+udn-asia-optical-20260903:
+  who: "經濟日報"
+  title: "先進光CPO產品拚量產"
+  date: "2026-09-03"
+  level: "媒體報"
+  url: "https://udn.com/news/story/7252/9730543"
+  clip: "clippings/web/經濟日報-先進光-V溝明年Q2量產MT插芯年底送樣-20260903.md"
+moneydj-asia-optical-20260604:
+  who: "MoneyDJ"
+  title: "《COMPUTEX》先進光展CPO產品，V-groove送驗證"
+  date: "2026-06-04"
+  level: "媒體報"
+  url: "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=f9e8b9b5-84f7-4658-8c45-3f1e1f5556cd"
+  clip: "clippings/web/MoneyDJ-先進光V-groove送驗證-20260604.md"
+udn-genius-20260901:
+  who: "經濟日報"
+  title: "玉晶光獲利靚 7月每股賺2.92元 切入 CPO 獲市場肯定"
+  date: "2026-09-01"
+  level: "媒體報"
+  url: "https://money.udn.com/money/story/5710/9725521"
+  clip: "clippings/web/經濟日報-玉晶光-7月獲利切入CPO送樣-20260901.md"
+sohu-fau-value-20260908:
+  who: "搜狐"
+  title: "CPO时代最被低估的小零件：价值量翻十倍的FAU"
+  date: "2026-09-08"
+  level: "KOL"
+  url: "https://timeline.sohu.com/news/IU8skCfFsd"
+  clip: "clippings/web/搜狐-FAU價值量翻十倍-20260908.md"
+pi-fmpa-brochure:
+  who: "PI 型錄"
+  title: "Fast, Industrial, All-Digital Optical Alignment (PI FMPA brochure)"
+  date: "日期不明"
+  level: "公司說"
+  url: "https://www.pi-usa.us/fileadmin/user_upload/pi_us/files/catalogs/PI_DBRO_USA_Fast_Multichannel_Photonics_Alignment.pdf"
+  clip: "clippings/web/pi-fmpa-brochure-20261011.md"
+senko-aerotech-santec:
+  who: "Senko／Aerotech／Santec"
+  title: "Aerotech, Santec, and SENKO Unveil Advanced Active Alignment Architecture for High-Volume Co-Packaged Optics"
+  date: "2026-01-13"
+  level: "公司說"
+  url: "https://www.senko.com/aerotech-santec-and-senko-unveil-advanced-active-alignment-architecture-for-high-volume-co-packaged-optics/"
+  clip: "clippings/web/senko-aerotech-santec-active-alignment-cpo-20261010.md"
+controleng-active-alignment:
+  who: "Control Engineering"
+  title: "Why active alignment is becoming a critical technology now"
+  date: "2026-01-17"
+  level: "媒體報"
+  url: "https://www.controleng.com/products/why-active-alignment-is-becoming-a-critical-technology-now/"
+  clip: "clippings/web/controleng-why-active-alignment-critical-20261010.md"
+technews-gmt-order-20260723:
+  who: "科技新報"
+  title: "13 億元現增到位！高明鐵上半年獲利超越去年，奪 800G/1.6T 耦光對位訂單"
+  date: "2026-07-23"
+  level: "媒體報"
+  url: "https://technews.tw/2026/07/23/gmt-global-money/"
+  clip: "clippings/web/TechNews-高明鐵800G-1.6T耦光訂單-20260723.md"
+digitimes-junying-20260623:
+  who: "DIGITIMES"
+  title: "助力矽光子與CPO量產 均英精密發表GTK-OSI1全自動FAU全系列被動光學元件檢測機"
+  date: "2026-06-23"
+  level: "公司說"
+  url: "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000759523_RPB6OLP313EI854UEZ2XV"
+  clip: "clippings/web/DIGITIMES-均英GTK-OSI1檢測機-20260623.md"
+digitimes-junying-20260915:
+  who: "DIGITIMES"
+  title: "CPO產品結構持續演進 均英精密FAU客製檢測從抽樣導入量產測試"
+  date: "2026-09-15"
+  level: "公司說"
+  url: "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768357_1FE4H0YP4BIP0W8F8SOZA"
+  clip: "clippings/web/DIGITIMES-均英FAU客製檢測-20260915.md"
+formfactor-ofc2026:
+  who: "FormFactor OFC 2026 論文"
+  title: "Fully Automated Wafer-Level Grating and Edge Coupling Measurement System for Silicon Photonics Integrated Circuits"
+  date: "2026-03"
+  level: "一手"
+  url: "https://ieeexplore.ieee.org/document/11525078"
+  clip: "clippings/web/ieee-11525078-document-page-20261011.md"
+udn-allring-gmt-20260828:
+  who: "經濟日報"
+  title: "CPO 耦合設備訂單能見度旺！法人急問萬潤：跟高明鐵差在哪裡？"
+  date: "2026-08-28"
+  level: "媒體報"
+  url: "https://money.udn.com/money/story/5612/9720995"
+  clip: "clippings/web/經濟日報-萬潤vs高明鐵耦合設備-20260828.md"
+technews-gmt-20260320:
+  who: "科技新報"
+  title: "光通訊成顯學，高明鐵攻耦光關鍵製程卡位 AI 基建"
+  date: "2026-03-20"
+  level: "媒體報"
+  url: "https://technews.tw/2026/03/20/cpo-have-to-find-the-line/"
+  clip: "clippings/web/TechNews-高明鐵耦光關鍵製程-20260320.md"
+marvell-ectc2026:
+  who: "Marvell ECTC 2026 論文"
+  title: "Integrated Assembly Process For Pluggable Fiber Connector For Co-Packaged Optics"
+  date: "2026-05"
+  level: "一手"
+  url: "https://ieeexplore.ieee.org/document/11561324"
+  clip: "clippings/web/ieee-11561324-document-page-20261011.md"
+lightmatter-vclick-20260311:
+  who: "Lightmatter 新聞稿"
+  title: "Lightmatter Unveils vClick™ Optics, Industry-First Detachable Fiber Array Unit for CPO Advanced Packaging and High-Volume Production"
+  date: "2026-03-11"
+  level: "一手"
+  url: "https://lightmatter.co/press-release/lightmatter-unveils-vclick-optics-industry-first-detachable-fiber-array-unit-for-cpo-advanced-packaging-and-high-volume-production"
+  clip: "clippings/web/lightmatter-pr-vclick-detachable-fau-20260311.md"
+senko-lightmatter-20260311:
+  who: "Senko 新聞稿"
+  title: "SENKO Collaborates with Lightmatter on Detachable Connectivity to the PIC for 3D Co-Packaged Optics"
+  date: "2026-03-11"
+  level: "一手"
+  url: "https://www.senko.com/senko-collaborates-with-lightmatter-on-detachable-connectivity-to-the-pic-for-3d-co-packaged-optics/"
+  clip: "clippings/web/senko-lightmatter-detachable-fau-20260311.md"
+corning-ir-ofc2026-20260316:
+  who: "Corning 新聞稿"
+  title: "Corning To Launch AI Innovations in Fiber, Cable, and Connectivity at OFC 2026"
+  date: "2026-03-16"
+  level: "一手"
+  url: "https://investor.corning.com/news-and-events/news/news-details/2026/Corning-To-Launch-AI-Innovations-in-Fiber-Cable-and-Connectivity-at-OFC-2026/default.aspx"
+  clip: "clippings/web/corning-ir-ofc2026-ai-fiber-connectivity-20260316.md"
+senko-wiwynn-computex2026:
+  who: "Senko"
+  title: "From Architecture to Adoption: Ecosystem Collaboration Accelerates Co-Packaged Optics"
+  date: "2026-06"
+  level: "一手"
+  url: "https://www.senko.com/from-architecture-to-adoption-ecosystem-collaboration-accelerates-co-packaged-optics/"
+  clip: "clippings/web/senko-wiwynn-computex2026-cpo-ecosystem-202606.md"
+fujikura-panda:
+  who: "Fujikura 產品目錄"
+  title: "Fujikura PANDA 保偏光纖產品目錄"
+  date: "2026-03"
+  level: "一手"
+  url: "https://www.optic-product.fujikura.com/wp-content/uploads/2026/03/カタログ_英語_Specialty-Fibers_PANDA-fiber-Polarization-Maintaining-Fiber.pdf"
+  clip: "clippings/web/fujikura-panda-pm-fiber-catalog-202603.md"
+nvidia-blog-20260601:
+  who: "NVIDIA 部落格"
+  title: "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI"
+  date: "2026-06-01"
+  level: "一手"
+  url: "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/"
+  clip: "clippings/web/nvidia-blog-gtc-taipei-computex-20260601.md"
+marvell-celestial-20251202:
+  who: "Marvell 新聞稿"
+  title: "Marvell to Acquire Celestial AI, Accelerating Scale-up Connectivity for Next-Generation Data Centers"
+  date: "2025-12-02"
+  level: "一手"
+  url: "https://www.marvell.com/company/newsroom/marvell-to-acquire-celestial-ai.html"
+  clip: "clippings/web/marvell-pr-to-acquire-celestial-ai-20251202.md"
+amd-enosemi-20250528:
+  who: "AMD 部落格"
+  title: "AMD Acquires Enosemi to Accelerate Co-Packaged Optics Innovation for AI Systems"
+  date: "2025-05-28"
+  level: "一手"
+  url: "https://www.amd.com/en/blogs/2025/amd-acquires-enosemi-to-accelerate-co-packaged-optics-innovation.html"
+  clip: "clippings/web/amd-blog-acquires-enosemi-cpo-20250528.md"
+nvidia-blog-20250327:
+  who: "NVIDIA 技術部落格"
+  title: "A New Era in Data Center Networking with NVIDIA Silicon Photonics-based Network Switching"
+  date: "2025-03-27"
+  level: "一手"
+  url: "https://developer.nvidia.com/blog/a-new-era-in-data-center-networking-with-nvidia-silicon-photonics-based-network-switching/"
+  clip: "clippings/web/nvidia-blog-new-era-silicon-photonics-switching-20250327.md"
+ayarlabs-nvlink-fusion-20260602:
+  who: "Ayar Labs 新聞稿"
+  title: "Ayar Labs Joins NVIDIA NVLink™ Fusion Ecosystem to Bring Co‑Packaged Optics to Rack-Scale AI Infrastructure"
+  date: "2026-06-02"
+  level: "一手"
+  url: "https://ayarlabs.com/news/ayar-labs-joins-nvidia-nvlink-fusion-ecosystem-to-bring-co-packaged-optics-to-rack-scale-ai-infrastructure/"
+  clip: "clippings/web/ayarlabs-pr-nvlink-fusion-20260602.md"
+lightmatter-nvlink-fusion-20260602:
+  who: "Lightmatter 新聞稿"
+  title: "Lightmatter Joins NVIDIA NVLink Fusion and Powers Next-Generation AI Infrastructure with Photonic Interconnects"
+  date: "2026-06-02"
+  level: "一手"
+  url: "https://lightmatter.com/press-release/lightmatter-joins-nvidia-nvlink-fusion/"
+  clip: "clippings/web/lightmatter-pr-nvlink-fusion-20260602.md"
+nvidia-sipho-page:
+  who: "NVIDIA 官網"
+  title: "NVIDIA Silicon Photonics for Agentic AI Networking"
+  date: "日期不明"
+  level: "一手"
+  url: "https://www.nvidia.com/silicon-photonics/"
+  clip: "clippings/web/nvidia-silicon-photonics-page-20261010.md"
+tower-pr-20260513:
+  who: "Tower 新聞稿"
+  title: "Tower Semiconductor Signs Customer Contracts for $1.3 Billion Silicon Photonics Revenue for 2027"
+  date: "2026-05-13"
+  level: "一手"
+  url: "https://ir.towerjazz.com/news-releases/news-release-details/tower-semiconductor-signs-customer-contracts-13-billion-silicon"
+  clip: "clippings/web/tower-pr-sipho-1p3b-contracts-20260513.md"
+umc-silith-20260714:
+  who: "聯電新聞稿"
+  title: "SILITH and UMC Achieve Mass Production Milestone for Silicon PhotonicsAccelerating High-Volume Silicon Photonics Manufacturing for AI Infrastructure"
+  date: "2026-07-14"
+  level: "一手"
+  url: "https://www.umc.com/en/News/press_release/Content/technology_related/20260714"
+  clip: "clippings/web/umc-pr-silith-sipho-mass-production-20260714.md"
+st-pic100-20260309:
+  who: "意法半導體部落格"
+  title: "Update: PIC100 or ST's 1st silicon photonics technology offers performance, efficiency, and a vision of"
+  date: "2026-03-09"
+  level: "一手"
+  url: "https://blog.st.com/pic100"
+  clip: "clippings/web/st-blog-pic100-hvm-20260309.md"
+gf-6k-20260805:
+  who: "格芯 6-K"
+  title: "GlobalFoundries Reports Second Quarter 2026 Financial Results"
+  date: "2026-08-05"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/0001709048/000170904826000218/globalfoundries2q2026earni.htm"
+  clip: "clippings/web/gf-sec-6k-2q2026-results-20260805.md"
+samsung-1q2026-20260430:
+  who: "三星電子財報新聞稿"
+  title: "Samsung Electronics Announces First Quarter 2026 Results"
+  date: "2026-04-30"
+  level: "一手"
+  url: "https://news.samsung.com/my/samsung-electronics-announces-first-quarter-2026-results"
+  clip: "clippings/web/samsung-pr-1q2026-results-20260430.md"
+ayarlabs-650m-202609:
+  who: "Ayar Labs 新聞稿"
+  title: "Ayar Labs Expands 2026 Funding to $650 Million to Scale Manufacturing-Ready CPO for AI Scale-Up Beyond the Rack"
+  date: "2026-09"
+  level: "一手"
+  url: "https://ayarlabs.com/news/ayar-labs-expands-2026-funding-to-650-million/"
+  clip: "clippings/web/ayarlabs-pr-2026-funding-650m-202609.md"
+ayarlabs-wiwynn-20260311:
+  who: "Ayar Labs 新聞稿"
+  title: "Ayar Labs and Wiwynn Partner to Bring Co‑Packaged Optics to Rack‑Scale AI Systems"
+  date: "2026-03-11"
+  level: "一手"
+  url: "https://ayarlabs.com/news/ayar-labs-and-wiwynn-partner-to-bring-co-packaged-optics-to-rack-scale-ai-systems/"
+  clip: "clippings/web/ayarlabs-wiwynn-cpo-rack-scale-20260311.md"
+lightmatter-pr-list:
+  who: "Lightmatter 新聞稿列表"
+  title: "Press Releases"
+  date: "日期不明"
+  level: "一手"
+  url: "https://lightmatter.co/press-releases/"
+  clip: "clippings/web/lightmatter-press-releases-list-20261011.md"
+lightmatter-guc-20260126:
+  who: "Lightmatter 新聞稿"
+  title: "Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers"
+  date: "2026-01-26"
+  level: "一手"
+  url: "https://lightmatter.co/press-release/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/"
+  clip: "clippings/web/lightmatter-pr-guc-cpo-partnership-20260126.md"
+marvell-celestial-close-20260202:
+  who: "Marvell 新聞稿"
+  title: "Marvell Completes Acquisition of Celestial AI"
+  date: "2026-02-02"
+  level: "一手"
+  url: "https://investor.marvell.com/news-events/press-releases/detail/1005/marvell-completes-acquisition-of-celestial-ai"
+  clip: "clippings/web/marvell-pr-completes-celestial-ai-20260202.md"
+ciena-nubis-8k-20250922:
+  who: "Ciena 8-K"
+  title: "Ciena to Acquire Nubis Communications"
+  date: "2025-09-22"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/0000936395/000162828025042266/a250922pressrelease.htm"
+  clip: "clippings/web/ciena-sec-8k-ex99-nubis-acquisition-20250922.md"
+ciena-nubis-8k-20251007:
+  who: "Ciena 8-K"
+  title: "Ciena Form 8-K: completion of acquisition of Nubis Communications"
+  date: "2025-10-07"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/936395/000162828025044494/cien-20251007.htm"
+  clip: "clippings/web/ciena-sec-8k-nubis-completion-20251007.md"
+molex-teramount-20260415:
+  who: "Molex 新聞稿"
+  title: "Molex Announces Agreement to Acquire Teramount Ltd."
+  date: "2026-04-15"
+  level: "一手"
+  url: "https://www.molex.com/en-us/news/agreement-to-acquire-teramount-to-accelerate-scalable-co-packaged-optics-adoption"
+  clip: "clippings/web/molex-pr-agreement-acquire-teramount-20260415.md"
+poet-6k-20260427:
+  who: "POET 6-K"
+  title: "POET Technologies Provides Purchase Order Update"
+  date: "2026-04-27"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/0001437424/000117184326002726/exh_991.htm"
+  clip: "clippings/web/poet-sec-6k-celestial-po-cancelled-20260427.md"
+xscape-20260311:
+  who: "Xscape Photonics（StorageNewsletter 轉載）"
+  title: "Xscape Photonics Announces $37 Million in New Funding, Launches Eight-Wavelength Laser for AI Data Center Networks"
+  date: "2026-03-11"
+  level: "公司說"
+  url: "https://www.storagenewsletter.com/2026/03/24/xscape-photonics-announces-37-million-in-new-funding-launches-eight-wavelength-laser-for-ai-data-center-networks/"
+  clip: "clippings/web/xscape-pr-37m-funding-falconx-storagenewsletter-20260311.md"
+scintil-20250909:
+  who: "Scintil 新聞稿"
+  title: "Scintil Photonics Raises $58M To Scale Integrated Photonics For AI Factories"
+  date: "2025-09-09"
+  level: "公司說"
+  url: "https://www.photonicsonline.com/doc/scintil-photonics-raises-m-to-scale-integrated-photonics-for-ai-factories-0001"
+  clip: "clippings/web/scintil-pr-58m-series-b-20250909.md"
+nvidia-pr-coherent-20260302:
+  who: "NVIDIA 新聞稿"
+  title: "NVIDIA and Coherent Announce Strategic Partnership to Develop Optics Technology to Scale Next-Generation Data Center Architecture"
+  date: "2026-03-02"
+  level: "一手"
+  url: "http://nvidianews.nvidia.com/news/nvidia-and-coherent-announce-strategic-partnership-to-develop-optics-technology-to-scale-next-generation-data-center-architecture"
+  clip: "clippings/web/NVIDIA-PR-Coherent投資-20260302.md"
+nvidia-pr-lumentum-20260302:
+  who: "NVIDIA 新聞稿"
+  title: "NVIDIA Announces Strategic Partnership With Lumentum to Develop State-of-the-Art Optics Technology"
+  date: "2026-03-02"
+  level: "一手"
+  url: "http://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology"
+  clip: "clippings/web/NVIDIA-PR-Lumentum投資-20260302.md"
+sec-coherent-8k-20260302:
+  who: "Coherent 8-K"
+  title: "Coherent Form 8-K: issuance of common stock to NVIDIA"
+  date: "2026-03-02"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/820318/000119312526084366/d42735d8k.htm"
+  clip: "clippings/web/SEC-Coherent-8K普通股發行NVIDIA-20260302.md"
+sec-lumentum-8k-20260302:
+  who: "Lumentum 8-K"
+  title: "Lumentum Form 8-K: issuance of Series A convertible preferred stock to NVIDIA"
+  date: "2026-03-02"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/1633978/000119312526085412/d41019d8k.htm"
+  clip: "clippings/web/SEC-Lumentum-8K特別股發行NVIDIA-20260302.md"
+tomshardware-lumentum-20260731:
+  who: "Tom's Hardware"
+  title: "Lumentum CEO warns of impending bottleneck on critical material used for silicon photonics — fab and material shortfall already lags 30% below customer needs as co-packaged optics demand skyrockets"
+  date: "2026-07-31"
+  level: "媒體報"
+  url: "https://www.tomshardware.com/tech-industry/semiconductors/lumentum-ceo-says-the-indium-phosphide-shortage-will-become-worse-than-memory"
+  clip: "clippings/web/TomsHardware-Lumentum執行長InP短缺-20260731.md"
+lumentum-q2fy26-20260203:
+  who: "Lumentum 財報新聞稿"
+  title: "Lumentum Announces Second Quarter of Fiscal Year 2026 Financial Results"
+  date: "2026-02-03"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/1633978/000162828026005005/lite_ex991xq2fy26.htm"
+  clip: "clippings/web/SEC-Lumentum-FY26Q2財報新聞稿-20260203.md"
+businesswire-lumentum-nc-20260326:
+  who: "Lumentum 新聞稿（BusinessWire）"
+  title: "Lumentum Announces New U.S. Manufacturing Facility to Produce Advanced Lasers for the World’s Largest AI Data Centers"
+  date: "2026-03-26"
+  level: "公司說"
+  url: "https://www.businesswire.com/news/home/20260326010765/en/Lumentum-Announces-New-U.S.-Manufacturing-Facility-to-Produce-Advanced-Lasers-for-the-Worlds-Largest-AI-Data-Centers"
+  clip: "clippings/web/BusinessWire-Lumentum美國新廠-20260326.md"
+opticsorg-lumentum-20260401:
+  who: "Optics.org"
+  title: "Lumentum to scale InP lasers at new US fab"
+  date: "2026-04-01"
+  level: "媒體報"
+  url: "https://optics.org/news/lumentum-to-fabricate-inp-lasers-at-major-new-us-fab"
+  clip: "clippings/web/Optics.org-Lumentum新InP廠-20260401.md"
+coherent-q3fy26-deck-20260506:
+  who: "Coherent 投資人簡報"
+  title: "Coherent Investor Presentation, Third Quarter Fiscal 2026"
+  date: "2026-05-06"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/820318/000119312526208972/d57080dex992.htm"
+  clip: "clippings/web/SEC-Coherent-FY26Q3投資人簡報-20260506.md"
+nvidia-blog-coherent-texas-20260616:
+  who: "NVIDIA 部落格"
+  title: "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone"
+  date: "2026-06-16"
+  level: "公司說"
+  url: "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/"
+  clip: "clippings/web/NVIDIA部落格-Coherent德州廠動土-20260616.md"
+coherent-pr-cpo-ofc2026-20260317:
+  who: "Coherent 新聞稿"
+  title: "Coherent Demonstrates Multiple Technologies for Co-packaged Optics (CPO)"
+  date: "2026-03-17"
+  level: "一手"
+  url: "https://www.coherent.com/news/press-releases/coherent-co-packaged-optics-cpo-technologies-ofc-2026"
+  clip: "clippings/web/coherent-pr-cpo-ofc2026-20260317.md"
+sangyo-inp-20260410:
+  who: "產業時報社"
+  title: "インジウムリン、空前の活況"
+  date: "2026-04-10"
+  level: "媒體報"
+  url: "https://www.sangyo-times.jp/article.aspx?ID=15055"
+  clip: "clippings/web/產業時報社-InP空前活況-20260410.md"
+uanalyze-elsfp-20260924:
+  who: "優分析"
+  title: "AI光通訊｜CPO/NPO外置光源ELSFP邁向量產 光創聯2027Q1量產、聯鈞進入小量生產"
+  date: "2026-09-24"
+  level: "媒體報"
+  url: "https://uanalyze.com.tw/articles/8331255940"
+  clip: "clippings/web/優分析-ELSFP量產光創聯聯鈞-20260924.md"
+nikkei-mitsubishi-20260422:
+  who: "日本經濟新聞"
+  title: "三菱電機、長崎の光半導体ライン倍増へ　AI需要で生産累計1億個超"
+  date: "2026-04-22"
+  level: "媒體報"
+  url: "https://www.nikkei.com/article/DGXZQOJC260ZJ0W6A320C2000000/"
+  clip: "clippings/web/日本經濟新聞-三菱電機光半導體倍增-20260422.md"
+cw-en-aoi-20260818:
+  who: "天下雜誌英文版"
+  title: "Taiwanese American-Founded AOI Closes in on U.S. Laser Trio"
+  date: "2026-08-18"
+  level: "媒體報"
+  url: "https://english.cw.com.tw/article/article.action?id=4950"
+  clip: "clippings/web/天下英文-AOI追美國雷射三強-20260818.md"
+jrj-tfc-20261009:
+  who: "金融界"
+  title: "天孚通信披露，为CPO产品配套的FAU、ELS等产品已实现稳定量产交付"
+  date: "2026-10-09"
+  level: "公司說"
+  url: "https://finance.jrj.com.cn/2026/10/09212258655140.shtml"
+  clip: "clippings/web/jrj-tfc-fau-els-volume-delivery-20261009.md"
+cbn21-yuanjie-20260812:
+  who: "21世紀經濟報道"
+  title: "“易中天”“股王”大涨！源杰科技砸42亿扩产引爆CPO概念"
+  date: "2026-08-12"
+  level: "媒體報"
+  url: "https://m.21jingji.com/article/20260812/herald/f65fd2078b06a351467e09128f8d875f_zaker.html"
+  clip: "clippings/web/21財經-源杰42億擴產-20260812.md"
+c114-accelink-ofc2026-20260320:
+  who: "C114 通信網"
+  title: "OFC 2026观察：光迅科技 3.2T NPO"
+  date: "2026-03-20"
+  level: "媒體報"
+  url: "https://m.c114.com.cn/w6541-1307241.html"
+  clip: "clippings/web/C114-光迅OFC2026-20260320.md"
+ttv-landmark-20260817:
+  who: "台視財經（MoneyDJ 稿）"
+  title: "聯亞擴磷化銦/CW雷射產線，明年產能增1.5倍"
+  date: "2026-08-17"
+  level: "媒體報"
+  url: "https://www.ttv.com.tw/finance/view/0820261709503E906C4B109D4A04AAF308DB974833972C35/587"
+  clip: "clippings/web/台視-聯亞擴InP-CW產線-20260817.md"
+technews-iet-20260618:
+  who: "科技新報"
+  title: "搶攻 CPO 市場，IET-KY 布局 InP、QD 雷射磊晶商機"
+  date: "2026-06-18"
+  level: "媒體報"
+  url: "https://technews.tw/2026/06/18/iet-cpo-inp-els-qd-laser/"
+  clip: "clippings/web/TechNews-IET-KY-InP-QD雷射-20260618.md"
+moneydj-iet-20260727:
+  who: "MoneyDJ"
+  title: "IET-KY新廠年底~明年初完工，瞄準AI及新材料商機"
+  date: "2026-07-27"
+  level: "媒體報"
+  url: "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=b6c336ee-0025-4cea-a643-3f43a60c63fa"
+  clip: "clippings/web/MoneyDJ-IET-KY新廠-20260727.md"
+udn-applied-optoelectronics-20260823:
+  who: "經濟日報"
+  title: "光環磷化銦代工大單到手 明年挑戰賺一股本"
+  date: "2026-08-23"
+  level: "媒體報"
+  url: "https://money.udn.com/money/story/5612/9709608"
+  clip: "clippings/web/經濟日報-光環InP代工大單-20260823.md"
+ctee-ligitek-20260904:
+  who: "工商時報"
+  title: "立碁3.2T明年完成開發 ELSFP鎖定NPO、CPO應用"
+  date: "2026-09-04"
+  level: "媒體報"
+  url: "https://www.ctee.com.tw/news/20260904701587-430502"
+  clip: "clippings/web/工商時報-立碁ELSFP-20260904.md"
+eastmoney-tfc-20260422:
+  who: "東方財富網"
+  title: "天孚通信：1.6T光引擎处于量产状态目前因为个别物料缺料尚未达到预期产量 公司在积极协调供应商努力争取更多交付 _ 东方财富网"
+  date: "2026-04-22"
+  level: "媒體報"
+  url: "https://finance.eastmoney.com/a/202604223714326573.html"
+  clip: "clippings/web/東方財富-天孚1.6T光引擎缺料-20260422.md"
+trendforce-inp-20260806:
+  who: "TrendForce"
+  title: "[News] InP Shortage Emerges as AI Optical Interconnect Bottleneck"
+  date: "2026-08-06"
+  level: "第三方"
+  url: "https://www.trendforce.com/news/2026/08/06/news-inp-shortage-emerges-as-ai-optical-interconnect-bottleneck/"
+  clip: "clippings/web/TrendForce-InP缺貨-20260806.md"
+technews-inp-price-20260817:
+  who: "科技新報"
+  title: "傳 InP 基板 Q4 漲逾一成！供應告急、雷射需求夯，光通訊類股攻漲停"
+  date: "2026-08-17"
+  level: "媒體報"
+  url: "https://technews.tw/2026/08/17/inp-substrate-raised-money-and-stock/"
+  clip: "clippings/web/TechNews-InP基板漲價-20260817.md"
+lante-h1-2026:
+  who: "藍特光學半年報"
+  title: "浙江蓝特光学股份有限公司 2026 年半年度报告"
+  date: "2026-08-21"
+  level: "一手"
+  url: "https://static.cninfo.com.cn/finalpage/2026-08-21/1225485663.PDF"
+  clip: "clippings/web/巨潮-藍特光學-2026半年度報告-20260821.md"
+himax-6k-20260806:
+  who: "奇景 6-K"
+  title: "Himax Technologies, Inc. Reports Second Quarter 2026 Financial Results"
+  date: "2026-08-06"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/1342338/000117184326005288/exh_991.htm"
+  clip: "clippings/web/SEC-奇景-2026Q2財報新聞稿6K-20260806.md"
+moneydj-himax-foci-20260323:
+  who: "MoneyDJ"
+  title: "奇景光電CPO攜手供應鏈推進，下半年漸貢獻營收"
+  date: "2026-03-23"
+  level: "媒體報"
+  url: "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=6921d78b-cb8a-4bc7-85c6-2514cd82c749"
+  clip: "clippings/web/MoneyDJ-奇景上詮CPO-20260323.md"
+ltn-ymg-20260724:
+  who: "自由時報"
+  title: "揚明光CPO推三大布局 FAU產品試產中"
+  date: "2026-07-24"
+  level: "媒體報"
+  url: "https://ec.ltn.com.tw/article/breakingnews/5516681"
+  clip: "clippings/web/自由財經-揚明光-法說FAU兩項試產明年初量產-20260724.md"
+udn-holy-20260624:
+  who: "經濟日報"
+  title: "合聖科技6/26登興櫃 FAU產線明年驗證量產"
+  date: "2026-06-24"
+  level: "媒體報"
+  url: "https://money.udn.com/money/story/5612/9586150"
+  clip: "clippings/web/經濟日報-合聖登興櫃FAU產線-20260624.md"
+agc-mla-fau:
+  who: "AGC 產品頁"
+  title: "Micro Lens Arrays and FAU in CPO for Optical Coupling Efficiency"
+  date: "日期不明"
+  level: "公司說"
+  url: "https://www.agc.com/en/products/electoric/optical-glass/micro-rens-array/mla-cpo.html"
+  clip: "clippings/web/agc-mla-fau-cpo-20261010.md"
+tfc-sunsea-h1-2026:
+  who: "太辰光半年報"
+  title: "深圳太辰光通信股份有限公司 2026 年半年度报告"
+  date: "2026-08-15"
+  level: "一手"
+  url: "https://static.cninfo.com.cn/finalpage/2026-08-15/1225475478.PDF"
+  clip: "clippings/web/巨潮-太辰光-2026半年度報告-20260815.md"
+jonhon-h1-2026:
+  who: "中航光電半年報"
+  title: "中航光电科技股份有限公司 2026 年半年度报告"
+  date: "2026-08-27"
+  level: "一手"
+  url: "https://static.cninfo.com.cn/finalpage/2026-08-27/1225514842.PDF"
+  clip: "clippings/web/巨潮-中航光電-2026半年度報告-20260827.md"
+sanwa-usconec-20260217:
+  who: "Sanwa 官網"
+  title: "Industry Collaboration of MMC (VSFF Connectors) and TMT Ferrule Solutions"
+  date: "2026-02-17"
+  level: "一手"
+  url: "https://sanwa-tech.com/?p=52127"
+  clip: "clippings/web/Sanwa官網-USConec白山Sanwa-MMC與TMT插芯合作-20260217.md"
+yofc-h1-2026:
+  who: "長飛光纖半年報"
+  title: "长飞光纤光缆股份有限公司 2026 年半年度报告"
+  date: "2026-08-22"
+  level: "一手"
+  url: "https://static.cninfo.com.cn/finalpage/2026-08-22/1225493215.PDF"
+  clip: "clippings/web/巨潮-長飛光纖-2026半年度報告-20260822.md"
+cninfo-tfc-20260819:
+  who: "天孚通信投資者關係活動記錄"
+  title: "苏州天孚光通信股份有限公司投资者关系活动记录表（编号 2026-007）"
+  date: "2026-08-19"
+  level: "一手"
+  url: "https://static.cninfo.com.cn/finalpage/2026-08-19/1225483926.PDF"
+  clip: "clippings/web/cninfo-tfc-investor-record-20260819.md"
+ctee-foci-20260703:
+  who: "工商時報"
+  title: "光通訊收割期來了！上詮搶進「百年機遇」 交貨進度、技術優勢一次看"
+  date: "2026-07-03"
+  level: "媒體報"
+  url: "https://www.ctee.com.tw/news/20260703700064-439901"
+  clip: "clippings/web/工商時報-上詮-董事長專訪FAU第三季量產交貨-20260703.md"
+cnyes-foci-capex-20260903:
+  who: "鉅亨網"
+  title: "上詮斥資15.38億擴產FAU生產線 Q3起依客戶需求交貨3.2T產品"
+  date: "2026-09-03"
+  level: "媒體報"
+  url: "https://news.cnyes.com/news/id/6596699"
+  clip: "clippings/web/鉅亨網-上詮-斥資15.38億擴產FAU產線-20260903.md"
+ctee-foci-q4-20260907:
+  who: "工商時報"
+  title: "上詮FAU放量 Q4營運看俏"
+  date: "2026-09-07"
+  level: "媒體報"
+  url: "https://www.ctee.com.tw/news/20260907700169-439901"
+  clip: "clippings/web/工商時報-上詮-FAU放量Q4營運看俏-20260907.md"
+o-net-h1-2026:
+  who: "光庫科技半年報"
+  title: "珠海光库科技股份有限公司 2026 年半年度报告"
+  date: "2026-08-18"
+  level: "一手"
+  url: "https://static.cninfo.com.cn/finalpage/2026-08-18/1225477531.PDF"
+  clip: "clippings/web/巨潮-光庫科技-2026半年度報告-20260818.md"
+shijia-h1-2026:
+  who: "仕佳光子半年報"
+  title: "河南仕佳光子科技股份有限公司 2026 年半年度报告"
+  date: "2026-08-01"
+  level: "一手"
+  url: "https://static.cninfo.com.cn/finalpage/2026-08-01/1225451928.PDF"
+  clip: "clippings/web/巨潮-仕佳光子-2026半年度報告-20260801.md"
+cfol-changxin-20260320:
+  who: "訊石光通訊網"
+  title: "OFC 2026 | 长芯博创聚焦FAU创新，引领光学互联新时代"
+  date: "2026-03-20"
+  level: "公司說"
+  url: "http://www.iccsz.com/4g/news.Asp?ID=63be285dc7e84cdeb84bf585c61c7f84"
+  clip: "clippings/web/訊石光通訊網-長芯博創全系列FAU-20260320.md"
+ctee-browave-agm-20260617:
+  who: "工商時報"
+  title: "波若威營運噴發！光纖接線盒Q3出貨 CPO布局加速"
+  date: "2026-06-17"
+  level: "媒體報"
+  url: "https://www.ctee.com.tw/news/20260617700211-439901"
+  clip: "clippings/web/工商時報-波若威-股東會總經理FAU2027小量出貨-20260617.md"
+senko-fiber-array-product:
+  who: "Senko 產品頁"
+  title: "Fiber Array Assemblies"
+  date: "日期不明"
+  level: "公司說"
+  url: "https://www.senko.com/product/fiber-array/"
+  clip: "clippings/web/senko-fiber-array-product-20261010.md"
+lightmatter-vclick-product:
+  who: "Lightmatter 產品頁"
+  title: "vClick Optics"
+  date: "日期不明"
+  level: "一手"
+  url: "https://lightmatter.co/products/vclick-optics/"
+  clip: "clippings/web/lightmatter-vclick-optics-20261010.md"
+udn-foci-tsmc-20260423:
+  who: "經濟日報"
+  title: "台積電CPO報捷 帶動夥伴業務爆發 上詮、大立光進補"
+  date: "2026-04-23"
+  level: "媒體報"
+  url: "https://money.udn.com/money/story/5612/9461053"
+  clip: "clippings/web/經濟日報-上詮-台積電COUPE夥伴FAU合作三年-20260423.md"
+wealth-largan-20260815:
+  who: "財訊"
+  title: "台積電疑問「明明能做為何不出貨？」讓林恩平下定決心！大立光 300 天急行軍搶攻 CPO 幕後"
+  date: "2026-08-15"
+  level: "媒體報"
+  url: "https://finance.technews.tw/2026/08/15/largan-cpo/"
+  clip: "clippings/web/technews-wealth-largan-cpo-300days-20260815.md"
+ctee-coupe-six-20260328:
+  who: "工商時報"
+  title: "AI新飆股來了？台積電矽光子COUPE平台點火 6家台廠最受惠"
+  date: "2026-03-28"
+  level: "媒體報"
+  url: "https://www.ctee.com.tw/news/20260328700126-439901"
+  clip: "clippings/web/工商時報-COUPE六家台廠-20260328.md"
+digitimes-largan-hans-20260617:
+  who: "DIGITIMES"
+  title: "（獨家）大立光、舜宇光學追逐FAU精度聖杯　雷射設備商「大族激光」成關鍵"
+  date: "2026-06-17"
+  level: "媒體報"
+  url: "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000758930_K5VL3CA02466FX1V5MEQ5"
+  clip: "clippings/web/DIGITIMES-大立光舜宇FAU精度大族激光-20260617.md"
+moneydj-largan-mmc-20260713:
+  who: "MoneyDJ"
+  title: "大立光CPO佈局有望再延伸，林恩平:有機會做MMC"
+  date: "2026-07-13"
+  level: "媒體報"
+  url: "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=c5b56a43-4c00-4394-9a92-287c453e862c"
+  clip: "clippings/web/MoneyDJ-林恩平有機會做MMC-20260713.md"
+ltn-largan-q2-20260709:
+  who: "自由時報"
+  title: "大立光FA產品本月送樣  2027年中貢獻營收"
+  date: "2026-07-09"
+  level: "媒體報"
+  url: "https://ec.ltn.com.tw/article/breakingnews/5499794"
+  clip: "clippings/web/自由時報-法說FA本月送樣-20260709.md"
+browave-fa-page:
+  who: "波若威官網"
+  title: "Fiber Array"
+  date: "日期不明"
+  level: "一手"
+  url: "https://www.browave.com/product/category/52"
+  clip: "clippings/web/波若威官網-波若威-FiberArray產品頁-20261010.md"
+ctee-cpo-test-20260914:
+  who: "工商時報"
+  title: "光、電、熱三合一成新門檻！CPO量產測試升級 上詮、漢測、高明鐵、萬潤、鴻勁卡位"
+  date: "2026-09-14"
+  level: "媒體報"
+  url: "https://www.ctee.com.tw/news/20260914700056-439901"
+  clip: "clippings/web/工商時報-CPO量產測試光電熱-20260914.md"
+uanalyze-foci-20251124:
+  who: "優分析"
+  title: "上詮法說：總經理稱 2022 年切入矽光、專利布局"
+  date: "2025-11-24"
+  level: "媒體報"
+  url: "https://uanalyze.com.tw/articles/7027639885"
+  clip: "clippings/web/優分析-上詮-法說總經理說2022年切入矽光專利-20251124.md"
+ltn-largan-q1-20260416:
+  who: "自由時報"
+  title: "大立光董座林恩平：FAU產品將要送樣 產能建置需2年"
+  date: "2026-04-16"
+  level: "媒體報"
+  url: "https://ec.ltn.com.tw/article/breakingnews/5406121"
+  clip: "clippings/web/自由時報-Q1法說FAU送樣產能建置需2年-20260416.md"
+tfc-h1-2026:
+  who: "天孚通信半年報"
+  title: "苏州天孚光通信股份有限公司 2026 年半年度报告"
+  date: "2026-08-19"
+  level: "一手"
+  url: "https://static.cninfo.com.cn/finalpage/2026-08-19/1225480328.PDF"
+  clip: "clippings/web/巨潮-天孚通信-2026半年度報告-20260819.md"
+ctee-foci-browave-20260315:
+  who: "工商時報"
+  title: "CPO大商機來了！AI資料中心升級 上詮、波若威H2迎爬坡行情"
+  date: "2026-03-15"
+  level: "媒體報"
+  url: "https://www.ctee.com.tw/news/20260315700044-430502"
+  clip: "clippings/web/工商時報-上詮波若威-CPO大商機H2爬坡-20260315.md"
+foci-ar2025:
+  who: "上詮年報"
+  title: "上詮光纖通信 114 年度年報"
+  date: "2026-03-30"
+  level: "一手"
+  url: "http://mops.twse.com.tw"
+  clip: "clippings/web/上詮官網-上詮-2025年度年報-20260330.md"
+mops-largan-land:
+  who: "公開資訊觀測站（大立光重大訊息）"
+  title: "大立光（3008）2026 年取得不動產／廠務工程／機器設備重大訊息全文"
+  date: "2026-09-17"  # 7 筆公告 2026-06-24～09-17，原始 JSON 在 clippings/web/公開資訊觀測站-取得不動產-2026*.json
+  level: "一手"
+  url: "https://mops.twse.com.tw/mops/api/t05st01_detail"
+  clip: "clippings/web/公開資訊觀測站-取得不動產與設備重大訊息全文-20261010.md"
+udn-foci-h1-20260806:
+  who: "經濟日報"
+  title: "上詮財報／上半年稅後虧損1.32億元 靜待 FAU 商機爆發"
+  date: "2026-08-06"
+  level: "媒體報"
+  url: "https://money.udn.com/money/story/7252/9675364"
+  clip: "clippings/web/經濟日報-上詮-Q2財報上半年虧損等FAU-20260806.md"
+c114-tfc-h1-20260819:
+  who: "C114 通信網"
+  title: "天孚通信2026年上半年净利润12.04亿元，同比增长33.92%"
+  date: "2026-08-19"
+  level: "媒體報"
+  url: "https://m.c114.com.cn/w3542-1315896.html"
+  clip: "clippings/web/C114-天孚2026H1-20260819.md"
+moneydj-largan-q1-20260416:
+  who: "MoneyDJ"
+  title: "大立光CPO先攻FAU、送樣中；量產還需1~2年"
+  date: "2026-04-16"
+  level: "媒體報"
+  url: "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=5452cd92-0548-40fa-aea0-52d6b5d35e82"
+  clip: "clippings/web/MoneyDJ-Q1法說CPO先攻FAU量產還需1至2年-20260416.md"
+cna-largan-agm-20260609:
+  who: "中央社"
+  title: "林恩平：大立光攻CPO為了不被AI消滅　9月前試產FA"
+  date: "2026-06-09"
+  level: "媒體報"
+  url: "https://www.cna.com.tw/news/afe/202606090059.aspx"
+  clip: "clippings/web/中央社-股東會FA試產線不被AI消滅-20260609.md"
+cna-largan-q2-20260709:
+  who: "中央社"
+  title: "大立光攻CPO不畏康寧　林恩平：7月送樣季底試產"
+  date: "2026-07-09"
+  level: "媒體報"
+  url: "https://www.cna.com.tw/news/afe/202607090314.aspx"
+  clip: "clippings/web/中央社-Q2法說FA7月送樣-20260709.md"
+ltn-largan-land5-20260828:
+  who: "自由時報"
+  title: "今年第5度 大立光再斥資6.5億取得不動產"
+  date: "2026-08-28"
+  level: "媒體報"
+  url: "https://ec.ltn.com.tw/article/breakingnews/5555557"
+  clip: "clippings/web/自由時報-第5度購地63億-20260828.md"
+ftnn-largan-land7-20260917:
+  who: "FTNN 新聞網"
+  title: "鎖定CPO強勁需求！大立光再購入台中南屯新廠　今年已砸80.78億元7度獵地"
+  date: "2026-09-17"
+  level: "媒體報"
+  url: "https://www.ftnn.com.tw/news/579970"
+  clip: "clippings/web/FTNN-7度獵地80.78億-20260917.md"
+fugle-foci-20250523:
+  who: "富果（法說整理）"
+  title: "【上詮法說會重點內容備忘錄】未來展望趨勢 20250523"
+  date: "2025-05-23"
+  level: "第三方"
+  url: "https://blog.fugle.tw/post/earnings-call-3363-2025-05-23"
+  clip: "clippings/web/富果-上詮-法說會重點備忘錄-20250523.md"
+technews-foci-20251124:
+  who: "科技新報"
+  title: "上詮強化矽光子與光通訊布局，CPO 整合啟動、2027 放量"
+  date: "2025-11-24"
+  level: "媒體報"
+  url: "https://finance.technews.tw/2025/11/24/foci-3363/"
+  clip: "clippings/web/科技新報-上詮-櫃買業績發表會FAU20通道40-80-20251124.md"
+us20260036748a1:
+  who: "上詮專利 US20260036748A1"
+  title: "PASSIVE ALIGNMENT CONNECTION STRUCTURE"
+  date: "2026-02-05"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260036748"
+  clip: "clippings/web/patent-US20260036748A1.md"
+us20260036747a1:
+  who: "上詮專利 US20260036747A1"
+  title: "PREPARATION METHOD OF MULTI-LAYER STACKED WAVEGUIDE"
+  date: "2026-02-05"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260036747"
+  clip: "clippings/web/patent-US20260036747A1.md"
+us20260056360a1:
+  who: "上詮專利 US20260056360A1"
+  title: "PREPARATION METHOD AND STRUCTURE OF MICROLENSES AT WAVEGUIDE SIDE"
+  date: "2026-02-26"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260056360"
+  clip: "clippings/web/patent-US20260056360A1.md"
+us20260169225a1:
+  who: "上詮專利 US20260169225A1"
+  title: "LENS-TYPE TOTAL REFLECTION WAVELENGTH DIVISION MULTIPLEXING PASSIVE ELEMENT STRUCTURE"
+  date: "2026-06-18"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260169225"
+  clip: "clippings/web/patent-US20260169225A1.md"
+stt-foci-patents-20260721:
+  who: "STT"
+  title: "上詮 FAU 六件核心專利，其實在講同一件事"
+  date: "2026-07-21"
+  level: "第三方"
+  url: "https://www.simpletechtrend.com/post/foci-cpo-fau-six-core-patents"
+  clip: "clippings/web/STT-上詮-FAU六件核心專利-20260721.md"
+nvidia-pr-corning-20260506:
+  who: "NVIDIA 新聞稿"
+  title: "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure"
+  date: "2026-05-06"
+  level: "一手"
+  url: "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure"
+  clip: "clippings/web/nvidia-pr-corning-longterm-partnership-20260506.md"
+sec-corning-8k-20260506:
+  who: "Corning 8-K"
+  title: "Corning Form 8-K: warrant issued to NVIDIA"
+  date: "2026-05-06"
+  level: "一手"
+  url: "https://www.sec.gov/Archives/edgar/data/24741/000120677426000273/glw4631061-8k.htm"
+  clip: "clippings/web/SEC-Corning-8K-NVIDIA認股權證-20260506.md"
+cnbc-meta-corning-20260127:
+  who: "CNBC"
+  title: "Meta inks deal to pay Corning up to $6 billion for fiber-optic cables in AI data centers"
+  date: "2026-01-27"
+  level: "媒體報"
+  url: "https://www.cnbc.com/2026/01/27/apple-supplier-corning-wins-6-billion-from-meta-for-ai-optical-fiber.html"
+  clip: "clippings/web/CNBC-Meta康寧6B-20260127.md"
+itmedia-fujikura-20260522:
+  who: "ITmedia"
+  title: "フジクラ社長「データセンター市場、10年は堅調に伸びる」　生産拡大で「3000億円投資」に踏み切ったワケ"
+  date: "2026-05-22"
+  level: "媒體報"
+  url: "https://www.itmedia.co.jp/business/articles/2605/22/news026.html"
+  clip: "clippings/web/ITmedia-藤倉社長資料中心3000億-20260522.md"
+dcd-fujikura-20260914:
+  who: "DCD"
+  title: "Fujikura to triple optical fiber production as part of $2bn investment"
+  date: "2026-09-14"
+  level: "媒體報"
+  url: "https://www.datacenterdynamics.com/en/news/fujikura-to-triple-optical-fiber-production-as-part-of-2bn-investment/"
+  clip: "clippings/web/DCD-藤倉光纖產能三倍-20260914.md"
+nikkei-sumitomo-20260512:
+  who: "日本經濟新聞"
+  title: "住友電工、データセンター関連に2000億円　29年3月期までの3年で"
+  date: "2026-05-12"
+  level: "媒體報"
+  url: "https://www.nikkei.com/article/DGXZQOUF285HG0Y6A420C2000000/"
+  clip: "clippings/web/日本經濟新聞-住友電工資料中心2000億-20260512.md"
+nikkei-furukawa-20260804:
+  who: "日本經濟新聞"
+  title: "古河電工、光ファイバー増産に1000億円　能力倍増へ日米など4カ国で"
+  date: "2026-08-04"
+  level: "媒體報"
+  url: "https://www.nikkei.com/article/DGXZQOUC046EO0U6A800C2000000/"
+  clip: "clippings/web/日本經濟新聞-古河電工光纖增產1000億-20260804.md"
+mydrivers-yofc-20261004:
+  who: "驅動之家"
+  title: "长飞光纤：算力数据中心光纤需求持续上升 年均增速将达20.74%"
+  date: "2026-10-04"
+  level: "媒體報"
+  url: "https://news.mydrivers.com/1/1155/1155325.htm"
+  clip: "clippings/web/驅動之家-長飛資料中心光纖年增20.74-20261004.md"
+fugle-unimicron-20260225:
+  who: "富果（法說整理）"
+  title: "【欣興電子法說會重點內容備忘錄】未來展望趨勢 20260225"
+  date: "2026-02-25"
+  level: "第三方"
+  url: "https://blog.fugle.tw/post/earnings-call-3037-2026-02-25"
+  clip: "clippings/web/富果-欣興-法說會備忘錄CPO光復二廠-20260225.md"
+iconnect-ats-20260422:
+  who: "AT&S 新聞稿（I-Connect007）"
+  title: "AT&S Advances Glass Core Substrates for AI, HPC, and Photonics"
+  date: "2026-04-22"
+  level: "公司說"
+  url: "https://mail.iconnect007.com/article/149712/ats-advances-glass-core-substrates-for-ai-hpc-and-photonics/149709/ein"
+  clip: "clippings/web/iConnect007-ATS-玻璃核心基板與CPO新聞稿-20260422.md"
+auo-press-20260831:
+  who: "友達新聞稿"
+  title: "AUO Showcases Micro LED Optical Communication and Glass Core Substrates Technologies at SEMICON Taiwan 2026"
+  date: "2026-08-31"
+  level: "一手"
+  url: "https://www.auo.com/en-global/New_Archive/detail/News_Archive_Product_20260831"
+  clip: "clippings/web/auo-press-semicon-taiwan-2026-microled-cpo-20260831.md"
+shinko-meti-20260206:
+  who: "新光電氣簡報（關東經產局）"
+  title: "新光電氣 封裝技術與光電融合（關東經濟產業局資料 6_260206shinko）"
+  date: "2026-02-06"
+  level: "一手"
+  url: "https://www.kanto.meti.go.jp/seisaku/iot_robot/digital_industry/data/6_260206shinko.pdf"
+  clip: "clippings/web/關東經產局-新光電氣-封裝技術與光電融合簡報-20260206.md"
+udn-gmt-fau-pic-20260827:
+  who: "經濟日報"
+  title: "高明鐵卡位CPO封裝量產 打破歐美日壟斷"
+  date: "2026-08-27"
+  level: "媒體報"
+  url: "https://money.udn.com/money/story/5735/9717138"
+  clip: "clippings/web/經濟日報-高明鐵光循120通道FAU-PIC-20260827.md"
+technews-gmt-3p2t-20260909:
+  who: "科技新報"
+  title: "高速光模組需求夯！高明鐵推進 3.2T 光模組設備開發，2028 年進軍 CPO 平台"
+  date: "2026-09-09"
+  level: "媒體報"
+  url: "https://technews.tw/2026/09/09/goldman-sachs-see-semicon-taiwan-2026-gmt/"
+  clip: "clippings/web/TechNews-高明鐵3.2T設備2028CPO-20260909.md"
+us20260177765a1:
+  who: "萬潤專利 US20260177765A1"
+  title: "COMPONENT COUPLING APPARATUS"
+  date: "2026-06-25"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260177765"
+  clip: "clippings/web/patent-US20260177765A1.md"
+us20260177769a1:
+  who: "萬潤專利 US20260177769A1"
+  title: "COMPONENT COUPLING DEVICE"
+  date: "2026-06-25"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260177769"
+  clip: "clippings/web/patent-US20260177769A1.md"
+udn-allring-160ch-20260907:
+  who: "經濟日報"
+  title: "羅昇結盟萬潤 搶進 CPO"
+  date: "2026-09-07"
+  level: "媒體報"
+  url: "https://money.udn.com/money/story/5710/9737955"
+  clip: "clippings/web/經濟日報-羅昇萬潤光陽FAU貼合-20260907.md"
+technews-tyd-20260902:
+  who: "科技新報"
+  title: "搶次世代高階封裝！東佑達結盟日商駿河攻 AI 矽光子 CPO 光耦合對位設備"
+  date: "2026-09-02"
+  level: "媒體報"
+  url: "https://finance.technews.tw/2026/09/02/metrology/"
+  clip: "clippings/web/TechNews-東佑達駿河CPO對位-20260902.md"
+digitimes-robotechnik-20260929:
+  who: "DIGITIMES"
+  title: "羅博特科完成香港上市　加碼ficonTEC強化矽光子設備量產能力"
+  date: "2026-09-29"
+  level: "媒體報"
+  url: "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769860_0GH9N8805ULF0D1PBPDKF"
+  clip: "clippings/web/DIGITIMES-羅博特科香港上市加碼ficonTEC-20260929.md"
+digitimes-ficontec-hantest-20261001:
+  who: "DIGITIMES"
+  title: "CPO測試產能需求急　ficonTEC、漢測合攻INS-2設備"
+  date: "2026-10-01"
+  level: "媒體報"
+  url: "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770200_CEQ1QCOI1WNPQIL58ASZ7"
+  clip: "clippings/web/DIGITIMES-ficonTEC漢測INS-2-20261001.md"
+wallstreetcn-wins-forum:
+  who: "華爾街見聞"
+  title: "专家详解CPO：AI算力极限引爆“铜退光进”，CPO量产瓶颈在测试端，玻璃基板时代悄然开启"
+  date: "日期不明"
+  level: "媒體報"
+  url: "https://wallstreetcn.com/articles/3773130"
+  clip: "clippings/web/華爾街見聞-穎崴CPO論壇測試瓶頸-2026日期不明.md"
+futurum-coherent-photonlink-20260923:
+  who: "Futurum"
+  title: "Coherent PhotonLink Raises Its TAM to $90 Billion. Will Bundling Win CPO?"
+  date: "2026-09-23"
+  level: "第三方"
+  url: "https://futurumgroup.com/insights/coherent-photonlink-raises-its-tam-to-90-billion-will-bundling-win-cpo/"
+  clip: "clippings/web/Futurum-Coherent-PhotonLink-TAM90B-20260923.md"
+futurum-coherent-q4fy26-20261009:
+  who: "Futurum"
+  title: "Coherent Q4 FY 2026 Earnings: 1.6T Transceivers Ramp, CPO Revenue Approaches"
+  date: "2026-10-09"
+  level: "第三方"
+  url: "https://futurumgroup.com/insights/coherent-q4-fy-2026-earnings-1-6t-transceivers-ramp-cpo-revenue-approaches/"
+  clip: "clippings/web/Futurum-Coherent-Q4FY26-CPO營收-20261009.md"
+ebc-sipho-20260527:
+  who: "東森財經"
+  title: "矽光子要量產「這環節」最難！ 4道光電考驗 台廠供應鏈一次看"
+  date: "2026-05-27"
+  level: "媒體報"
+  url: "https://fnc.ebc.net.tw/fncnews/business/211640"
+  clip: "clippings/web/東森財經-矽光子4道考驗-20260527.md"
+nvidia-mellanox-us20260063849a1:
+  who: "NVIDIA（Mellanox）專利 US20260063849A1"
+  title: "MECHANICAL COUPLERS FOR FIBER ARRAY UNITS AND METHODS OF MANUFACTURING THE SAME"
+  date: "2026-03-05"
+  level: "一手"
+  url: "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260063849"
+  clip: "clippings/web/patent-US20260063849A1.md"
+intel-ectc2026:
+  who: "Intel ECTC 2026 論文"
+  title: "V-groove Based Edge Coupling Enabled by Optical Glass Coupler Attach for Co-packaged Optics"
+  date: "2026-05"
+  level: "一手"
+  url: "https://ieeexplore.ieee.org/document/11561284"
+  clip: "clippings/web/ieee-11561284-document-page-20261011.md"
+corning-gf-ectc2026:
+  who: "Corning／格芯 ECTC 2026 論文"
+  title: "Detachable Glass Waveguide Connector for Co-Packaged Optics on Silicon Photonics platform with <1.5 dB/Facet Passive Coupling and 280 mW Power Handling"
+  date: "2026-05"
+  level: "一手"
+  url: "https://ieeexplore.ieee.org/document/11561398"
+  clip: "clippings/web/ieee-11561398-search-record-20261010.json"
+cna-trendforce-20260615:
+  who: "中央社（TrendForce 研調）"
+  title: "研調：CPO與NPO市場規模 2030年估逾390億美元"
+  date: "2026-06-15"
+  level: "媒體報"
+  url: "https://www.cna.com.tw/news/afe/202606150259.aspx"
+  clip: "clippings/web/中央社-TrendForce-CPO-NPO-390億-20260615.md"
+etenterprise-gs-20260520:
+  who: "ETEnterpriseAI（高盛報告）"
+  title: "AI boom to spark $154 billion optical networking opportunity: Goldman Sachs"
+  date: "2026-05-20"
+  level: "媒體報"
+  url: "https://enterpriseai.economictimes.indiatimes.com/news/industry/ai-boom-to-spark-154-billion-optical-networking-opportunity-goldman-sachs/131222046"
+  clip: "clippings/web/ETEnterpriseAI-高盛154B-20260520.md"
+moneydj-fuji-20260121:
+  who: "MoneyDJ（富士總研）"
+  title: "光通訊相關需求旺 30年CPO市場規模估狂飆166倍"
+  date: "2026-01-21"
+  level: "媒體報"
+  url: "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=4698cdc0-69c0-4767-ab44-105a185fd16f"
+  clip: "clippings/web/MoneyDJ-CPO市場規模166倍-20260121.md"
+lightcounting-2026-202605:
+  who: "LightCounting"
+  title: "LightCounting :: 2026 Is the Year of Silicon Photonics and Indium Phosphide"
+  date: "2026-05"
+  level: "第三方"
+  url: "https://www.lightcounting.com/newsletter/en/may-2026-silicon-photonics-lpolro-and-npocpo-377"
+  clip: "clippings/web/LightCounting-2026矽光子與InP之年-202605.md"
+technews-cic-20260820:
+  who: "科技新報"
+  title: "2030 年 AI 資料中心光互連市場規模將暴增十倍，達 1,440 億美元"
+  date: "2026-08-20"
+  level: "媒體報"
+  url: "https://technews.tw/2026/08/20/silicon-photonics-cpo-ai-chip-data-center/"
+  clip: "clippings/web/TechNews-光互連1440億美元-20260820.md"
+tomshardware-cic-20260817:
+  who: "Tom's Hardware"
+  title: "AI data center optical interconnect market to hit $144 billion by 2030, an over ten-fold increase from 2024 figures, according to new projections — silicon photonics expected to account for nearly two-thirds of revenue, driven by co-packaged optics"
+  date: "2026-08-17"
+  level: "媒體報"
+  url: "https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics"
+  clip: "clippings/web/TomsHardware-光互連144B-2030-20260817.md"
+lightcounting-scaleup-20260427:
+  who: "LightCounting"
+  title: "AI Scale-up Switch Market on Steep Growth Trajectory"
+  date: "2026-04-27"
+  level: "第三方"
+  url: "https://www.lightcounting.com/newsletter/en/april-2026-ethernet-optical-and-scale-up-switches-for-cloud-data-centers-378"
+  clip: "clippings/web/LightCounting-AI-scale-up交換器市場-20260427.md"
+udn-trendforce-20260615:
+  who: "經濟日報（TrendForce 研調）"
+  title: "集邦：矽光子市場五年將成長近400倍"
+  date: "2026-06-15"
+  level: "媒體報"
+  url: "https://money.udn.com/money/story/5612/9567749"
+  clip: "clippings/web/經濟日報-集邦矽光子五年400倍-20260615.md"
+ctee-trendforce-20260616:
+  who: "工商時報（TrendForce 研調）"
+  title: "CPO、NPO 市場規模將起飛"
+  date: "2026-06-16"
+  level: "媒體報"
+  url: "https://www.ctee.com.tw/news/20260616700170-439901"
+  clip: "clippings/web/工商時報-CPO-NPO市場規模起飛-20260616.md"
+corning-glassbridge-brochure:
+  who: "Corning 型錄"
+  title: "GlassBridge™ Fiber‑to‑PIC Connector Brochure"
+  date: "日期不明"
+  level: "一手"
+  url: "https://www.corning.com/catalog/coc/documents/brochures/OEM-152-AEN.pdf"
+  clip: "clippings/web/corning-glassbridge-brochure-oem152-20261010.md"
+itiger-glassbridge:
+  who: "iTiger"
+  title: "Corning's Official Explanation: How the \"Glass Bridge\" That Shook the CPO Sector Actually Works"
+  date: "日期不明"
+  level: "媒體報"
+  url: "https://www.itiger.com/news/1101082707"
+  clip: "clippings/web/itiger-corning-glassbridge-explained-20261010.md"
+digitimes-glassbridge-20260706:
+  who: "DIGITIMES"
+  title: "（獨家）GlassBridge不是取代FAU　康寧揭AI光互連技術布局"
+  date: "2026-07-06"
+  level: "媒體報"
+  url: "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000760504_HRK63WR2LC9OIT5O2OGJJ"
+  clip: "clippings/web/DIGITIMES-GlassBridge不是取代FAU-20260706.md"
+ctee-glassbridge-20260812:
+  who: "工商時報"
+  title: "玻璃橋不是FAU的末日"
+  date: "2026-08-12"
+  level: "媒體報"
+  url: "https://www.ctee.com.tw/news/20260812700142-439901"
+  clip: "clippings/web/工商時報-玻璃橋不是FAU的末日-20260812.md"
+wallstreetcn-glassbridge-20260624:
+  who: "華爾街見聞"
+  title: "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全"
+  date: "2026-06-24"
+  level: "媒體報"
+  url: "https://wallstreetcn.com/articles/3775770"
+  clip: "clippings/web/華爾街見聞-玻璃橋FAU廠商顛覆-20260624.md"
+microsoft-mosaic-paper:
+  who: "Microsoft（SIGCOMM 2025 論文）"
+  title: "Mosaic: Breaking the Optics versus Copper Trade-off with a Wide-and-Slow Architecture and MicroLEDs"
+  date: "2025-08"
+  level: "一手"
+  url: "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/08/benyahya25mosaic.pdf"
+  clip: "clippings/web/microsoft-mosaic-sigcomm2025-paper-20250800.md"
+trendforce-microled-20260629:
+  who: "TrendForce"
+  title: "[News] Mapping the Micro LED Optical Interconnect Ecosystem"
+  date: "2026-06-29"
+  level: "第三方"
+  url: "https://www.trendforce.com/news/2026/06/29/news-mapping-the-micro-led-optical-interconnect-ecosystem/"
+  clip: "clippings/web/trendforce-microled-optical-interconnect-ecosystem-20260629.md"
+microledinfo-ennostar:
+  who: "MicroLED-Info"
+  title: "Ennostar, in collaboration with AUO and Tyntek, show a microLED based optical I/O solution"
+  date: "2026-04-03"
+  level: "媒體報"
+  url: "https://www.microled-info.com/ennostar-collaboration-auo-and-tyntek-show-microled-based-optical-io-solution"
+  clip: "clippings/web/microledinfo-ennostar-auo-tyntek-optical-io-20261010.md"
+microledinfo-auo:
+  who: "MicroLED-Info"
+  title: "AUO to commercialize microLED-based optical I/O within 2-3 years"
+  date: "2026-04-01"
+  level: "媒體報"
+  url: "https://www.microled-info.com/auo-commercialize-microled-based-optical-io-within-2-3-years"
+  clip: "clippings/web/microledinfo-auo-optical-io-2-3-years-20261010.md"
+sid-auo-tgv:
+  who: "友達 SID 2026 論文"
+  title: "Integrated Through Glass Via (TGV) Technology for Advanced Co-Packaged Optics (CPO) Development"
+  date: "2026-06"
+  level: "一手"
+  url: "https://doi.org/10.1002/sdtp.70001_208"
+  clip: "clippings/web/crossref-sid-tgv-cpo-20261010.json"
+sid-pku-microled-fiber:
+  who: "北京大學 SID 2026 論文"
+  title: "Modeling and Optimization of Micro-LED–Fiber Coupling for Inter-Chip Optical Interconnects"
+  date: "2026-08"
+  level: "一手"
+  url: "https://doi.org/10.1002/sdtp.70003_53"
+  clip: "clippings/web/crossref-sid-microled-fiber-coupling-model-20261010.json"
+moneyweekly-cpo-cost-20260713:
+  who: "理財周刊"
+  title: "AI算力引爆高速傳輸！拆解1.6T CPO成本結構：台灣「這幾家」先進封測與設備商最賺大錢"
+  date: "2026-07-13"
+  level: "媒體報"
+  url: "https://www.moneyweekly.com.tw/ArticleData/Info/Article/236750"
+  clip: "clippings/web/理財周刊-1.6T-CPO交換器成本結構-20260713.md"
+threads-rosenary-20261009:
+  who: "Threads @rosenary__"
+  title: "河道好多人在說大立光跟上詮…（Threads 貼文）"
+  date: "2026-10-09"
+  level: "KOL"
+  url: "https://www.threads.com/@rosenary__/post/DeRh4xEATZX"
+  clip: "clippings/threads/rosenary-largan-vs-ittrx.md"
+wantrich-laoshishu-20260514:
+  who: "旺得富"
+  title: "大立光漲停噴上3字頭！老實樹罕見釋出樂觀訊號成底氣「外資失控瘋狂喊價3,722元」概念股玉晶光也搭上CPO順風車"
+  date: "2026-05-14"
+  level: "媒體報"
+  url: "https://wantrich.chinatimes.com/news/20260514900519-420101"
+  clip: "clippings/web/wantrich-largan-laoshishu-20260514.md"
+
+# --- v4 新增（2026-10-12）---
+nvidia-sn6000-manual-20260916:
+  who: NVIDIA 使用手冊
+  title: NVIDIA Spectrum-6 SN6000 Ethernet Switch Systems Hardware User Manual v1.3
+  date: '2026-09-16'
+  level: 一手
+  url: https://networking-docs.nvidia.com/sn6000hw/__attachments/a_22ea48eca9ee77734444e9b8231bd555e7df0dee08599c8bd198c809cfb5c4ee/NVIDIA%20Spectrum-6%20SN6000%20Ethernet%20Switch%20Systems%20Hardware%20User%20Manual_1.3_09_16_2026.pdf
+  clip: clippings/web/NVIDIA文件-SN6000硬體手冊v1.3-20260916.md
+ieee-8023df-objectives-20220914:
+  who: IEEE P802.3df 工作組
+  title: Proposed Objectives – Modified P802.3df PAR
+  date: '2022-09-14'
+  level: 一手
+  url: https://grouper.ieee.org/groups/802/3/df/public/22_09/dambrosia_3df_02_2209.pdf
+  clip: clippings/web/IEEE802.3df-dj-目標草案銅纜1公尺-20220914.md
+nvidia-linkx-100g-overview:
+  who: NVIDIA 產品文件
+  title: LinkX 100G-PAM4 Product Line Overview
+  date: '2025-11-18'
+  level: 一手
+  url: https://docs.nvidia.com/networking/display/400g100gpam4ovdev/LinkX-100G-PAM4-Product-Line-Overview
+  clip: clippings/web/NVIDIA文件-LinkX-100G-PAM4產品線概覽-20261011.md
+asteralabs-224g-copper-20260715:
+  who: Astera Labs 部落格
+  title: 'The 1.2-Meter Challenge: Understanding Your Passive Copper Options at 224G'
+  date: '2026-07-15'
+  level: 公司說
+  url: https://www.asteralabs.com/?p=30329
+  clip: clippings/web/AsteraLabs部落格-224G被動銅纜1.2公尺-20260715.md
+sth-hotchips2026-nvidia-network:
+  who: ServeTheHome（轉貼 NVIDIA Hot Chips 2026 投影片）
+  title: NVIDIA Spectrum-X Ethernet Multiplane Network Architecture at Hot Chips 2026
+  date: 2026-08
+  level: 一手
+  url: https://www.servethehome.com/nvidia-spectrum-x-ethernet-multiplane-network-architecture-at-hot-chips-2026/
+  clip: clippings/img/media/.sources.yaml
+lenovo-gb300-nvl72-rear:
+  who: Lenovo 產品文件
+  title: Lenovo NVIDIA GB300 NVL72 Type 7DJV — Rack rear view
+  date: 擷取 2026-10-11
+  level: 一手
+  url: https://pubs.lenovo.com/gb300-nvl72/rack_rear_view
+  clip: clippings/img/vendor/.sources.yaml
+chargerlab-nvidia-800g-teardown-20260708:
+  who: ChargerLAB
+  title: Teardown of the NVIDIA 800G Dual-Port OSFP Optical Transceiver MMA4Z00-NS
+  date: '2026-07-08'
+  level: 媒體報
+  url: https://www.chargerlab.com/teardown-of-the-nvidia-800g-dual-port-osfp-optical-transceiver-mma4z00-ns/
+  clip: clippings/img/media/.sources.yaml
+sth-marvell-teralynx10-202407:
+  who: ServeTheHome
+  title: Inside a Marvell Teralynx 10 51.2T 64-port 800GbE Switch
+  date: 2024-07
+  level: 媒體報
+  url: https://www.servethehome.com/inside-a-marvell-teralynx-10-51-2t-64-port-800gbe-switch/
+  clip: clippings/img/media/.sources.yaml
+sth-ces2026-spectrumx-202601:
+  who: ServeTheHome
+  title: NVIDIA CES 2026 Keynote Spectrum X Co Packaged Optics
+  date: 2026-01
+  level: 媒體報
+  url: https://www.servethehome.com/nvidia-ces-2026-keynote-live-coverage/nvidia-ces-2026-keynote-spectrum-x-co-packaged-optics/
+  clip: clippings/web/ServeTheHome-CES2026-SpectrumX-CPO-202601.md
+synopsys-224g-lpo-2025q1:
+  who: Synopsys 技術文章
+  title: How 224G SerDes IP is Enabling the Transition to Linear Drive Optics
+  date: 2025 Q1
+  level: 公司說
+  url: https://www.synopsys.com/articles/224g-serdes-ip-linear-drive-optics.html
+  clip: clippings/img/vendor/.sources.yaml
+stockfeel-dsp-20260930:
+  who: 股感
+  title: DSP 晶片缺到漲價！什麼是 DSP？一次看懂 AI 光通訊「最貴零件」與台美概念股
+  date: '2026-09-30'
+  level: 第三方
+  url: https://www.stockfeel.com.tw/?p=277131
+  clip: clippings/web/股感-野村專家會議1.6T-DSP短缺-20260930.md
+cnyes-hao-nomura-dsp-20260923:
+  who: 鉅亨號（轉述野村專家會議）
+  title: 野村：從800G到1.6T- 光模組DSP晶片進入新的敘事周期！
+  date: '2026-09-23'
+  level: 第三方
+  url: https://hao.cnyes.com/post/269393
+  clip: clippings/web/鉅亨號-野村光模組DSP新周期-20260923.md
+naddod-1p6t-2xdr4:
+  who: NADDOD 產品頁
+  title: Cisco Compatible 1.6T OSFP224 2xDR4 1310nm 500m SMF PAM4 Optical Transceiver
+  date: 擷取 2026-10-11
+  level: 公司說
+  url: https://www.naddod.com/products/104586.html
+  clip: clippings/web/NADDOD產品頁-1.6T-OSFP224-2xDR4-20261011.md
+36kr-coupe-20260607:
+  who: 36Kr
+  title: 'TSMC: Make Sure to Remember COUPE'
+  date: '2026-06-07'
+  level: 媒體報
+  url: https://eu.36kr.com/en/p/3837262613673349
+  clip: clippings/web/36Kr英文-TSMC-remember-COUPE-20260607.md
+nvidia-mms4x00-nm:
+  who: NVIDIA 產品文件
+  title: MMS4X00-NM 800Gbps Twin-port OSFP 2x400Gb/s InfiniBand and Ethernet Single Mode 2xDR4 500m
+  date: 擷取 2026-10-11
+  level: 一手
+  url: https://networking-docs.nvidia.com/mms4x00nm800g500m/
+  clip: clippings/web/NVIDIA文件-MMS4X00-NM-800G-2xDR4光模組-20261011.md
+technews-trendforce-forum-20260529:
+  who: 科技新報
+  title: TrendForce：台灣掌握天時、地利、人和，與供應鏈卡位 AI 光互連時代
+  date: '2026-05-29'
+  level: 媒體報
+  url: https://technews.tw/2026/05/29/trendforce-2026-optical-communication-forum/
+  clip: clippings/web/TechNews-TrendForce光通訊論壇-20260529.md
+technews-sipho-20260317:
+  who: 科技新報
+  title: 矽光子商轉元年：台積電、日月光領軍台灣供應鏈突圍
+  date: '2026-03-17'
+  level: 媒體報
+  url: https://technews.tw/2026/03/17/silicon-photonics-hits-the-market-tsmc-and-ase-spearhead-taiwans-strategic-push/
+  clip: clippings/web/TechNews-矽光子商轉元年台積日月光-20260317.md
+arxiv-2601-14342:
+  who: arXiv 論文（Kohli、Teissier）
+  title: VCSEL-based CPO for Scale-Up in A.I. Datacenter. Status and Perspectives
+  date: '2026-01-20'
+  level: 一手
+  url: https://arxiv.org/abs/2601.14342
+  clip: clippings/web/arxiv-2601.14342-vcsel-cpo-scaleup-20260120.md
+us20260283013a1:
+  who: 台積電專利 US20260283013A1
+  title: PACKAGE STRUCTURE AND METHOD OF FORMING THE SAME
+  date: '2026-09-17'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260283013
+  clip: clippings/web/patent-US20260283013A1.md
+us20260191101a1:
+  who: 三星電子專利 US20260191101A1
+  title: PROCESSOR PACKAGE INTEGRATED WITH OPTICAL ENGINE AND METHOD OF MANUFACTURING THE SAME
+  date: '2026-07-02'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260191101
+  clip: clippings/web/patent-US20260191101A1.md
+us12742940b2:
+  who: Shunyun Technology（中山）專利 US12742940B2
+  title: 400G silicon photonic package with self-aligned fiber
+  date: '2026-09-22'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12742940
+  clip: clippings/web/patent-US12742940B2.md
+nvidia-q3450ld-cooling:
+  who: NVIDIA 使用手冊
+  title: Q3450-LD Liquid-Cooling System（NVIDIA Q32xx and Q34xx XDR 800Gb/s InfiniBand Switch Systems User Manual）
+  date: '2026-08-21'
+  level: 一手
+  url: https://networking-docs.nvidia.com/xdrswitcheshw/q3450-ld-liquid-cooling-system
+  clip: clippings/web/NVIDIA文件-Q3450-LD液冷系統-20261011.md
+us20260276934a1:
+  who: NVIDIA（Mellanox）專利 US20260276934A1
+  title: OPTICAL SHUFFLE BOX
+  date: '2026-09-17'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260276934
+  clip: clippings/web/patent-US20260276934A1.md
+us20260276925a1:
+  who: NVIDIA（Mellanox）專利 US20260276925A1
+  title: DEVICES AND METHODS FOR DETACHABLE COUPLING OF CO-PACKAGED OPTICAL CONNECTORS
+  date: '2026-09-17'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260276925
+  clip: clippings/web/patent-US20260276925A1.md
+us20260276917a1:
+  who: NVIDIA（Mellanox）專利 US20260276917A1
+  title: DETACHABLE CPO CONNECTOR AND ASSOCIATED METHODS
+  date: '2026-09-17'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260276917
+  clip: clippings/web/patent-US20260276917A1.md
+us12625335b2:
+  who: NVIDIA（Mellanox）專利 US12625335B2
+  title: Optical interposers
+  date: '2026-05-12'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12625335
+  clip: clippings/web/patent-US12625335B2.md
+us20260133387a1:
+  who: 台積電專利 US20260133387A1
+  title: OPTICAL DEVICE AND METHOD OF MANUFACTURE
+  date: '2026-05-14'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260133387
+  clip: clippings/web/patent-US20260133387A1.md
+us20260169063a1:
+  who: 台積電專利 US20260169063A1
+  title: OPTICAL DEVICES AND METHODS OF MANUFACTURE
+  date: '2026-06-18'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260169063
+  clip: clippings/web/patent-US20260169063A1.md
+us20260251852a1:
+  who: Corning 專利 US20260251852A1
+  title: FIBER ARRAY UNIT ADAPTER WITH HIGH-CONTRAST FIDUCIAL STRUCTURES
+  date: '2026-08-27'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260251852
+  clip: clippings/web/patent-US20260251852A1.md
+us20260267074a1:
+  who: Corning 專利 US20260267074A1
+  title: OPTICAL CONNECTOR AND RECEPTACLE FOR CO-PACKAGED OPTICS
+  date: '2026-09-10'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260267074
+  clip: clippings/web/patent-US20260267074A1.md
+us20260160966a1:
+  who: Lightmatter 專利 US20260160966A1
+  title: DYNAMIC ALIGNMENT OF OPTICAL FIBERS WITH A PHOTONIC INTEGRATED CIRCUIT
+  date: '2026-06-11'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260160966
+  clip: clippings/web/patent-US20260160966A1.md
+us20260157229a1:
+  who: 矽品專利 US20260157229A1
+  title: PACKAGE STRUCTURE
+  date: '2026-06-04'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260157229
+  clip: clippings/web/patent-US20260157229A1.md
+us20260147160a1:
+  who: 波若威專利 US20260147160A1
+  title: OPTICAL DEVICE, OPTICAL ASSEMBLY, AND METHOD OF FORMING OPTICAL ASSEMBLY
+  date: '2026-05-28'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260147160
+  clip: clippings/web/patent-US20260147160A1.md
+arxiv-2608-11639:
+  who: arXiv 論文（Hao Chen 等）
+  title: Towards Terabit/λ/s Multidimensional Silicon Photonic Engine
+  date: '2026-08-12'
+  level: 一手
+  url: https://arxiv.org/abs/2608.11639
+  clip: clippings/web/arxiv-2608.11639-terabit-sipho-engine-20260812.md
+arxiv-2604-23394:
+  who: arXiv 論文（Kazakov、Popova、Shipulin）
+  title: Moth's eye-inspired perfectly vertical subwavelength grating coupler for silicon photonics
+  date: '2026-04-25'
+  level: 一手
+  url: https://arxiv.org/abs/2604.23394
+  clip: clippings/web/arxiv-2604.23394-vertical-grating-coupler-20260425.md
+arxiv-2602-08284:
+  who: arXiv 論文（Daibao Hou 等）
+  title: 2.5D co-packaged optical I/O chipsets on a SiON/Si interposer for 4×100G optical interconnection
+  date: '2026-02-09'
+  level: 一手
+  url: https://arxiv.org/abs/2602.08284
+  clip: clippings/web/arxiv-2602.08284-2.5d-cpo-io-sion-interposer-20260209.md
+mdpi-chips5-00021:
+  who: Chips（MDPI）5(3):21，Bejani 等
+  title: A Smart, Sensor-Augmented Probe Card for Wafer-Level Photonic Testing of Co-Packaged Optics Devices
+  date: '2026-08-02'
+  level: 一手
+  url: https://doi.org/10.3390/chips5030021
+  clip: clippings/web/mdpi-chips-probe-card-cpo-wafer-test-20260802.md
+mdpi-mi11-00666:
+  who: Micromachines（MDPI）11(7):666，Cheng 等（綜述）
+  title: 'Grating Couplers on Silicon Photonics: Design Principles, Emerging Trends and Practical Issues'
+  date: '2020'
+  level: 一手
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7407772/
+  clip: clippings/img/papers/.sources.yaml
+mdpi-app10-01538:
+  who: Applied Sciences（MDPI）10(4):1538，Mu 等（綜述）
+  title: 'Edge Couplers in Silicon Photonic Integrated Circuits: A Review'
+  date: '2020-02-24'
+  level: 一手
+  url: https://doi.org/10.3390/app10041538
+  clip: clippings/img/papers/.sources.yaml
+mdpi-nano10-01683:
+  who: Nanomaterials（MDPI）10:1683
+  title: Silicon Waveguide Integrated with Germanium Photodetector for a Photonic-Integrated FBG Interrogator
+  date: '2020'
+  level: 一手
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7558258/
+  clip: clippings/img/papers/.sources.yaml
+commons-soi-waveguide:
+  who: Wikimedia Commons（Wouter Westerveld，CC BY-SA 4.0）
+  title: Explanation of the standing waves in Marcatili method (silicon-on-insulator waveguide)
+  date: '2013-10-26'
+  level: 第三方
+  url: https://commons.wikimedia.org/wiki/File:Explanation_of_the_standing_waves_in_Marcatili_method_(silicon-on-insulator_waveguide).png
+  clip: clippings/img/explain/.sources.yaml
+commons-ring-resonator:
+  who: Wikimedia Commons（Lamboman2008，CC BY 3.0）
+  title: Ring Resonator with continuous wave input at resonance
+  date: '2011-11-29'
+  level: 第三方
+  url: https://commons.wikimedia.org/wiki/File:RingResonatorCW.png
+  clip: clippings/img/explain/.sources.yaml
+commons-sipho-300mm-wafer:
+  who: Wikimedia Commons（Ehsanshahoseini，CC BY-SA 4.0）
+  title: Silicon Photonics 300mm wafer
+  date: '2015-03-26'
+  level: 第三方
+  url: https://commons.wikimedia.org/wiki/File:Silicon_Photonics_300mm_wafer.JPG
+  clip: clippings/img/explain/.sources.yaml
+commons-laser-diode-chip:
+  who: Wikimedia Commons（NASA/JPL，公有領域）
+  title: Laser diode chip
+  date: '2006-02-24'
+  level: 第三方
+  url: https://commons.wikimedia.org/wiki/File:Laser_diode_chip.jpg
+  clip: clippings/img/explain/.sources.yaml
+commons-singlemode-fibre:
+  who: Wikimedia Commons（Bob Mellish、Benchill，CC BY-SA 3.0）
+  title: Singlemode fibre structure
+  date: '2009-04-18'
+  level: 第三方
+  url: https://commons.wikimedia.org/wiki/File:Singlemode_fibre_structure.svg
+  clip: clippings/img/explain/.sources.yaml
+commons-fiber-types:
+  who: Wikimedia Commons（Matthew Leigh，CC BY 3.0）
+  title: Fiber Types
+  date: '2008-11-29'
+  level: 第三方
+  url: https://commons.wikimedia.org/wiki/File:Fiber_Types.svg
+  clip: clippings/img/explain/.sources.yaml
+commons-pm-fibres:
+  who: Wikimedia Commons（Bart133，CC BY-SA 3.0）
+  title: PM optical fibres
+  date: '2008-08-21'
+  level: 第三方
+  url: https://commons.wikimedia.org/wiki/File:PM_optical_fibres.svg
+  clip: clippings/img/explain/.sources.yaml
+commons-panda-fiber-photo:
+  who: Wikimedia Commons（Quantumavik，CC BY 4.0）
+  title: Panda fiber2
+  date: '2017-11-27'
+  level: 第三方
+  url: https://commons.wikimedia.org/wiki/File:Panda_fiber2.jpg
+  clip: clippings/img/explain/.sources.yaml
+commons-fibers-paperclip:
+  who: Wikimedia Commons（Cjp24，CC BY-SA 4.0）
+  title: 12 Optical fibers (1)
+  date: '2020-01-16'
+  level: 第三方
+  url: https://commons.wikimedia.org/wiki/File:12_Optical_fibers_(1).jpg
+  clip: clippings/img/explain/.sources.yaml
+commons-mtp-connector:
+  who: Wikimedia Commons（Kirnehkrib，CC BY-SA 3.0）
+  title: MTP-Connector
+  date: '2012-04-14'
+  level: 第三方
+  url: https://commons.wikimedia.org/wiki/File:MTP-Connector.jpg
+  clip: clippings/img/explain/.sources.yaml
+commons-mt-ferrule:
+  who: Wikimedia Commons（Kirnehkrib，CC BY-SA 3.0）
+  title: MT-Ferrule MTP-Connector
+  date: '2012-04-14'
+  level: 第三方
+  url: https://commons.wikimedia.org/wiki/File:MT-Ferrule_MTP-Connector.jpg
+  clip: clippings/img/explain/.sources.yaml
+laserfocusworld-microalign-20260319:
+  who: Laser Focus World（MicroAlign 撰文）
+  title: 'Nanometer precision at scale: Active-alignment fiber arrays unlock next-gen photonics'
+  date: '2026-03-19'
+  level: 公司說
+  url: https://www.laserfocusworld.com/optics/article/55363810/nanometer-precision-at-scale-active-alignment-fiber-arrays-unlock-next-gen-photonics
+  clip: clippings/img/media/.sources.yaml
+lightwave-eugenlight-elsfp-20260910:
+  who: Lightwave（光創聯新聞稿轉載）
+  title: Eugenlight Releases High-Power ELSFP Product Series for NPO and CPO Applications
+  date: '2026-09-10'
+  level: 公司說
+  url: https://www.lightwaveonline.com/optical-tech/press-release/55404084/eugenlight-releases-high-power-elsfp-product-series-fornpo-and-cpo-applications
+  clip: clippings/img/media/.sources.yaml
+ozoptics-vgroove-arrays:
+  who: OZ Optics 規格書
+  title: DTS0083 - V-Groove Assemblies
+  date: '2025-11-27'
+  level: 一手
+  url: https://www.ozoptics.com/ALLNEW_PDF/DTS0083.pdf
+  clip: clippings/web/ozoptics-vgroove-fiber-arrays-datasheet-20261011.md
+foci-fa-product:
+  who: 上詮產品頁
+  title: Fiber array / Polarization Maintaining Fiber Array
+  date: 擷取 2026-10-11
+  level: 一手
+  url: https://www.foci.com.tw/en-gb/product/29
+  clip: clippings/img/parts/.sources.yaml
+soitec-fy26-20260527:
+  who: Soitec 新聞稿
+  title: Soitec reports fiscal 2026 full-year results
+  date: '2026-05-27'
+  level: 一手
+  url: https://www.soitec.com/home/group/newsroom/press-releases/content/2026/05/27/soitec-reports-fiscal-2026-full-year-results
+  clip: clippings/web/Soitec官網-FY26全年財報Photonics-SOI-20260527.md
+soitec-fy27q1-20260722:
+  who: Soitec 新聞稿
+  title: Soitec reports first quarter revenue of fiscal year 2027
+  date: '2026-07-22'
+  level: 一手
+  url: https://www.soitec.com/home/group/newsroom/press-releases/content/2026/07/22/soitec-reports-first-quarter-revenue-of-fiscal-year-2027
+  clip: clippings/web/Soitec官網-FY27Q1營收Photonics-SOI翻倍-20260722.md
+gvm-globalwafers-20260831:
+  who: 遠見
+  title: 環球晶搶占矽光子關鍵材料！20年布局SOI，迎來AI新商機
+  date: '2026-08-31'
+  level: 媒體報
+  url: https://www.gvm.com.tw/article/132582
+  clip: clippings/web/遠見-環球晶20年布局SOI矽光子-20260831.md
+gvm-globalwafers-20260902:
+  who: 遠見
+  title: 晶圓不只用來做晶片！徐秀蘭談環球晶先進封裝新角色，今年可望入帳
+  date: '2026-09-02'
+  level: 媒體報
+  url: https://www.gvm.com.tw/article/132788
+  clip: clippings/web/遠見-徐秀蘭12吋SOI做矽光子-20260902.md
+technews-globalwafers-20260804:
+  who: 科技新報
+  title: AI 與先進封裝市場成長帶動環球晶第二季獲利季增近倍，上半年 EPS 達 11.87 元
+  date: '2026-08-04'
+  level: 媒體報
+  url: https://finance.technews.tw/2026/08/04/growth-in-the-ai-and-advanced-packaging-markets-nearly-doubled-globalwafers-second-quarter-profits/
+  clip: clippings/web/科技新報-環球晶Q2獲利聖彼得斯矽光子小量生產-20260804.md
+taipeitimes-globalwafers-20260806:
+  who: Taipei Times
+  title: GlobalWafers forecasts growth
+  date: '2026-08-06'
+  level: 媒體報
+  url: https://www.taipeitimes.com/News/biz/archives/2026/08/06/2003862000
+  clip: clippings/web/TaipeiTimes-環球晶12吋SOI矽光子-20260806.md
+10jqka-hejing-soi-20260614:
+  who: 同花順
+  title: 上海合晶设立SOI合资公司 切入高附加值赛道
+  date: '2026-06-14'
+  level: 媒體報
+  url: https://stock.10jqka.com.cn/20260614/c677446864.shtml
+  clip: clippings/web/同花順-上海合晶SOI合資公司-20260614.md
+jx-inp-20260616:
+  who: JX 金屬新聞稿
+  title: Decision on Capital Investment Policy to Significantly Expand InP Substrate Production Capacity
+  date: '2026-06-16'
+  level: 一手
+  url: https://wwwcdn.furuchi.co.jp/english/newsrelease/fy2026/20260616_02.html
+  clip: clippings/web/JX金屬官網-InP基板投資最高1200億日圓-20260616.md
+technews-sumitomo-inp-20260703:
+  who: 科技新報
+  title: 住友電工擬砸 180 億日圓擴產 InP 基板、產能目標增至 3.1 倍
+  date: '2026-07-03'
+  level: 媒體報
+  url: https://technews.tw/2026/07/03/sumitomo-electric-industries-raised-inp-capex/
+  clip: clippings/web/科技新報-住友電工InP基板擴產3.1倍-20260703.md
+sec-axt-8k-20260730:
+  who: AXT 財報新聞稿（SEC 8-K）
+  title: AXT, Inc. second quarter 2026 results
+  date: '2026-07-30'
+  level: 一手
+  url: https://www.sec.gov/Archives/edgar/data/0001051627/000143774926025061/ex_974537.htm
+  clip: clippings/web/SEC-AXT-8K-2026Q2財報新聞稿-20260730.md
+cru-preform-20260226:
+  who: CRU
+  title: Optical fibre prices rise as preform availability tightens
+  date: '2026-02-26'
+  level: 第三方
+  url: https://www.crugroup.com/en/communities/thought-leadership/2026/optical-fibre-prices-rise-as-preform-availability-tightens/
+  clip: clippings/web/CRU-光纖預製棒吃緊價格上漲-20260226.md
+focuslight-infostone-20260116:
+  who: 炬光科技官網
+  title: Focuslight's Engineered V-Groove Array Wins Innovative Technology Award at the Infostone Awards
+  date: '2026-01-16'
+  level: 公司說
+  url: https://www.focuslight.com/news-events/newslist/focuslights-engineered-v-groove-array-wins-innovative-technology-award-at-the-infostone-awards/
+  clip: clippings/web/炬光官網-V槽陣列Infostone獎-20260116.md
+focuslight-cfcf-20260630:
+  who: 炬光科技官網
+  title: Focuslight Wins 2026 CFCF Annual Product Innovation Award
+  date: '2026-06-30'
+  level: 公司說
+  url: https://focuslight.com/news-events/newslist/focuslight-wins-the-2026-cfcf-annual-product-innovation-award/
+  clip: clippings/web/炬光官網-晶圓級V槽陣列CFCF獎-20260630.md
+usconec-prizm-20260311:
+  who: US Conec、Corning、Fujikura、Sumitomo Electric Lightwave 聯合新聞稿
+  title: 'Joint press release: PRIZM TMT ferrule and MMC component licensing'
+  date: '2026-03-11'
+  level: 一手
+  url: https://www.usconec.com/media/h4zopm3k/us-conec-corning-fujikura-and-sumitomo-electric-joint-press-release_3-11-2026_final.pdf
+  clip: clippings/web/USConec-Corning-Fujikura-Sumitomo-PRIZM-TMT聯合新聞稿-20260311.md
+senko-snmt-elsfp-20251203:
+  who: Senko
+  title: 'SN-MT: The Enabler of ELSFP in High Density Faceplate'
+  date: '2025-12-03'
+  level: 公司說
+  url: https://www.senko.com/sn-mt-the-enabler-of-elsfp-in-high-density-faceplate/
+  clip: clippings/web/Senko官網-SN-MT高密度面板ELSFP-20251203.md
+senko-elsfp-host:
+  who: Senko 產品頁
+  title: ELSFP Host Connector
+  date: 擷取 2026-10-11
+  level: 一手
+  url: https://www.senko.com/product/elsfp-host-connector/
+  clip: clippings/web/Senko官網-ELSFP-Host連接器產品頁-20261011.md
+coherent-ecoc2026-20260920:
+  who: Coherent 新聞稿
+  title: Coherent Showcases Optical Innovations to Scale AI Infrastructure at ECOC 2026
+  date: '2026-09-20'
+  level: 公司說
+  url: https://finviz.com/news/393656/coherent-showcases-optical-innovations-to-scale-ai-infrastructure-at-ecoc-2026
+  clip: clippings/web/coherent-pr-ecoc2026-20260920.md
+cnyes-browave-20260621:
+  who: 鉅亨網
+  title: 波若威：CPO產品H2量產出貨 光被動元件三大產品應用拚發光
+  date: '2026-06-21'
+  level: 媒體報
+  url: https://news.cnyes.com/news/id/6506253
+  clip: clippings/web/鉅亨網-波若威-股東會CPO產品H2量產出貨-20260621.md
+ctee-browave-shufflebox-20260309:
+  who: 工商時報
+  title: 輝達CPO路線圖揭密 除了台積電 矽品、波若威也卡到位
+  date: '2026-03-09'
+  level: 媒體報
+  url: https://www.ctee.com.tw/news/20260309700069-430502
+  clip: clippings/web/工商時報-波若威ShuffleBox驗證完成今年量產-20260309.md
+udn-browave-foreign-20260818:
+  who: 經濟日報
+  title: 外資看好光通訊加速推進 CPO、NPO 同步成長
+  date: '2026-08-18'
+  level: 第三方
+  url: https://money.udn.com/money/story/5607/9698744
+  clip: clippings/web/經濟日報-波若威ShuffleBox五成份額-20260818.md
+ctee-browave-gf-20261001:
+  who: 工商時報
+  title: 輝達CPO進度超前！2027年出貨拚10萬台 外資按讚波若威、貿聯-KY
+  date: '2026-10-01'
+  level: 第三方
+  url: https://www.ctee.com.tw/news/20261001700239-439901
+  clip: clippings/web/工商時報-波若威-廣發證券看好shufflebox-20261001.md
+wantrich-jentech-20260408:
+  who: 旺得富理財網
+  title: 《電零組》健策3月營收登頂
+  date: '2026-04-08'
+  level: 媒體報
+  url: https://wantrich.chinatimes.com/news/20260408900160-420101
+  clip: clippings/web/旺得富-健策CPO交換器機構件-20260408.md
+semitoday-jx-20260617:
+  who: Semiconductor Today
+  title: JX expanding InP substrate production capacity again to meet data-center optical communications demand
+  date: '2026-06-17'
+  level: 媒體報
+  url: https://semiconductor-today.com/news_items/2026/jun/jx-170626.shtml
+  clip: clippings/web/SemiconductorToday-JX金屬InP投資1200億日圓-20260617.md
+tomshardware-fiber-20260516:
+  who: Tom's Hardware
+  title: AI data centers require 36 times more fiber than designs with standard servers — severe glass shortages push cable…
+  date: '2026-05-16'
+  level: 媒體報
+  url: https://tomshardware.com/tech-industry/ai-data-centers-are-consuming-fiber-optic-cable-faster-than-suppliers-can-make-it
+  clip: clippings/web/TomsHardware-AI資料中心光纖供不應求-20260516.md
+udn-fiber-price-20260419:
+  who: 聯合報
+  title: AI帶動需求 大陸光纖市場量價齊升 價格最高飆升650%
+  date: '2026-04-19'
+  level: 媒體報
+  url: https://udn.com/news/story/7333/9450654
+  clip: clippings/web/聯合報-大陸光纖量價齊升650-20260419.md
+mt-oesolutions-20260508:
+  who: 머니투데이
+  title: '"800G 넘어 1.6T·CPO까지"… 오이솔루션, AI 데이터센터 핵심 3년 로드맵 공개'
+  date: '2026-05-08'
+  level: 媒體報
+  url: https://www.mt.co.kr/stock/2026/05/08/2026050814134942456
+  clip: clippings/web/머니투데이-오이솔루션1.6T-CPO三年路線圖-20260508.md
+etnews-oesolutions-20260506:
+  who: 電子新聞（經 Daum）
+  title: 오이솔루션, 'AI EXPO 2026'에 차세대 AI 데이터센터 핵심 부품 기술 총집결
+  date: '2026-05-06'
+  level: 媒體報
+  url: https://v.daum.net/v/pSBByZPKE9
+  clip: clippings/web/다음뉴스-오이솔루션AIEXPO2026-ELSFP-20260506.md
+etnews-oe-cto-20260825:
+  who: 電子新聞
+  title: '[테크데이, 빛으로 通한다]오이솔루션 "CPO 고출력 레이저, InP 광원 확보 필수"'
+  date: '2026-08-25'
+  level: 媒體報
+  url: https://www.etnews.com/20260825000203
+  clip: clippings/web/電子新聞-OE-Solutions-CPO高功率雷射-20260825.md
+financescope-postech-20260910:
+  who: 파이낸스스코프
+  title: 알파칩스 관계사 포스텍, 차세대 AI 반도체 핵심 'CPO' 부품 양산 본격화
+  date: '2026-09-10'
+  level: 媒體報
+  url: https://www.finance-scope.com/article/view/scp202609100011
+  clip: clippings/web/파이낸스스코프-포스텍CPO用FAU可拆式-20260910.md
+finmind-browave-3163:
+  who: 公開資訊觀測站資料（經 FinMind 公開 API 取得）
+  title: 波若威（3163）月營收與季損益，2024-01 起
+  date: '2026-10-09'
+  level: 一手
+  url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockMonthRevenue&data_id=3163&start_date=2024-01-01
+  clip: clippings/data/browave-3163-月營收.csv
+technews-browave-20260824:
+  who: 科技新報（MoneyDJ 稿）
+  title: 受惠輝達 CPO 需求，波若威 Shuffle Box Q4 拼放量
+  date: '2026-08-24'
+  level: 媒體報
+  url: https://technews.tw/2026/08/24/browave-shuffle-box-set-to-ramp-up-in-q4/
+  clip: clippings/web/科技新報-波若威-ShuffleBox-Q4拼放量-20260824.md
+poet-lumilens-20260514:
+  who: POET Technologies 新聞稿
+  title: POET Technologies and Lumilens Advance Wafer-Level Photonic Integration for Next-Generation AI Optical Networks
+  date: '2026-05-14'
+  level: 一手
+  url: https://www.poet-technologies.com/news/poet-technologies-and-lumilens-advance-wafer-level-photonic-integration-for-next-generation-ai-optical-networks
+  clip: clippings/web/poet-pr-lumilens-supply-agreement-20260514.md
+lightmatter-m1000-page:
+  who: Lightmatter 產品頁
+  title: Passage M1000
+  date: 擷取 2026-10-11（圖上傳 2025-03）
+  level: 一手
+  url: https://lightmatter.co/products/m1000/
+  clip: clippings/img/vendor/lightmatter-passage-m1000-module3-20261011-03.webp
+ayarlabs-teraphy-page:
+  who: Ayar Labs 產品頁
+  title: TeraPHY optical I/O chiplet
+  date: 擷取 2026-10-11（圖上傳 2025-03）
+  level: 一手
+  url: https://ayarlabs.com/teraphy/
+  clip: clippings/img/vendor/ayarlabs-teraphy-optical-io-chiplet-20261011-01.webp
+coherent-inp-blog-20241209:
+  who: Coherent 部落格
+  title: 6” InP capability bringing unprecedented scale to Photonics
+  date: '2024-12-09'
+  level: 一手
+  url: https://www.coherent.com/news/blog/indium-phosphide-wafer-fab
+  clip: clippings/img/vendor/coherent-6inch-inp-wafers-20241209-01.jpg
+commons-inp-wafer:
+  who: Wikimedia Commons（JonathanMarks，CC BY-SA 4.0）
+  title: InP Multi-Project Wafer
+  date: '2017-03-16'
+  level: 一手
+  url: https://commons.wikimedia.org/wiki/File:InP_Mult-Project_Wafer.jpg
+  clip: clippings/img/explain/commons-inp-multi-project-wafer.jpg
+commons-preform:
+  who: Wikimedia Commons（AndreyTheSparrow，CC BY 4.0）
+  title: At the edge of optical fiber preform
+  date: '2021-02-16'
+  level: 一手
+  url: https://commons.wikimedia.org/wiki/File:At_the_edge_of_optical_fiber_preform_1.jpg
+  clip: clippings/img/explain/commons-silica-fiber-preform-in-hand.jpg
+bfh-draw-tower-20220518:
+  who: 伯恩應用科技大學（BFH）新聞稿
+  title: 'From Bern to Biel: the draw tower for optical glass fibres has moved'
+  date: '2022-05-18'
+  level: 一手
+  url: https://www.bfh.ch/ti/en/news/press-releases/2022/glasfaser-ziehturm-bfh/
+  clip: clippings/img/explain/bfh-fiber-draw-tower-furnace-glass-drop-20220518.jpg
+orbray-fau-img:
+  who: Orbray 產品頁
+  title: Fiber Array Unit (FAU)
+  date: 擷取 2026-10-11
+  level: 一手
+  url: https://orbray.com/en/product/optical/device/images/02-04-01-01.png
+  clip: clippings/img/parts/orbray-fau-02-04-01-01-20261011.png
+technews-junying-20260920:
+  who: 科技新報
+  title: CPO 產品結構持續演進，均英精密 FAU 客製檢測從抽樣導入量產測試
+  date: '2026-09-20'
+  level: 媒體報
+  url: https://technews.tw/2026/09/20/gen-precision-brings-custom-fau-testing-into-mass-production-testing/
+  clip: clippings/web/TechNews-均英FAU客製檢測-20260920.md
+trendforce-semco-lg-20260420:
+  who: TrendForce
+  title: Samsung Electro-Mechanics and LG Innotek Step Up CPO Push, Reportedly Testing Substrate Component Samples
+  date: '2026-04-20'
+  level: 媒體報
+  url: https://www.trendforce.com/news/?p=56246
+  clip: clippings/web/TrendForce-三星電機LG伊諾特CPO載板樣品-20260420.md
+uspto-2026-collection:
+  who: USPTO Patent Public Search（本批自行檢索）
+  title: 2026-01-01～2026-10-08 美國公開／公告案，申請人或受讓人欄位加光纖耦合、光引擎、CPO 關鍵字；收 88 件，每件存一張代表圖
+  date: '2026-10-10'
+  level: 一手
+  url: https://ppubs.uspto.gov/
+  clip: clippings/_recon/failed-patents.md
+us20260177761a1:
+  who: Lightmatter 專利 US20260177761A1
+  title: SIDE OPTICAL COUPLERS FOR ADVANCED PACKAGE ARCHITECTURES
+  date: '2026-06-25'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260177761
+  clip: clippings/web/patent-US20260177761A1.md
+us20260276918a1:
+  who: Corning 專利 US20260276918A1
+  title: ALIGNMENT AND HOLDING MECHANISMS FOR HOLDING A FIBER ACCESS UNIT (FAU) IN A RECEPTACLE FOR CO-PACKAGED OPTICS
+  date: '2026-09-17'
+  level: 一手
+  url: https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20260276918
+  clip: clippings/web/patent-US20260276918A1.md
+corning-glassbridge-page:
+  who: Corning 產品頁
+  title: GlassBridge™ Fiber-to-PIC Connector Technology
+  date: 擷取 2026-10-11
+  level: 一手
+  url: https://www.corning.com/oem-solutions/worldwide/en/home/products-solutions/optical-communication-components/next-generation-optics/glassbridge-connector.html
+  clip: clippings/img/vendor/.sources.yaml
+thelec-glassbridge-20260630:
+  who: THE ELEC
+  title: Corning Highlights Glass Bridge for CPO and Glass-Core Packaging
+  date: '2026-06-30'
+  level: 媒體報
+  url: https://www.thelec.net/news/articleView.html?idxno=11620
+  clip: clippings/web/THEELEC-Corning-GlassBridge-CPO-20260630.md
+wealth-largan-q2-20260709:
+  who: 財訊
+  title: 康寧GlassBridge掀巨浪？林恩平三大關鍵破解FAU被取代疑慮 大立光矽光子產線明年中正式放量
+  date: '2026-07-09'
+  level: 媒體報
+  url: https://www.wealth.com.tw/articles/1eef55c8-bb7e-4141-ba09-035de8bd500e
+  clip: clippings/web/財訊-Q2法說康寧GlassBridge與FAU-20260709.md
+mdpi-mi15-01211:
+  who: Micromachines（MDPI）15(10):1211
+  title: Progress in Research on Co-Packaged Optics（Figure 10 轉載 Corning 2023 年的圖）
+  date: '2024-09-29'
+  level: 一手
+  url: https://doi.org/10.3390/mi15101211
+  clip: clippings/img/papers/.sources.yaml
+optics-org-cealeti-20251119:
+  who: optics.org
+  title: CEA-Leti, Avicena and Microsoft target AI interconnects with microLEDs
+  date: '2025-11-19'
+  level: 媒體報
+  url: https://www.optics.org/news/cea-leti-avicena-and-microsoft-target-ai-interconnects-with-microleds
+  clip: clippings/img/media/.sources.yaml
+bnext-ennostar-microled-20260701:
+  who: 數位時代
+  title: 台灣光電廠組隊搶AI資料中心CPO商機，誰能串起Micro LED完整方案？
+  date: '2026-07-01'
+  level: 媒體報
+  url: https://www.bnext.com.tw/article/90985/micro-led-cpo-taiwan-supply-chain
+  clip: clippings/img/media/.sources.yaml
+semitoday-avicena-20260917:
+  who: Semiconductor Today
+  title: Avicena to demo first connectorized micro-LED optical interconnect
+  date: '2026-09-17'
+  level: 媒體報
+  url: https://www.semiconductor-today.com/news_items/2026/sep/avicena-170926.shtml
+  clip: clippings/web/semitoday-avicena-ecoc2026-20260917.md
+lfw-yole-microled-20261006:
+  who: Laser Focus World（Yole Group 撰文）
+  title: 'From pixels to optical links: MicroLEDs pivot to copackaged optics'
+  date: '2026-10-06'
+  level: 第三方
+  url: https://www.laserfocusworld.com/optics/article/55409336/yole-group-from-pixels-to-optical-links-microleds-pivot-to-copackaged-optics
+  clip: clippings/web/laserfocusworld-yole-microled-cpo-20261010.md
